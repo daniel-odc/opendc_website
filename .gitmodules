@@ -1,0 +1,3 @@
+[submodule "open-dc/themes/hero"]
+	path = open-dc/themes/hero
+	url = https://github.com/JugglerX/hugo-hero-theme.git
