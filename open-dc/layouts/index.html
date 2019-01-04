@@ -4,39 +4,47 @@
 {{ define "header_classes" }}header-transparent{{ end }}
 
 {{ define "meta_tags" }}
-<meta name="description" content="Hero is a multipurpose Hugo theme with fullscreen hero images and fullwidth sections. It contains content types for a business or portfolio site."/>
+<meta name="description" content="xxx"/>
 <meta property="og:title" content="Hugo Hero Theme" /> 
 <meta property="og:type" content="website" />
-<meta property="og:url" content="https://hugo-hero.netlify.com" />
-<meta property="og:image" content="https://hugo-hero.netlify.com/screenshots/tn.png" />
-<meta property="og:description" content="Hero is a multipurpose Hugo theme with fullscreen hero images and fullwidth sections. It contains content types for a business or portfolio site."/>
-<meta name="twitter:card" content="summary" />
-<meta name="twitter:site" content="@zerostaticio" />
-<meta name="twitter:creator" content="@zerostaticio" />
+<meta property="og:url" content="www.open-dc.com" />
+<!-- <meta property="og:image" content="https://hugo-hero.netlify.com/screenshots/tn.png" /> -->
+<meta property="og:description" content="xxx"/>
+<!-- <meta name="twitter:card" content="summary" /> -->
+<!-- <meta name="twitter:site" content="@zerostaticio" /> -->
+<!-- <meta name="twitter:creator" content="@zerostaticio" /> -->
 {{ end }}
 
 {{ define "main" }}
 
 {{ partial "hero-image-fullscreen.html" (dict "background" "images/jason-blackeye-1191801-unsplash.jpg" "heading" "Hero - Hugo Small Business Theme" "subheading" "Hero is a multipurpose Hugo theme with fullscreen hero images and fullwidth sections. It contains content types for a business or portfolio site."  "content" .)}}
 
+<!-- ------------------------------------------------------------------------------------------------- 	-->
+<!-- 									SECTION OUR PURPOSE 											-->
+<!-- ------------------------------------------------------------------------------------------------- 	-->
+
 <div id="home" class="strip bg-cover bg-position-top bg-overlay pt-17 pb-17" style="background-image: url('{{ .Site.BaseURL }}images/kevin-bhagat-461952-unsplash.jpg');">
   <div class="container">
     <div class="row">
       <div class="col-12 col-md-6 offset-md-6">
-        <h2 class="text-primary text-capitalize">We Help Business Grow</h2>
-        <p>Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. Numquam dolores mel eu, mea docendi omittantur et, mea ea duis erat. Elit melius cu ius. Per ex novum tantas putant, ei his nullam aliquam apeirian. Aeterno quaestio constituto sea an, no eum intellegat assueverit. </p>
+        <h2 class="text-primary text-capitalize">We Help Business make the best use of the open data</h2>
+        <p>OpenDC helps businesses and public bodies find open data that can help them get new insights, be more efficient or develop new products. We help find, download, store, analyse and visualise the data. We use open source tools and can provide our client with the source code and tools developed to deliver our product.</p>
         <a class="button" href="{{ .Site.BaseURL }}work">Our Work</a>
       </div>
     </div>
   </div>
 </div>
 
+<!-- ------------------------------------------------------------------------------------------------- 	-->
+<!-- 									SECTION OUR SERVICES 											-->
+<!-- ------------------------------------------------------------------------------------------------- 	-->
+
 {{ $services := where (where .Site.RegularPages "Type" "services") ".Params.featured" true }}
 {{if gt (len $services) 0}}
 <div class="container pt-8 pb-8 pb-md-12 pt-md-12">
   <div class="row justify-content-start">
     <div class="col-12">
-      <h2 class="text-center mb-3">Our Services</h2>
+      <h2 class="text-center mb-3">OpenDC Services</h2>
     </div>
     {{ range first 6 (sort $services ".Params.weight") }}
     <div class="col-12 col-md-4 mb-1">
@@ -50,17 +58,21 @@
 </div>
 {{end}}
 
-<div id="home" class="strip strip-primary">
-  <div class="container pt-8 pb-8 pb-md-12 pt-md-12">
-    <div class="row justify-content-center">
-      <div class="col-12 col-md-8 text-center text-white">
-          <h2>Our Difference!</h2>
-          <p>Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. ipsum dolor sit amet, et essent mediocritatem quo, </p>
-          <a class="button button-white" href="{{ .Site.BaseURL }}about">About Us</a>
-      </div>
-    </div>
-  </div>
-</div>
+<!-- ------------------------------------------------------------------------------------------------- 	-->
+<!-- 									SECTION OUR DIFFERENCE 											-->
+<!-- ------------------------------------------------------------------------------------------------- 	-->
+
+<!-- <div id="home" class="strip strip-primary"> -->
+  <!-- <div class="container pt-8 pb-8 pb-md-12 pt-md-12"> -->
+    <!-- <div class="row justify-content-center"> -->
+      <!-- <div class="col-12 col-md-8 text-center text-white"> -->
+          <!-- <h2>Our Difference!</h2> -->
+          <!-- <p>Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. ipsum dolor sit amet, et essent mediocritatem quo, </p> -->
+          <!-- <a class="button button-white" href="{{ .Site.BaseURL }}about">About Us</a> -->
+      <!-- </div> -->
+    <!-- </div> -->
+  <!-- </div> -->
+<!-- </div> -->
 {{ end }}
 
 {{ define "footer_js" }}
