@@ -25,3 +25,19 @@ theme = "hero"
     name = "Contact"
     url = "/contact/"
     weight = 4
+	
+[languages]
+  [languages.en]
+    contentDir = "content/english"
+	title = "OpenDC UK"
+    weight = 1    
+  [languages.fr]
+	contentDir = "content/french"
+    title = "OpenDC France"
+    weight = 2
+  [languages.pt]
+	contentDir = "content/portuguese"
+    title = "OpenDC Portugal"
+    weight = 3
+
+disableLanguages = ["pt"]    
