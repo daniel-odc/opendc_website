@@ -1,0 +1,27 @@
+[home_page_title]
+other = "OpenDC - Open Data Consultants"
+
+[home_page_description]
+other = "OpenDC is a start-up specialised in data analysis and mobility studies. \
+			OpenDC mainly works with open data sets and open source languages."
+
+[odc_description_title]
+other = "OpenDC is a start-up specialised in data analysis and mobility studies."
+
+[odc_description_details]
+other = "OpenDC helps businesses and public bodies find open data that can help them get new insights, be more efficient or develop new products. \
+			We help find, download, store, analyse and visualise the data. \
+			We use open source tools and can provide our client with the source code and tools developed to deliver our product. \
+			OpenDC has an extensive experience in the analysis of mobility data such as mobility survey data, GPS and mobile phone data but is not limited to it."
+
+[our_work]
+other = "Our work"
+			
+[services_title]
+other = "OpenDC services that help your business unlock new insights."
+			
+[services_intro]
+other = "This is the original english intro for services"
+
+[service01_intro]
+other = "OpenDC does GPS data analysis."
