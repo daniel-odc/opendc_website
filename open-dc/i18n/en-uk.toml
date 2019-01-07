@@ -1,0 +1,5 @@
+[service_intro]
+other = "This is the original english intro for services"
+
+[service1]
+other = "Service 1 ODC in ENGLISH"

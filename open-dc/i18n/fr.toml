@@ -1,0 +1,5 @@
+[service_intro]
+other = "Ceci est une traduction de l'anglais pour l'intro surles services"
+
+[service1]
+other = "Service 1 ODC"

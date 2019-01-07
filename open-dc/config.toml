@@ -1,43 +1,174 @@
 baseURL = "www.open-dc.com"
 languageCode = "en-uk"
-title = "OpenDC v0.2"
+title = "OpenDC Ltd"
+defaultContentLanguage = "en"
+# defaultContentLanguageInSubdir = true
 theme = "hero"
 
 [params]
+	AuthorName = "Daniel Marin"
     google_analytics_id=""
 
-[[menu.main]]
-	name = "Services"
-	url = "/services/"
-    weight = 1
+# [[menu.main]]
+	# name = "Services"
+	# url = "/services/"
+    # weight = 1
 
-[[menu.main]]
-    name = "Work"
-    url = "/work/"
-    weight = 2
+# [[menu.main]]
+    # name = "Work"
+    # url = "/work/"
+    # weight = 2
 
-[[menu.main]]
-    name = "About"
-    url = "/about/"
-    weight = 3
+# [[menu.main]]
+    # name = "About"
+    # url = "/about/"
+    # weight = 3
 
-[[menu.main]]
-    name = "Contact"
-    url = "/contact/"
-    weight = 4
+# [[menu.main]]
+    # name = "Contact"
+    # url = "/contact/"
+    # weight = 4
 	
-[languages]
-  [languages.en]
-    contentDir = "content/english"
-	title = "OpenDC UK"
-    weight = 1    
-  [languages.fr]
-	contentDir = "content/french"
-    title = "OpenDC France"
-    weight = 2
-  [languages.pt]
-	contentDir = "content/portuguese"
-    title = "OpenDC Portugal"
-    weight = 3
+# [[menu.main]]
+    # name = "Language"
+    # url = "home"
+    # weight = 5	
+	# hasChildren = true
+		##English
+		# [[Languages.en.menu.main]]
+		# parent = "En"
+		# name = "Engligh"
+		# URL = "/en"
+		# weight = 1
+		##French
+		# [[Languages.en.menu.main]]
+		# parent = "En"
+		# name = "French"
+		# URL = "/fr"
+		# weight = 2
+				
 
-disableLanguages = ["pt"]    
+# [[menu.main]]
+    # name = "En"
+    # url = "/en/"
+    # weight = 5
+
+# [[menu.main]]
+    # name = "Fr"
+	##image = "images/flag_france.svg"
+    # url = "/fr/"
+    # weight = 6
+
+#################################################################
+# LANGUAGES
+#################################################################	
+[languages]
+	# English -----------------------------------------------------
+	[languages.en]
+		languageName = "En"
+		weight = 1    
+		languageCode = "en-uk"
+		contentDir = "content/en"
+		title = "Doc List" #"OpenDC UK" #???
+		home = "home"
+		# logo = "Dot"
+		
+		# Navigation
+		[Languages.en.menu]
+			# Services
+    		[[Languages.en.menu.main]]
+			weight = 1
+			name = "services"
+			url = "/en/services/"
+			# Work
+    		[[Languages.en.menu.main]]
+			weight = 2
+			name = "work"
+			url = "/en/work/"
+			# About
+			[[Languages.en.menu.main]]
+			weight = 3
+			name = "about"
+			url = "/en/about/"
+			# Contact
+			[[Languages.en.menu.main]]
+			weight = 4
+			name = "contact"
+			url = "/en/contact/"
+			# Language ****************
+			[[Languages.en.menu.main]]
+			weight = 5
+			name = "language"
+			url = "/en/about/"
+			hasChildren = true
+				# English
+				[[Languages.en.menu.main]]
+				parent = "language"
+				name = "En"
+				URL = "/en/about/"
+				weight = 1
+				# French
+				[[Languages.en.menu.main]]
+				parent = "language"
+				name = "Fr"
+				URL = "/fr/about/"
+				weight = 2
+			# [[Languages.en.menu.main]]
+			# weight = 5
+			# name = "En"
+			# url = "/en/about"
+			# [[Languages.en.menu.main]]
+			# weight = 6
+			# name = "Fr"
+			# url = "/fr/about"
+				
+	# French -----------------------------------------------------
+	[languages.fr]
+		languageName = "Fr"
+		weight = 1    
+		languageCode = "fr"
+		contentDir = "content/fr"
+		title = "Doc List" #"OpenDC UK" #???
+		home = "services"
+		# logo = "Dot"
+		
+		# Navigation
+		[Languages.fr.menu]
+			# Services
+    		[[Languages.fr.menu.main]]
+			weight = 1
+			name = "services"
+			url = "/fr/services/"
+			# Work
+    		[[Languages.fr.menu.main]]
+			weight = 2
+			name = "work"
+			url = "/fr/work/"
+			# About
+			[[Languages.fr.menu.main]]
+			weight = 3
+			name = "about"
+			url = "/fr/about/"
+			# Contact
+			[[Languages.fr.menu.main]]
+			weight = 4
+			name = "contact"
+			url = "/fr/contact/"
+			# Language ****************
+			[[Languages.fr.menu.main]]
+			weight = 5
+			name = "En"
+			url = "/english/about/"
+			[[Languages.fr.menu.main]]
+			weight = 6
+			name = "Fr"
+			url = "/fr/about/"
+		
+	# Portuguese
+	# [languages.pt]
+		# languageName = "Pt"
+		# contentDir = "content/portuguese"
+		# title = "OpenDC Portugal"
+		# weight = 3
+
+# disableLanguages = ["pt"]    

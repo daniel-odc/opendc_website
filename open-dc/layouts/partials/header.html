@@ -1,11 +1,15 @@
 <div class='header'>
   <div class="container">
-    <div class="logo">
+	<div class="logo">
+	  <a href="{{ .Site.BaseURL }}"><img alt="Figurit Homepage" src="{{ .Site.BaseURL }}images/logo_opendc_blue_plain_svg.svg" /></a>
+	</div>
+	<div class="logo-mobile">
       <a href="{{ .Site.BaseURL }}"><img alt="Figurit Homepage" src="{{ .Site.BaseURL }}images/logo_opendc_blue_plain_svg.svg" /></a>
     </div>
-    <div class="logo-mobile">
-      <a href="{{ .Site.BaseURL }}"><img alt="Figurit Homepage" src="{{ .Site.BaseURL }}images/logo-mobile.svg" /></a>
-    </div>
+	<!-- <!-- Flag countries --> 
+	<!-- <div class="logo"> -->
+	  <!-- <a href="{{ .Site.BaseURL }}"><img alt="Figurit Homepage" src="{{ .Site.BaseURL }}images/flag_uk.svg" /></a> -->
+	<!-- </div>     -->
     {{ partial "main-menu.html" . }}
     {{ partial "hamburger.html" . }}
   </div>
