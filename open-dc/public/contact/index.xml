@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Contact on OpenDC v0.2</title>
-    <link>/contact/</link>
-    <description>Recent content in Contact on OpenDC v0.2</description>
+    <title>Contact on OpenDC Ltd - UK</title>
+    <link>c:///Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public/contact/</link>
+    <description>Recent content in Contact on OpenDC Ltd - UK</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <lastBuildDate>Thu, 22 Feb 2018 17:01:34 +0700</lastBuildDate>
     
-	<atom:link href="/contact/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="c:///Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public/contact/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

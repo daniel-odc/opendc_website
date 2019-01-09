@@ -1,0 +1,119 @@
+{{ define "title" }}OpenDC Ltd{{ end}}
+{{ define "header_css" }}{{ end }}
+{{ define "body_classes" }}page-home{{ end }}
+{{ define "header_classes" }}header-transparent{{ end }}
+
+{{ define "meta_tags" }}
+<!-- ------------------------------------------------------------------------------------------------- 	-->
+<!-- 									GOOGLE ANALYTICS			 										-->
+<!-- ------------------------------------------------------------------------------------------------- 	-->
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-132053500-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-132053500-1');
+</script>
+<!-- ------------------------------------------------------------------------------------------------- 	-->
+<!-- 									SECTION INTRO			 										-->
+<!-- ------------------------------------------------------------------------------------------------- 	-->
+<meta name="description" content="xxx"/>
+<meta property="og:title" content="Hugo Hero Theme" /> 
+<meta property="og:type" content="website" />
+<meta property="og:url" content="www.open-dc.com" />
+<!-- <meta property="og:image" content="https://hugo-hero.netlify.com/screenshots/tn.png" /> -->
+<meta property="og:description" content="xxx"/>
+<!-- <meta name="twitter:card" content="summary" /> -->
+<!-- <meta name="twitter:site" content="@zerostaticio" /> -->
+<!-- <meta name="twitter:creator" content="@zerostaticio" /> -->
+{{ end }}
+
+{{ define "main" }}
+<!-- test -->
+<p>LANGUE: {{.Site.Language.Lang}}</p>
+<!-- end test -->
+
+{{ if eq .Site.Language.Lang "en" }}
+	{{ partial "hero-image-fullscreen.html" (dict "background" "images/jason-blackeye-1191801-unsplash.jpg" "heading" "OpenDC - Open Data Consultants" "subheading" "OpenDC is a start-up specialised in data analysis and mobility studies. OpenDC mainly works with open data sets and open source languages."  "content" .)}}
+{{end}}
+	
+{{ if eq .Site.Language.Lang "fr" }}
+	{{ partial "hero-image-fullscreen.html" (dict "background" "images/jason-blackeye-1191801-unsplash.jpg" "heading" "OpenDC - Open Data Consultants" "subheading" "OpenDC est une Start-Up spécialisée en analyse de données et études de mobilité. OpenDC travaille essentiellement avec des jeux de données ouvertes et des logiciels et langages de programmation open-source."  "content" .)}}
+{{end}}
+
+<!-- ------------------------------------------------------------------------------------------------- 	-->
+<!-- 									SECTION FULL DESCRIPTION - Ok 										-->
+<!-- ------------------------------------------------------------------------------------------------- 	-->
+
+<div id="home" class="strip bg-cover bg-position-top bg-overlay pt-17 pb-17" style="background-image: url('{{ .Site.BaseURL }}images/kevin-bhagat-461952-unsplash.jpg');">
+  <div class="container">
+    <div class="row">
+      <div class="col-12 col-md-6 offset-md-6">
+        <!-- <h2 class="text-primary text-capitalize">We Help Business make the best use of the open data</h2> -->
+		<h2 class="text-primary autocapitalize=off">{{i18n "odc_description_title"}}</h2>
+        <!-- <p>OpenDC helps businesses and public bodies find open data that can help them get new insights, be more efficient or develop new products.</p> -->
+		<!-- <p>We help find, download, store, analyse and visualise the data. We use open source tools and can provide our client with the source code and tools developed to deliver our product.</p> -->
+		<!-- <p>OpenDC has an extensive experience in the analysis of mobility data such as mobility survey data, GPS and mobile phone data but is not limited to it.</p> -->
+		<p>{{i18n "odc_description_details"}}</p>
+        <a class="button" href="{{ .Site.BaseURL }}work">{{i18n "our_work"}}</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- ------------------------------------------------------------------------------------------------- 	-->
+<!-- 									SECTION OUR SERVICES - MISSING FROM SITE???											-->
+<!-- ------------------------------------------------------------------------------------------------- 	-->
+
+<!-- {{ $services := where (where .Site.RegularPages "Type" "services") ".Params.featured" true }} -->
+<!-- {{ $services := where (where .Site.RegularPages "Type" "services") ".Params.featured" true }} -->
+{{ $services := where (where (where .Site.RegularPages "Type" "services") ".Params.featured" true) ".Params.lang" .Site.Language.Lang }}
+{{if gt (len $services) 0}}
+<div class="container pt-8 pb-8 pb-md-12 pt-md-12">
+  <div class="row justify-content-start">
+    <div class="col-12">
+      <h2 class="text-center mb-3">OpenDC Services</h2>
+    </div>
+    {{ range first 6 (sort $services ".Params.weight") }}
+    <div class="col-12 col-md-4 mb-1">
+      {{ .Render "summary" }}
+    </div>
+    {{ end }}
+    <div class="col-12 text-center">
+      <!-- <a class="button button-primary" href="{{ .Site.BaseURL }}services">View All Services</a> -->
+	  <a class="button button-primary" href="{{ .Site.BaseURL }}/{{.Site.Language.Lang}}/services">View All Services</a>
+    </div>
+  </div>
+</div>
+{{else}}
+<p>Services not found! in </p>
+<p>{{.Site.Language.Lang}}/services</p>
+<ul class="section-one-and-two-pages">
+{{ range .Site.RegularPages.ByPublishDate.Reverse }}
+    <li>{{.Path}}</li>    
+{{ end }}
+</ul>
+{{end}}
+
+
+<!-- ------------------------------------------------------------------------------------------------- 	-->
+<!-- 									SECTION OUR DIFFERENCE 											-->
+<!-- ------------------------------------------------------------------------------------------------- 	-->
+
+<!-- <div id="home" class="strip strip-primary"> -->
+  <!-- <div class="container pt-8 pb-8 pb-md-12 pt-md-12"> -->
+    <!-- <div class="row justify-content-center"> -->
+      <!-- <div class="col-12 col-md-8 text-center text-white"> -->
+          <!-- <h2>Our Difference!</h2> -->
+          <!-- <p>Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. ipsum dolor sit amet, et essent mediocritatem quo, </p> -->
+          <!-- <a class="button button-white" href="{{ .Site.BaseURL }}about">About Us</a> -->
+      <!-- </div> -->
+    <!-- </div> -->
+  <!-- </div> -->
+<!-- </div> -->
+{{ end }}
+
+{{ define "footer_js" }}
+{{ end }}

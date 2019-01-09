@@ -4,6 +4,20 @@
 {{ define "header_classes" }}header-transparent{{ end }}
 
 {{ define "meta_tags" }}
+
+<!-- ------------------------------------------------------------------------------------------------- 	-->
+<!-- 									GOOGLE ANALYTICS			 										-->
+<!-- ------------------------------------------------------------------------------------------------- 	-->
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-132053500-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-132053500-1');
+</script>
+
 <!-- ------------------------------------------------------------------------------------------------- 	-->
 <!-- 									SECTION INTRO			 										-->
 <!-- ------------------------------------------------------------------------------------------------- 	-->
@@ -19,6 +33,9 @@
 {{ end }}
 
 {{ define "main" }}
+<!-- test -->
+<p>LANGUE: {{.Site.Language.Lang}}</p>
+<!-- end test -->
 
 {{ if eq .Site.Language.Lang "en" }}
 	{{ partial "hero-image-fullscreen.html" (dict "background" "images/jason-blackeye-1191801-unsplash.jpg" "heading" "OpenDC - Open Data Consultants" "subheading" "OpenDC is a start-up specialised in data analysis and mobility studies. OpenDC mainly works with open data sets and open source languages."  "content" .)}}
@@ -53,7 +70,8 @@
 <!-- ------------------------------------------------------------------------------------------------- 	-->
 
 <!-- {{ $services := where (where .Site.RegularPages "Type" "services") ".Params.featured" true }} -->
-{{ $services := where (where .Site.RegularPages "Type" "services") ".Params.featured" true }}
+<!-- {{ $services := where (where .Site.RegularPages "Type" "services") ".Params.featured" true }} -->
+{{ $services := where (where (where .Site.RegularPages "Type" "services") ".Params.featured" true) ".Params.lang" .Site.Language.Lang }}
 {{if gt (len $services) 0}}
 <div class="container pt-8 pb-8 pb-md-12 pt-md-12">
   <div class="row justify-content-start">
