@@ -1,0 +1,38 @@
+{{ partial "global-header.html" . }}
+
+<!-- ### Service Start -->
+<section id="service">
+	<div class="container">
+
+		<!-- <!-- ### Original with loop over data/service.yml content -->
+		<!-- <!-- ### Intro -->
+		<div class="row">
+			<div class="section-title">
+			 	<!-- <h2>{{ i18n .Site.Data.service.title }}</h2>  -->
+				<!-- <p>{{ i18n .Site.Data.service.subtitle }}</p> 	 -->
+				<h2>{{ i18n "services_title" }}</h2>
+				<p>{{ i18n "services_subtitle"}}</p>
+			</div>
+		</div>
+		<!-- ### Content -->
+		<div class="row">
+			<!-- ### Content based on data/service.yml SHOULD TRY TO ACCES DATA FROM CONTENT/SERVICES/_INDEX.MD-->			
+			{{ range .Site.Data.service.content }}
+				<div class="col-12 col-sm-4 col-md-4">
+					<div class="service-item">
+						<img src="{{ .icon_path }}" >
+						<a href={{ .url}} ><h4>{{ i18n .name }}</h4></a>
+						<p>{{ i18n .description }}</p>
+					</div>
+				</div>
+			{{ end }}
+		</div>
+
+	</div>
+
+	{{ with .Site.Params.feature.button }}
+	<!-- <a href="{{ .Site.BaseUrl}}{{ .Site.Language.Lang }}services" class="btn btn-main">{{ i18n "services_button" }}</a> -->
+	<a href="{{ .Site.BaseUrl}}services" class="btn btn-main">{{ i18n "services_button" }}</a>
+	{{ end }}
+	   
+</section>

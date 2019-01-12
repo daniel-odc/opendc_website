@@ -1,10 +1,105 @@
+# HOME
+[home_page]
+other = "Home"
+
 [home_page_title]
 other = "OpenDC - Open Data Consultants"
+[home_page_subtitle]
+other = "Data analysis, model development and mobility studies, based on Open Data and Open Source tools and languages."
 
-[home_page_description]
-other = "OpenDC is a start-up specialised in data analysis and mobility studies. \
-			OpenDC mainly works with open data sets and open source languages."
+# GENERIC
+[read_more]
+other = "Read more"			
 
+# ABOUT
+[about_title]
+other = "About us"
+[about_subtitle]
+other = "OpenDC is a start-up specialised in data analysis and mobility studies. OpenDC mainly works with open data sets and open source languages."
+[about_paragraph]
+other = "OpenDC helps businesses and public bodies find open data that can help them get new insights, be more efficient or develop new products. \
+			We help find, download, store, analyse and visualise the data. \
+			We use open source tools and can provide our client with the source code and tools developed to deliver our product. \
+			OpenDC has an extensive experience in the analysis of mobility data such as mobility survey data, GPS and mobile phone data but is not limited to it."
+			
+# WORK
+[work_title]
+other = "Our work"
+[work_subtitle]
+other = "[Section to fill]"
+[work_button]
+other = "View work"
+
+[work_01_title]
+other = "En - Work 1"
+[work_01_subtitle]
+other = "En - Work 1 subtitile"
+[work_01_descr]
+other = "En - Description Work 1."
+
+[work_02_title]
+other = "En - Work 2"
+[work_02_subtitle]
+other = "En - Work 2 subtitile"
+[work_02_descr]
+other = "En - Description Work 2."
+			
+# SERVICES
+[services_title]
+other = "Our services"
+[services_subtitle]
+other = "OpenDC services that help your business unlock new insights."
+
+[services_button]
+other = "View all services"
+
+[service_01_title]
+other = "GPS data"
+[service_01_subtitle]
+other = "OpenDC GPS data."
+[service_01_descr]
+other = "En - Description GPS data."
+
+[service_02_title]
+other = "service 2"
+[service_02_subtitle]
+other = "OpenDC service 2."
+[service_02_descr]
+other = "En - Description service 2."
+
+
+[service_03_title]
+other = "service 3"
+[service_03_subtitle]
+other = "OpenDC  service 3."
+[service_03_descr]
+other = "En - Description service 3."
+
+[service_04_title]
+other = "service 4"
+[service_04_subtitle]
+other = "OpenDC service 4."
+[service_04_descr]
+other = "En - Description service 4."
+
+
+[service_05_title]
+other = "service 5"
+[service_05_subtitle]
+other = "OpenDC service 5."
+[service_05_descr]
+other = "En - Description service 5."
+
+
+[service_06_title]
+other = "service 6"
+[service_06_subtitle]
+other = "OpenDC service 6."
+[service_06_descr]
+other = "En - Description service 6."
+
+
+			
 [odc_description_title]
 other = "OpenDC is a start-up specialised in data analysis and mobility studies."
 
@@ -17,11 +112,3 @@ other = "OpenDC helps businesses and public bodies find open data that can help 
 [our_work]
 other = "Our work"
 			
-[services_title]
-other = "OpenDC services that help your business unlock new insights."
-			
-[services_intro]
-other = "This is the original english intro for services"
-
-[service01_intro]
-other = "OpenDC does GPS data analysis."

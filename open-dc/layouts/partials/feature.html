@@ -1,0 +1,19 @@
+<section id="feature">
+<div class="container">
+  <div class="row">
+    <div class="col-md-6 col-md-offset-6">
+      <!-- <h2 class="text-uppercase">{{ .Site.Params.feature.title }}</h2> -->
+	  <h2 class="text-uppercase">{{ i18n "work_title" }}</h2>
+      <p>
+      	<!-- {{ .Site.Params.feature.content | markdownify }} -->
+		{{ i18n "work_subtitle" | markdownify }}
+      </p>
+      {{ with .Site.Params.feature.button }}
+      	<!-- <a href="{{ .url }}" class="btn btn-main">{{ .caption }}</a> -->
+		<!-- <a href="{{ .url }}" class="btn btn-main">{{ i18n "work_button" }}</a> -->
+		<a href="{{ .Site.BaseURL }}work" class="btn btn-main">{{ i18n "work_button" }}</a>
+      {{ end }}
+    </div>
+  </div>
+</div>
+</section>

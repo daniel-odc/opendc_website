@@ -1,0 +1,63 @@
+
+
+TO DO:
+* Fix layout issue in service item in partials/service.html
+* Fix link Fr "Our Work"
+* change layout/services.html so we loop over the files.md in content/service rather than data/services.yml
+
+
+
+Edited files:
+open-dc\config.toml
+
+* Change default/single to ste button as back to Home instead of Blog:
+	open-dc\layouts\_default\single.html
+
+* Change default/list to list the parameters from services and work single pages
+	open-dc\layouts\_default\list.html
+	
+* Change the font size for the copyright
+	open-dc\layouts\partials\footer.html
+
+	* Desactivate the testimonials in ( can activate later)
+	open-dc\data\testimonial.yml
+
+* Update the favicon link:
+	open-dc\layouts\partials\favicon.html
+	
+* Links to images in css file: links can be replaced (not for now)
+	open-dc\static\css\airspace.css
+	
+* Icons services: Check in:
+	Defines the style of the icon: open-dc\themes\airspace\static\fonts\ionicons.svg
+	Defines the links to the icons: open-dc\themes\airspace\static\css\ionicons.min.css
+	
+* open-dc\layouts\index.html:
+	Line 8:
+	<!-- test -->
+	<p>LANGUE: {{.Site.Language.Lang}}</p>
+	<!-- end test -->
+	
+* 	Link to logo:
+	open-dc\layouts\partials\header.html
+	Changed icon link and class="logo"
+
+* Change of titles to link to i18n rather than param titles in:
+	home: open-dc\layouts\partials\slider.html
+	home about: open-dc\layouts\partials\wrapper.html
+	home work: open-dc\layouts\partials\feature.html
+
+* Change services in:
+	Removed from: open-dc\data\service.yml
+	open-dc\layouts\services\list.html
+	open-dc\layouts\services\list.html
+	
+* Images services and work copied from
+	c:\Users\dmarin\Desktop\000 Hugo bk\190109_working_with_theme_hero\open-dc\static\
+ to
+	open-dc\static\img\
+	
+* Contact details copied from
+	c:\Users\dmarin\Desktop\000 Hugo bk\190109_working_with_theme_hero\open-dc\data\contact.yaml
+	to
+	open-dc\data\contact.yaml

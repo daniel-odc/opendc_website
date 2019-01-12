@@ -1,0 +1,46 @@
+enable: true
+title: "services_title" # Key in en.toml
+# subtitle: >
+  # Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics
+content:
+    # Service 01
+    -   name: "service_01_title"
+        weight: 1
+        description: "service_01_descr"
+        icon_path: /img/services/s01.png        
+        url: /services/service_01.md
+        
+    # Service 02
+    -   weight: 2
+        name: "service_01_title"
+        description: "service_01_descr"
+        icon_path: /img/services/s01.png
+        url: /services/service_01.md
+    
+    # Service 03
+    -   name: "service_03_title"
+        weight: 3
+        description: "service_03_descr" 
+        icon_path: /img/services/s03.png
+        url: /services/service_03.md
+    
+    # Service 04
+    -   name: "service_04_title"
+        weight: 4
+        description: "service_04_descr"
+        icon_path: /img/services/s04.png
+        url: /services/service_04.md
+
+    # Service 05
+    -   name: "service_05_title"
+        weight: 5
+        description: "service_05_descr"
+        icon_path: /img/services/s05.png
+        url: /services/service_05.md
+
+    # Service 06
+    -   name: "service_06_title"
+        weight: 6
+        description: "service_06_descr"
+        icon_path: /img/services/s06.png
+        url: /services/service_06.md
