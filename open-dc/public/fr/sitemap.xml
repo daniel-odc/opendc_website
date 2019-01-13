@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>./fr/about/</loc>
+    <lastmod>2018-12-06T09:29:16+10:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="./about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="./fr/about/"
+                />
+  </url>
+  
+  <url>
+    <loc>./fr/contact/</loc>
+    <lastmod>2018-02-22T17:01:34+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="./contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="./fr/contact/"
+                />
+  </url>
+  
+  <url>
+    <loc>./fr/</loc>
+    <lastmod>2018-02-12T15:37:57+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="./"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="./fr/"
+                />
+  </url>
+  
+  <url>
+    <loc>./fr/404/</loc>
+    <lastmod>2018-02-10T10:52:03+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="./404/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="./fr/404/"
+                />
+  </url>
+  
+  <url>
+    <loc>./fr/categories/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="./categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="./fr/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>./fr/tags/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="./tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="./fr/tags/"
+                />
+  </url>
+  
+</urlset>

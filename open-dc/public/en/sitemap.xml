@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>./services/service_01_title/</loc>
+  </url>
+  
+  <url>
+    <loc>./work/work_01_title/</loc>
+  </url>
+  
+  <url>
+    <loc>./services/service_02_title/</loc>
+  </url>
+  
+  <url>
+    <loc>./work/work_02_title/</loc>
+  </url>
+  
+  <url>
+    <loc>./services/service_03_title/</loc>
+  </url>
+  
+  <url>
+    <loc>./services/service_04_title/</loc>
+  </url>
+  
+  <url>
+    <loc>./services/service_05_title/</loc>
+  </url>
+  
+  <url>
+    <loc>./services/service_06_title/</loc>
+  </url>
+  
+  <url>
+    <loc>./about/</loc>
+    <lastmod>2018-12-06T09:29:16+10:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="./fr/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="./about/"
+                />
+  </url>
+  
+  <url>
+    <loc>./contact/</loc>
+    <lastmod>2018-02-22T17:01:34+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="./fr/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="./contact/"
+                />
+  </url>
+  
+  <url>
+    <loc>./404/</loc>
+    <lastmod>2018-02-10T10:52:03+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="./fr/404/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="./404/"
+                />
+  </url>
+  
+  <url>
+    <loc>./blog/migrate-from-jekyll/</loc>
+    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>./blog/linked-post/</loc>
+    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>./blog/go-is-for-lovers/</loc>
+    <lastmod>2015-09-17T13:47:08+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>./blog/hugo-is-for-lovers/</loc>
+    <lastmod>2015-08-03T13:39:46+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>./blog/creating-a-new-theme/</loc>
+    <lastmod>2015-06-24T13:50:46+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>./blog/</loc>
+    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>./categories/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="./fr/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="./categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>./tags/go/</loc>
+    <lastmod>2015-09-17T13:47:08+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>./tags/golang/</loc>
+    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>./tags/hugo/</loc>
+    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>./tags/ipsum/</loc>
+    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>./categories/lorem/</loc>
+    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>./</loc>
+    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="./fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="./"
+                />
+  </url>
+  
+  <url>
+    <loc>./categories/programming/</loc>
+    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>./tags/programming/</loc>
+    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>./categories/pseudo/</loc>
+    <lastmod>2015-08-03T13:39:46+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>./categories/starting/</loc>
+    <lastmod>2015-06-24T13:50:46+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>./tags/</loc>
+    <lastmod>2015-09-17T13:47:08+02:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="./fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="./tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>./tags/theme/</loc>
+    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>./work/</loc>
+  </url>
+  
+  <url>
+    <loc>./services/</loc>
+  </url>
+  
+</urlset>

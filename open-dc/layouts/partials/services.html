@@ -17,15 +17,22 @@
 		<!-- ### Content -->
 		<div class="row">
 			<!-- ### Content based on data/service.yml SHOULD TRY TO ACCES DATA FROM CONTENT/SERVICES/_INDEX.MD-->			
-			{{ range .Site.Data.service.content }}
+			
+			{{ $paginator := .Paginate (where .Pages "Type" "services") 6 }}
+			
+			{{ range $paginator.Pages}}
 				<div class="col-12 col-sm-4 col-md-4">
 					<div class="service-item">
-						<img src="{{ .icon_path }}" >
-						<a href={{ .url}} ><h4>{{ i18n .name }}</h4></a>
-						<p>{{ i18n .description }}</p>
+						<!-- {{ with .Params.image }} -->
+							<!-- <img src="{{ . | absURL }}" class="img-responsive" alt="post-thumb">  -->
+						<!-- {{ end }} -->
+						<a href="{{ .Permalink}}" ><img src="{{ .Params.Image }}" ></a>
+						<a href="{{ .Permalink}}" ><h4>{{ i18n .Title }}</h4></a>
+						<p>{{ i18n .Description }}</p>
 					</div>
-				</div>
+				</div>				
 			{{ end }}
+		
 		</div>
 
 	</div>
