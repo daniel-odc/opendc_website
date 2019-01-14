@@ -10,6 +10,10 @@ other = "fr - Data analysis, model development and mobility studies, based on Op
 # GENERIC
 [read_more]
 other = "En savoir plus"			
+[next]
+other = "Suivant"
+[previous]		
+other = "Précédent"
 
 # ABOUT
 [about_title]
@@ -21,6 +25,12 @@ other = "fr - OpenDC helps businesses and public bodies find open data that can 
 			We help find, download, store, analyse and visualise the data. \
 			We use open source tools and can provide our client with the source code and tools developed to deliver our product. \
 			OpenDC has an extensive experience in the analysis of mobility data such as mobility survey data, GPS and mobile phone data but is not limited to it."
+
+# CONTACT
+[contact_title]
+other = "Contact"
+[contact_action]
+other = "Contactez nous"
 
 # WORK
 [work_title]
@@ -59,32 +69,45 @@ other = "fr - GPS data"
 [service_01_subtitle]
 other = "fr - OpenDC GPS data."
 [service_01_descr]
-other = "fr - En - Description GPS data."
+other = "Fr - Description GPS data."
 
 [service_02_title]
-other = "fr - service 2"
+other = "service 2"
 [service_02_subtitle]
-other = "fr - OpenDC service 2."
+other = "OpenDC service 2."
+[service_02_descr]
+other = "Fr - Description service 2."
+
 
 [service_03_title]
-other = "fr - service 3"
+other = "service 3"
 [service_03_subtitle]
-other = "fr - OpenDC  service 3."
+other = "OpenDC  service 3."
+[service_03_descr]
+other = "Fr - Description service 3."
 
 [service_04_title]
-other = "fr - service 4"
+other = "service 4"
 [service_04_subtitle]
-other = "fr - OpenDC service 4."
+other = "OpenDC service 4."
+[service_04_descr]
+other = "Fr - Description service 4."
+
 
 [service_05_title]
-other = "fr - service 5"
+other = "service 5"
 [service_05_subtitle]
-other = "fr - OpenDC service 5."
+other = "OpenDC service 5."
+[service_05_descr]
+other = "Fr - Description service 5."
+
 
 [service_06_title]
-other = "fr - service 6"
+other = "service 6"
 [service_06_subtitle]
-other = "fr - OpenDC service 6."
+other = "OpenDC service 6."
+[service_06_descr]
+other = "Fr - Description service 6."
 
 			
 [odc_description_title]

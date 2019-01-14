@@ -1,66 +1,70 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>services_title on OpenDC Ltd - UK</title>
-    <link>./services/</link>
-    <description>Recent content in services_title on OpenDC Ltd - UK</description>
+    <title>OpenDC services on OpenDC Ltd - UK</title>
+    <link>c:///Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public/services/</link>
+    <description>Recent content in OpenDC services on OpenDC Ltd - UK</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     
-	<atom:link href="./services/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="c:///Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public/services/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>service_01_title</title>
-      <link>./services/service_01_title/</link>
+      <title>Analysis of Open Datasets</title>
+      <link>c:///Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public/services/analysis-of-open-datasets/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>./services/service_01_title/</guid>
-      <description></description>
+      <guid>c:///Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public/services/analysis-of-open-datasets/</guid>
+      <description>What OpenDC can do OpenDC can help you find among the thousands of webpages the open data sets that can help your organisation unlock new insights. Some of this data will be too big to be anlaysed by usual tools like Excel. OpenDC can help you load and analyse this data using open source programming tools such as Python libraries or PostgreSQL databases. Once this data is identified and loaded, OpenDC can help you analyse the patterns in the data, cross the information with external independant datasets to find correlations.</description>
     </item>
     
     <item>
-      <title>service_02_title</title>
-      <link>./services/service_02_title/</link>
+      <title>Mapping and Visualisation</title>
+      <link>c:///Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public/services/mapping-and-visualisation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>./services/service_02_title/</guid>
-      <description></description>
+      <guid>c:///Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public/services/mapping-and-visualisation/</guid>
+      <description>What OpenDC can do OpenDC mainly uses the QGIS framework as a GIS tool. With QGIS, OpenDC can provide communicative maps as well as perform advanced GIS analysis such as the detection of catchment areas but also advanced routing features. OpenDC can also provide GIS training in general and on QGIS in particular.
+How this service can help your organisation OpenDC can help you use GIS features if You have a data set with geolocation data and don&amp;rsquo;t know how to visualise and analyse it etc.</description>
     </item>
     
     <item>
-      <title>service_03_title</title>
-      <link>./services/service_03_title/</link>
+      <title>QGIS Plugin Development</title>
+      <link>c:///Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public/services/qgis-plugin-development/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>./services/service_03_title/</guid>
-      <description></description>
+      <guid>c:///Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public/services/qgis-plugin-development/</guid>
+      <description>What OpenDC can do OpenDC can develop for you custom QGIS plguins under the QGIS API.
+How this service can help your organisation You might be interested in a custom QGIS plugin if You are a public body releasing geolocated data and want to create an open source QGIS plugin to give any user the opportunity to visualise and process this data. You are an urban planner, mobility engineer, environmental engineer or any professional working regularly with QGIS, wasting time with manual process and willing to automate your standard tasks.</description>
     </item>
     
     <item>
-      <title>service_04_title</title>
-      <link>./services/service_04_title/</link>
+      <title>Assistance on process automation</title>
+      <link>c:///Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public/services/assistance-on-process-automation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>./services/service_04_title/</guid>
-      <description></description>
+      <guid>c:///Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public/services/assistance-on-process-automation/</guid>
+      <description>What OpenDC can do OpenDC mainly uses open source languages but stay pragmatic when a language or an application is popular but not open source. Therefore OpenDC uses VBA to automate your processes on any Microsoft Office application, and Python for other applications.
+How this service can help your organisation OpenDC can help you use automate your processes if You have standard manipulations under Excel that regularly take a lot of your time.</description>
     </item>
     
     <item>
-      <title>service_05_title</title>
-      <link>./services/service_05_title/</link>
+      <title>Assistance on mobility studies</title>
+      <link>c:///Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public/services/assistance-on-mobility-studies/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>./services/service_05_title/</guid>
-      <description></description>
+      <guid>c:///Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public/services/assistance-on-mobility-studies/</guid>
+      <description>What OpenDC can do OpenDC&amp;rsquo;s founder has over 10 years experience in traffic and pedestrian modelling, working in Paris, London and Guinea Conakry. OpenDC can help strengthen your team with advanced modelling and project management skills.
+How this service can help your organisation OpenDC can help you in your mobility project if You are bidding for a big project and miss an experienced technical profile in your team. You are an urban planner, mobility engineer, environmental engineer or any professional working regularly with QGIS, wasting time with manual process and willing to automate your standard tasks.</description>
     </item>
     
     <item>
       <title>service_06_title</title>
-      <link>./services/service_06_title/</link>
+      <link>c:///Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public/services/service_06_title/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>./services/service_06_title/</guid>
+      <guid>c:///Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public/services/service_06_title/</guid>
       <description></description>
     </item>
     

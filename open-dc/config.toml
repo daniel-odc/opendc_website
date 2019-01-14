@@ -172,8 +172,9 @@ theme = "airspace"
 	
 	AuthorName = "Daniel Marin"
 	google_analytics_id = "UA-132053500-1"	
-	copyright = "Copyright - Website created with Hugo and Theme Design &amp; Developed by Themefisher. All rights reserved."
-	logo = "/img/logo_opendc_blue_plain_svg.svg"	
+	copyright = "Copyright - Website created by OpenDC Ltd with Hugo static site generator	 and Theme Developed by Themefisher. All rights reserved."
+	logo = "/img/logo_opendc_blue_plain_svg.svg"
+	headerFontSize = "4"	# does not work
 
 	dateFormat = "6 January 2006"
 

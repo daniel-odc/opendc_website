@@ -5,7 +5,7 @@
 </head>
 <!-- test -->
 	<p>LANGUE: {{.Site.Language.Lang}}</p>
-	<!-- end test -->
+<!-- end test -->
 <body>
 
 	{{ partial "header.html" . }}
@@ -18,13 +18,13 @@
 				{{ range (.Paginator 6).Pages }}
 				<div class="col-md-6">
 					<article class="blog-post">
-						{{ with .Params.image }}
-						<img src="{{ . | absURL }}" class="img-responsive" alt="post-thumb"> {{ end }}
-						<a class="post-title" href="{{ .Permalink }}">{{ .Title }}</a>
-						<p>
-							{{ .Summary }}
-						</p>
-						<a href="{{ .Permalink }}" class="btn btn-main">Read More</a>
+						<!-- {{ with .Params.image }} -->
+							<!-- <img src="{{ . | absURL }}" class="img-responsive" alt="post-thumb">  -->
+						<!-- {{ end }} -->
+						<!-- <a class="post-title" href="{{ .Permalink }}">{{ i18n .Title }}</a> -->
+						<a class="post-title">{{ .Title }}</a>
+						<p>{{ .Content }}</p>
+						<a href="/contact/contact.html" class="btn btn-main">{{ i18n "contact_action"}}</a>
 					</article>
 				</div>
 				{{ end }}

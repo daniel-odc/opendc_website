@@ -9,7 +9,11 @@ other = "Data analysis, model development and mobility studies, based on Open Da
 
 # GENERIC
 [read_more]
-other = "Read more"			
+other = "Read more"	
+[next]
+other = "Next"
+[previous]		
+other = "Prev"
 
 # ABOUT
 [about_title]
@@ -21,6 +25,12 @@ other = "OpenDC helps businesses and public bodies find open data that can help 
 			We help find, download, store, analyse and visualise the data. \
 			We use open source tools and can provide our client with the source code and tools developed to deliver our product. \
 			OpenDC has an extensive experience in the analysis of mobility data such as mobility survey data, GPS and mobile phone data but is not limited to it."
+
+# CONTACT
+[contact_title]
+other = "Contact"
+[contact_action]
+other = "Contact us"
 			
 # WORK
 [work_title]

@@ -18,11 +18,11 @@
 				{{ range (.Paginator 6).Pages }}
 				<div class="col-md-6">
 					<article class="blog-post">
-						{{ with .Params.image }}
+						{{ with .Params.Icon }}
 							<img src="{{ . | absURL }}" class="img-responsive" alt="post-thumb"> 
 						{{ end }}
-						<a class="post-title" href="{{ .Permalink }}">{{ i18n .Title }}</a>
-						<p>{{ i18n .Description }}</p>
+						<a class="post-title" href="{{ .Permalink }}">{{ .Title }}</a>
+						<p>{{ .Description }}</p>
 						<a href="{{ .Permalink }}" class="btn btn-main">{{ i18n "read_more"}}</a>
 					</article>
 				</div>
