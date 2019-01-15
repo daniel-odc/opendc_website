@@ -3,11 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>c:///Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public/services/analysis-of-open-datasets/</loc>
+    <loc>c:///Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public/services/service_01/</loc>
   </url>
   
   <url>
-    <loc>c:///Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public/work/sense-pedestrian-assignment-software/</loc>
+    <loc>c:///Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public/work/work_01/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -21,7 +21,7 @@
   </url>
   
   <url>
-    <loc>c:///Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public/work/bassins-de-vie-du-grand-paris/</loc>
+    <loc>c:///Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public/work/work_02/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -35,56 +35,31 @@
   </url>
   
   <url>
-    <loc>c:///Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public/services/mapping-and-visualisation/</loc>
+    <loc>c:///Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public/services/service_02/</loc>
   </url>
   
   <url>
-    <loc>c:///Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public/work/mode-choice-estimator/</loc>
+    <loc>c:///Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public/work/work_03/</loc>
   </url>
   
   <url>
-    <loc>c:///Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public/services/qgis-plugin-development/</loc>
+    <loc>c:///Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public/services/service_03/</loc>
   </url>
   
   <url>
-    <loc>c:///Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public/services/assistance-on-process-automation/</loc>
+    <loc>c:///Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public/services/service_04/</loc>
   </url>
   
   <url>
-    <loc>c:///Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public/work/project-edmond/</loc>
+    <loc>c:///Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public/work/work_04/</loc>
   </url>
   
   <url>
-    <loc>c:///Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public/services/assistance-on-mobility-studies/</loc>
+    <loc>c:///Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public/services/service_05/</loc>
   </url>
   
   <url>
-    <loc>c:///Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public/services/service_06_title/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="#ZgotmplZ"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="#ZgotmplZ"
-                />
-  </url>
-  
-  <url>
-    <loc>c:///Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public/contact/</loc>
-    <lastmod>2018-02-22T17:01:34+07:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="#ZgotmplZ"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="#ZgotmplZ"
-                />
+    <loc>c:///Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public/services/service_06/</loc>
   </url>
   
   <url>
@@ -163,6 +138,20 @@
   </url>
   
   <url>
+    <loc>c:///Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public/contact/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="#ZgotmplZ"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="#ZgotmplZ"
+                />
+  </url>
+  
+  <url>
     <loc>c:///Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public/tags/go/</loc>
     <lastmod>2015-09-17T13:47:08+02:00</lastmod>
     <priority>0</priority>
@@ -193,7 +182,7 @@
   </url>
   
   <url>
-    <loc>c:///Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public/about/open-data-consultants/</loc>
+    <loc>c:///Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public/about/about/</loc>
   </url>
   
   <url>
@@ -213,6 +202,20 @@
   
   <url>
     <loc>c:///Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public/services/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="#ZgotmplZ"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="#ZgotmplZ"
+                />
+  </url>
+  
+  <url>
+    <loc>c:///Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public/tools/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"

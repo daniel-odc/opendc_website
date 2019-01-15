@@ -1,0 +1,29 @@
+<!-- Call to action Start -->
+{{ with .Site.Params.tools }}
+<section id="call-to-action">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="block">
+          <h2>{{ i18n "tools_title" }}</h2>
+          
+			<div class="row">		
+				<!-- ### QGIS -->
+				<div class="col-sm-3"><a href="{{ .tool_01_url }}"><img class="img-responsive" src="{{ .tool_01_icon }}"></a></div>
+				<!-- ### PYTHON -->
+				<div class="col-sm-3"><a href="{{ .tool_02_url }}"><img class="img-responsive" src="{{ .tool_02_icon }}"></a></div>
+				<!-- ### POSTGRES -->
+				<div class="col-sm-3"><a href="{{ .tool_03_url }}"><img class="img-responsive" src="{{ .tool_03_icon }}"></a></div>
+				<!-- ### OTHERS-->
+				<div class="col-sm-3"><font size="5">{{ i18n "tools_nonshown"}}</font></div>
+			</div>
+			
+			<br></br>
+			<p><i>{{ i18n "tools_subtitle" }}</i></p>
+			
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}

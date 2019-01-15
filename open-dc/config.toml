@@ -1,11 +1,11 @@
 ########################################################################
 ## LOCALHOST
-baseURL =  "./" # localhost
+baseURL =  "." # localhost
 relativeURLs = true
 
 ## FILE SYSTEM
 # baseURL =  "c:/Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public/" # "File system
-# relativeURLs = false
+# relativeURLs = true
 
 ## WEB
 # baseURL =  "www.open-dc.com"	# Web
@@ -19,11 +19,11 @@ defaultContentLanguageInSubdir = false
 math = true
 theme = "airspace"
 
-[permalinks]
-   services = "services/:title/"
-   work = "work/:title/"
-   about = "about/:title/"
-   contact = "contact/:title/"
+# [permalinks]
+   # services = "services/:title/"
+   # work = "work/:title/"
+   # about = "about/:title/"
+   # contact = "contact/:title/"
 
   #----------------------------------------------
  [Languages]
@@ -208,8 +208,8 @@ theme = "airspace"
       # caption = "View Works" # Defined in partials/feature.html
       url = "/work/index.html"
 	  
-  # [params.services] #==> Defined in data/service.yml
-	# enable = true
+  [params.services] #==> Defined in data/service.yml
+	enable = true
 	## Services titles defined in i18n/en.toml and fr.toml
 	# logo_service_01 = "/img/services/s01.png"	#_icon_gps
 	# logo_service_02 = "/img/services/s02.png" 	#_icon_gsm
@@ -221,27 +221,46 @@ theme = "airspace"
       # url = "/services/index.html"
 	
 	# Desactivated
+  [params.tools]
+    enable = true # true
+    title = "Tools title in config.toml."
+    subtitle = "Tools sub in config.toml"
+	tool_01_name = "QGIS"
+	tool_01_icon = "/img/tools/icon_t01.png" 
+	tool_01_url = "https://qgis.org/en/site/"
+	
+	tool_02_name = "Python"
+	tool_02_icon = "/img/tools/icon_t02.png" 
+	tool_02_url = "https://www.python.org/"
+
+	tool_03_name = "Postgres"
+	tool_03_icon = "/img/tools/icon_t03.png" 
+	tool_03_url = "https://www.postgresql.org/"
+	
+  [params.contact]
+    enable = true #true
+	icon_email = "/img/contact/icon_email.png"
+	icon_address = "/img/contact/icon_address.png"
+	icon_phone = "/img/contact/icon_phone.png"
+	icon_linkedin = "/img/contact/icon_linkedin.png"
+    # title = "Drop us a note"
+    # subtitle = "Don’t just take our word for it. Check out some of our latest work."
+    # [params.contact.form]
+      # name = "Your name"
+      # email = "Your email"
+      # subject = "Your subject"
+      # message = "Your message"
+      # button = "Send message"
+    # [params.contact.box]
+      # title = "Stop by for a visit"
+      # address = "North Main Street, Brooklyn Australia"
+      # email = "Email: contact@mail.com"
+      # phone = "Phone: +88 01672 506 744"
+    # [params.contact.gmaps]
+      # title = "We Also Count in Google Maps"
+
+	# Desactivated
   [params.call]
     enable = false # true
     title = "We design delightful digital experiences."
     paragraph = "Read more about what we do and our philosophy of design. Judge for yourself The work and results we’ve achieved for other clients, and meet our highly experienced Team who just love to design."
-
-	
-	# Desactivated
-  [params.contact]
-    enable = false #true
-    title = "Drop us a note"
-    subtitle = "Don’t just take our word for it. Check out some of our latest work."
-    [params.contact.form]
-      name = "Your name"
-      email = "Your email"
-      subject = "Your subject"
-      message = "Your message"
-      button = "Send message"
-    [params.contact.box]
-      title = "Stop by for a visit"
-      address = "North Main Street, Brooklyn Australia"
-      email = "Email: contact@mail.com"
-      phone = "Phone: +88 01672 506 744"
-    [params.contact.gmaps]
-      title = "We Also Count in Google Maps"

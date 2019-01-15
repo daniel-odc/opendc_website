@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Outils OpenDC on OpenDC Ltd - Fr</title>
+    <link>c:///Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public/fr/tools/</link>
+    <description>Recent content in Outils OpenDC on OpenDC Ltd - Fr</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    
+	<atom:link href="c:///Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public/fr/tools/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

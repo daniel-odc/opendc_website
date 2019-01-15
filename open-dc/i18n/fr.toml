@@ -31,6 +31,16 @@ other = "fr - OpenDC helps businesses and public bodies find open data that can 
 other = "Contact"
 [contact_action]
 other = "Contactez nous"
+[contact_at]
+other = "Contactez nous à"
+
+# TOOLS
+[tools_title]
+other = "Nos outils"
+[tools_subtitle]
+other = "Outils blabla"
+[tools_nonshown]
+other = "Et bien d'autres..."
 
 # WORK
 [work_title]

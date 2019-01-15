@@ -31,12 +31,22 @@ other = "OpenDC helps businesses and public bodies find open data that can help 
 other = "Contact"
 [contact_action]
 other = "Contact us"
+[contact_at]
+other = "Contact us at"
 			
+# TOOLS
+[tools_title]
+other = "Our favorite tools"
+[tools_subtitle]
+other = "OpenDC tends to use open source tools but is not limited to it and can use proprietary tools such as VBA for Microsoft Office applications in many projects."
+[tools_nonshown]
+other = "And many others..."
+
 # WORK
 [work_title]
 other = "Our work"
 [work_subtitle]
-other = "[Section to fill]"
+other = "OpenDC finds, loads and analyses data, develop software products and transportation models."
 [work_button]
 other = "View work"
 

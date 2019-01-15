@@ -1,6 +1,6 @@
----
-title: 'Contact'
-date: 2018-02-22T17:01:34+07:00
----
++++
+title = "Contact"
+subtitle = "OpenDC can meet you in Paris or in London."
++++
 
-OpenDC can arrange a meeting in Paris or in London.
+

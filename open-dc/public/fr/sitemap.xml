@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>c:///Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public/fr/work/fr-sense-tool/</loc>
+    <loc>c:///Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public/fr/work/work_01/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -17,11 +17,11 @@
   </url>
   
   <url>
-    <loc>c:///Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public/fr/services/service_01_title/</loc>
+    <loc>c:///Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public/fr/services/service_01/</loc>
   </url>
   
   <url>
-    <loc>c:///Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public/fr/work/fr-w/</loc>
+    <loc>c:///Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public/fr/work/work_02/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -35,7 +35,7 @@
   </url>
   
   <url>
-    <loc>c:///Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public/fr/work/fr-w/</loc>
+    <loc>c:///Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public/fr/work/work_03/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -49,7 +49,7 @@
   </url>
   
   <url>
-    <loc>c:///Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public/fr/work/fr-w/</loc>
+    <loc>c:///Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public/fr/work/work_04/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -63,33 +63,23 @@
   </url>
   
   <url>
-    <loc>c:///Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public/fr/services/service_02_title/</loc>
+    <loc>c:///Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public/fr/services/service_02/</loc>
   </url>
   
   <url>
-    <loc>c:///Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public/fr/services/service_03_title/</loc>
+    <loc>c:///Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public/fr/services/service_03/</loc>
   </url>
   
   <url>
-    <loc>c:///Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public/fr/services/service_04_title/</loc>
+    <loc>c:///Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public/fr/services/service_04/</loc>
   </url>
   
   <url>
-    <loc>c:///Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public/fr/services/service_05_title/</loc>
+    <loc>c:///Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public/fr/services/service_05/</loc>
   </url>
   
   <url>
-    <loc>c:///Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public/fr/services/service_06_title/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="#ZgotmplZ"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="#ZgotmplZ"
-                />
+    <loc>c:///Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public/fr/services/service_06/</loc>
   </url>
   
   <url>
@@ -155,6 +145,20 @@
   <url>
     <loc>c:///Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public/fr/categories/</loc>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="#ZgotmplZ"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="#ZgotmplZ"
+                />
+  </url>
+  
+  <url>
+    <loc>c:///Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public/fr/tools/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"

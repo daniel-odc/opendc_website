@@ -21,14 +21,19 @@
 		{{ partial "wrapper.html" . }}
 	{{ end }}
 
-	{{ if and (isset .Site.Params "feature") (.Site.Params.feature.enable) }}
-		{{ partial "feature.html" . }}
-	{{ end }}
+	<!-- {{ if and (isset .Site.Params "feature") (.Site.Params.feature.enable) }} -->
+		<!-- {{ partial "feature.html" . }} -->
+	<!-- {{ end }} -->
 
 
 	{{ if and .Site.Data.service .Site.Data.service.enable }}
 		{{ partial "services.html" . }}
 	{{ end }}
+	
+	{{ if and (isset .Site.Params "tools") (.Site.Params.tools.enable) }}
+		{{ partial "tools.html" . }}
+	{{ end }}
+	
 
 	{{ if and (isset .Site.Params "call") (.Site.Params.call.enable) }}
 		{{ partial "call-to-action.html" . }}
