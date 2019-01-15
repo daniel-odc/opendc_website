@@ -9,9 +9,7 @@
 		{{ i18n "work_subtitle" | markdownify }}
       </p>
       {{ with .Site.Params.feature.button }}
-      	<!-- <a href="{{ .url }}" class="btn btn-main">{{ .caption }}</a> -->
-		<!-- <a href="{{ .url }}" class="btn btn-main">{{ i18n "work_button" }}</a> -->
-		<a href="{{ .Site.BaseURL }}work" class="btn btn-main">{{ i18n "work_button" }}</a>
+      	<a href="{{ .url | relURL }}" class="btn btn-main">{{ i18n "work_button" }}</a>
       {{ end }}
     </div>
   </div>

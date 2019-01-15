@@ -19,25 +19,25 @@
 			<br></br>
 			 <!-- ### EMAIL -->
 			<div class="row">
-				<div class="col-xs-2"><img src="{{ .Site.Params.contact.icon_email}}"/></div>
+				<div class="col-xs-2"><img src="{{ .Site.Params.contact.icon_email | relURL}}"/></div>
 				<div class="col-xs-10">{{ .Site.Data.contact.email}}</div>								
 			</div>	
 			<br></br>
 			<!-- ### PHONE -->
 			<div class="row">
-				<div class="col-xs-2"><img src="{{ .Site.Params.contact.icon_phone}}"/></div>
+				<div class="col-xs-2"><img src="{{ .Site.Params.contact.icon_phone | relURL}}"/></div>
 				<div class="col-xs-10">{{ .Site.Data.contact.phone}}</div>								
 			</div>	
 			<br></br>
 			<!-- ### ADDRESS -->
 			<div class="row">
-				<div class="col-xs-2"><img src="{{ .Site.Params.contact.icon_address}}"/></div>
+				<div class="col-xs-2"><img src="{{ .Site.Params.contact.icon_address | relURL}}"/></div>
 				<div class="col-xs-10">{{ .Site.Data.contact.address}}</div>								
 			</div>	
 			<br></br>
 			<!-- ### LINKEDIN -->
 			<div class="row">
-				<div class="col-xs-2"><a href="{{ .Site.Data.contact.linkedin}}"/><img src="{{ .Site.Params.contact.icon_linkedin}}"/></a></div>
+				<div class="col-xs-2"><a href="{{ .Site.Data.contact.linkedin}}"/><img src="{{ .Site.Params.contact.icon_linkedin | relURL}}"/></a></div>
 				<div class="col-xs-10"></a></div>								
 			</div>	
 

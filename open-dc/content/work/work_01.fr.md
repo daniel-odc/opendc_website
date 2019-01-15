@@ -1,18 +1,31 @@
 +++
-title = "Fr - SENSE tool"
+title = "Fr - SENSE Pedestrian Assignment Software"
 weight = 1
 description = "Fr - Pedestrian assignment software development under open source framework."
-image = "/img/work/w01.png"
+icon = "/img/work/icon_w01.png"
+image = "/img/work/image_w01.png"
+logo_client = "/img/clients/icon_ms.png"
+# next_page = "/work/work_02.html"
+# prev_page = "/work/work_04.html"
 translationKey = "work_01"
 +++
 
-<h4>Client:</h4> <a><href = "https://movementstrategies.com">Movement Strategies Ltd</a>
+<div class="row">
+	<div class="col-sm-3"><h4>Client:</h4></div>
+	<div class="col-sm-3"> <h4><a><href = "https://movementstrategies.com">Movement Strategies Ltd</a> </h4> </div>
+	<div class="col-sm-3"><a><href = "https://movementstrategies.com"/> <img src="/img/clients/icon_ms.png" /></a></div>
+</div>	
 
-<h4>Sector:</h4> <a>Pedestrian modelling</a>
+<div class="row">
+	<div class="col-sm-3"><h4>Sector:</h4></div>
+	<div class="col-sm-3"> <h4>Pedestrian modelling</div>
+	<div class="col-sm-3"></div>
+</div>	
 
+<br></br>
 <h4>What we did:</h4> 
 <p>
-Fr - We developed a pedestrian dynamic assignment software, with an assignment algorithm based on fluid mechanics principles. The tool can assign an unlimited number of pedestrians, at any scale and cutom flow desnity relationship can be implemented.
+We developed a pedestrian dynamic assignment software, with an assignment algorithm based on fluid mechanics principles. The tool can assign an unlimited number of pedestrians, at any scale and cutom flow desnity relationship can be implemented.
 </p>
 
 <h4>How we use open data or software:</h4>

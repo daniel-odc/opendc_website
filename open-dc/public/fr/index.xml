@@ -1,112 +1,122 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on OpenDC Ltd - Fr</title>
+    <title>OpenDC on OpenDC Ltd - Fr</title>
     <link>c:///Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public/fr/</link>
-    <description>Recent content in Home on OpenDC Ltd - Fr</description>
+    <description>Recent content in OpenDC on OpenDC Ltd - Fr</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Mon, 12 Feb 2018 15:37:57 +0700</lastBuildDate>
     
 	<atom:link href="c:///Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public/fr/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Fr - SENSE tool</title>
-      <link>c:///Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public/fr/work/work_01/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>c:///Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public/fr/work/work_01/</guid>
-      <description>Client: Movement Strategies Ltd
-Sector: Pedestrian modelling
-What we did:  Fr - We developed a pedestrian dynamic assignment software, with an assignment algorithm based on fluid mechanics principles. The tool can assign an unlimited number of pedestrians, at any scale and cutom flow desnity relationship can be implemented. How we use open data or software:  The tool was computed as a QGIS plugin, open source software providing an open source API.</description>
-    </item>
-    
-    <item>
-      <title>service_01_title</title>
+      <title>Fr - Analysis of Open Datasets</title>
       <link>c:///Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public/fr/services/service_01/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>c:///Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public/fr/services/service_01/</guid>
-      <description></description>
+      <description>What OpenDC can do Fr - OpenDC can help you find among the thousands of webpages the open data sets that can help your organisation unlock new insights. Some of this data will be too big to be anlaysed by usual tools like Excel. OpenDC can help you load and analyse this data using open source programming tools such as Python libraries or PostgreSQL databases. Once this data is identified and loaded, OpenDC can help you analyse the patterns in the data, cross the information with external independant datasets to find correlations.</description>
     </item>
     
     <item>
-      <title>Fr - W</title>
+      <title>Fr - SENSE Pedestrian Assignment Software</title>
+      <link>c:///Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public/fr/work/work_01/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>c:///Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public/fr/work/work_01/</guid>
+      <description>Client: Movement Strategies Ltd     Sector: Pedestrian modelling   
+ What we did:  We developed a pedestrian dynamic assignment software, with an assignment algorithm based on fluid mechanics principles. The tool can assign an unlimited number of pedestrians, at any scale and cutom flow desnity relationship can be implemented. How we use open data or software:  The tool was computed as a QGIS plugin, open source software providing an open source API.</description>
+    </item>
+    
+    <item>
+      <title>Fr - Bassins de vie du Grand Paris</title>
       <link>c:///Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public/fr/work/work_02/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>c:///Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public/fr/work/work_02/</guid>
-      <description>Client: XXXXXXXX
-Sector: XXXXXXXX
-What we did:  Fr - XXXXXXXX. How we use open data or software:  XXXXXXXX What was the value for our client:  XXXXXXXX  More info can be found here. </description>
+      <description>Client: Agence D&amp;A     Sector: Urban planning   
+ What we did:  We created a toll analysing commuting open data from the French ordnance survey (INSEE) to help our client understand how commuting data can give insights on how nieghbouring cities bound together and define perimeters that are sometimes at odds with the official administration boundaries. How we use open data or software:  We used French national ordnance survey data from INSEE before it was called open data.</description>
     </item>
     
     <item>
-      <title>Fr - W</title>
-      <link>c:///Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public/fr/work/work_03/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>c:///Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public/fr/work/work_03/</guid>
-      <description>Client: XXXXXXXX
-Sector: XXXXXXXX
-What we did:  Fr - XXXXXXXX. How we use open data or software:  XXXXXXXX What was the value for our client:  XXXXXXXX  More info can be found here. </description>
-    </item>
-    
-    <item>
-      <title>Fr - W</title>
-      <link>c:///Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public/fr/work/work_04/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>c:///Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public/fr/work/work_04/</guid>
-      <description>Client: XXXXXXXX
-Sector: XXXXXXXX
-What we did:  Fr - XXXXXXXX. How we use open data or software:  XXXXXXXX What was the value for our client:  XXXXXXXX  More info can be found here. </description>
-    </item>
-    
-    <item>
-      <title>service_02_title</title>
+      <title>Fr - Mapping and Visualisation</title>
       <link>c:///Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public/fr/services/service_02/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>c:///Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public/fr/services/service_02/</guid>
-      <description></description>
+      <description>What OpenDC can do Fr - OpenDC mainly uses the QGIS framework as a GIS tool. With QGIS, OpenDC can provide communicative maps as well as perform advanced GIS analysis such as the detection of catchment areas but also advanced routing features. OpenDC can also provide GIS training in general and on QGIS in particular.
+How this service can help your organisation OpenDC can help you use GIS features if You have a data set with geolocation data and don&amp;rsquo;t know how to visualise and analyse it etc.</description>
     </item>
     
     <item>
-      <title>service_03_title</title>
+      <title>Fr - Mode Choice Estimator</title>
+      <link>c:///Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public/fr/work/work_03/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>c:///Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public/fr/work/work_03/</guid>
+      <description>Client: CDVIA     Sector: Transport modelling   
+ What we did:  We helped our client build a public transport assignment tool plugged into their in-house private transport assignment tool. We then collected open data of observed mode choice for commute at an aggregate level. Using privtae and public transportation travel times derived from the assignment tool, we have infered a simple model giving a mode probablity as a function of the travel time difference.</description>
+    </item>
+    
+    <item>
+      <title>Fr - QGIS Plugin Development</title>
       <link>c:///Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public/fr/services/service_03/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>c:///Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public/fr/services/service_03/</guid>
-      <description></description>
+      <description>What OpenDC can do Fr - OpenDC can develop for you custom QGIS plguins under the QGIS API.
+How this service can help your organisation You might be interested in a custom QGIS plugin if You are a public body releasing geolocated data and want to create an open source QGIS plugin to give any user the opportunity to visualise and process this data. You are an urban planner, mobility engineer, environmental engineer or any professional working regularly with QGIS, wasting time with manual process and willing to automate your standard tasks.</description>
     </item>
     
     <item>
-      <title>service_04_title</title>
+      <title>Fr - Assistance on process automation</title>
       <link>c:///Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public/fr/services/service_04/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>c:///Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public/fr/services/service_04/</guid>
-      <description></description>
+      <description>What OpenDC can do Fr - OpenDC mainly uses open source languages but stay pragmatic when a language or an application is popular but not open source. Therefore OpenDC uses VBA to automate your processes on any Microsoft Office application, and Python for other applications.
+How this service can help your organisation OpenDC can help you use automate your processes if You have standard manipulations under Excel that regularly take a lot of your time.</description>
     </item>
     
     <item>
-      <title>service_05_title</title>
+      <title>Fr - Project EDMOND</title>
+      <link>c:///Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public/fr/work/work_04/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>c:///Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public/fr/work/work_04/</guid>
+      <description>Client: Transport for London (TfL)      Sector: Data analytics in transport    
+ What we did:  The TfL EDMOND project aimed to build Origin-Destination (OD) matrices in the Greater London Authority (GLA) unsing mobile network data fused with external datasets.  As part of the Telefónica UK team in a joint project involving two major consultancies (Jacobs and AECOM), we managed the team of analysts at Telefónica in charge of collecting, cleaning, filtering, scaling and analysing the mobile network data.</description>
+    </item>
+    
+    <item>
+      <title>Fr - Assistance on mobility studies</title>
       <link>c:///Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public/fr/services/service_05/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>c:///Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public/fr/services/service_05/</guid>
-      <description></description>
+      <description>What OpenDC can do Fr - OpenDC&amp;rsquo;s founder has over 10 years experience in traffic and pedestrian modelling, working in Paris, London and Guinea Conakry. OpenDC can help strengthen your team with advanced modelling and project management skills.
+How this service can help your organisation OpenDC can help you in your mobility project if You are bidding for a big project and miss an experienced technical profile in your team.</description>
     </item>
     
     <item>
-      <title>service_06_title</title>
+      <title>Fr - Advice on the use of mobile phone and GPS data</title>
       <link>c:///Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public/fr/services/service_06/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>c:///Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public/fr/services/service_06/</guid>
-      <description></description>
+      <description>What OpenDC can do Fr - OpenDC&amp;rsquo;s founder has developed an expertise on the use of mobile phone data (GSM) and GPS data to understand people movement.
+How this service can help your organisation OpenDC can assist you with GPS and mobile netwrok data if You are interested in the technology and would like to know more about its strengths and limitations. You have access to a mobile network or GPS dataset and would like guidance on how to process it.</description>
+    </item>
+    
+    <item>
+      <title>Open Data Consultants</title>
+      <link>c:///Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public/fr/about/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>c:///Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public/fr/about/about/</guid>
+      <description>Fr - OpenDC has been founded in 2019 by Daniel Marin, engineer from ENSTA ParisTech (France) and INSTN CEA Saclay.
+Daniel has over 10 years experience in mathematical modelling for transportation, mobility and pedestrian studies and data analysis. Currently, OpenDC is a one-person company providing contracting work for consultancies and public bodies. OpenDC is meant to grow bigger as the availability of open data, open source software and the need to found decisions on transparent data, assumptions and models are likely to do.</description>
     </item>
     
   </channel>

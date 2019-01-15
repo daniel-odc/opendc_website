@@ -15,33 +15,43 @@
 			</div>
 		</div>
 		<!-- ### Content -->
-		<div class="row">
+		<!-- <div class="row"> -->
 			<!-- ### Content based on data/service.yml SHOULD TRY TO ACCES DATA FROM CONTENT/SERVICES/_INDEX.MD-->			
 			
+			<!-- {{ $paginator := .Paginate (where .Pages "Type" "services") 6 }} -->
+			<!-- ### First 3 pages in a row -->
 			{{ $paginator := .Paginate (where .Pages "Type" "services") 6 }}
 			
-			{{ range $paginator.Pages}}
-				<div class="col-12 col-sm-4 col-md-4">
-					<div class="service-item">
-						<!-- {{ with .Params.image }} -->
-							<!-- <img src="{{ . | absURL }}" class="img-responsive" alt="post-thumb">  -->
-						<!-- {{ end }} -->
-						<a href="{{ .Permalink}}" ><img src="{{ .Params.Icon }}" ></a>
-						<!-- <a href="{{ .Permalink}}" ><h4>{{ i18n .Title }}</h4></a>						 -->
-						<!-- <p>{{ i18n .Description }}</p> -->
-						<a href="{{ .Permalink}}" ><h4>{{ .Title }}</h4></a>						
-						<p>{{ .Description }}</p>
-					</div>
-				</div>				
-			{{ end }}
-		
-		</div>
+			<div class="row">		
+				{{ range first 3 $paginator.Pages}}
+					<div class="col-12 col-sm-4 col-md-4">
+						<div class="service-item">
+							<a href="{{ .Permalink}}" ><img src="{{ .Params.Icon | relURL}}" ></a>
+							<a href="{{ .Permalink}}" ><h4>{{ .Title }}</h4></a>						
+							<p>{{ .Description }}</p>
+						</div>
+					</div>		
+				{{ end }}
+			</div>
+			
+			<!-- Last 3 pages in a row -->
+			<div class="row">			
+				{{ range last 3 $paginator.Pages}}
+					<div class="col-12 col-sm-4 col-md-4">
+						<div class="service-item">
+							<a href="{{ .Permalink}}" ><img src="{{ .Params.Icon | relURL}}" ></a>
+							<a href="{{ .Permalink}}" ><h4>{{ .Title }}</h4></a>						
+							<p>{{ .Description }}</p>
+						</div>
+					</div>				
+				{{ end }}		
+			</div>
 
 	</div>
 
-	{{ with .Site.Params.feature.button }}
+	{{ with .Site.Params.services.button }}
 	<!-- <a href="{{ .Site.BaseUrl}}{{ .Site.Language.Lang }}services" class="btn btn-main">{{ i18n "services_button" }}</a> -->
-	<a href="{{ .Site.BaseUrl}}services" class="btn btn-main">{{ i18n "services_button" }}</a>
+	<a href="{{ .url | relURL }}" class="btn btn-main">{{ i18n "services_button" }}</a>
 	{{ end }}
 	   
 </section>

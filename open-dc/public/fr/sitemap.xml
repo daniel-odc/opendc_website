@@ -3,6 +3,20 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>c:///Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public/fr/services/service_01/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="#ZgotmplZ"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="#ZgotmplZ"
+                />
+  </url>
+  
+  <url>
     <loc>c:///Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public/fr/work/work_01/</loc>
     <xhtml:link
                 rel="alternate"
@@ -17,11 +31,21 @@
   </url>
   
   <url>
-    <loc>c:///Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public/fr/services/service_01/</loc>
+    <loc>c:///Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public/fr/work/work_02/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="#ZgotmplZ"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="#ZgotmplZ"
+                />
   </url>
   
   <url>
-    <loc>c:///Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public/fr/work/work_02/</loc>
+    <loc>c:///Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public/fr/services/service_02/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -49,6 +73,34 @@
   </url>
   
   <url>
+    <loc>c:///Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public/fr/services/service_03/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="#ZgotmplZ"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="#ZgotmplZ"
+                />
+  </url>
+  
+  <url>
+    <loc>c:///Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public/fr/services/service_04/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="#ZgotmplZ"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="#ZgotmplZ"
+                />
+  </url>
+  
+  <url>
     <loc>c:///Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public/fr/work/work_04/</loc>
     <xhtml:link
                 rel="alternate"
@@ -63,58 +115,21 @@
   </url>
   
   <url>
-    <loc>c:///Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public/fr/services/service_02/</loc>
-  </url>
-  
-  <url>
-    <loc>c:///Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public/fr/services/service_03/</loc>
-  </url>
-  
-  <url>
-    <loc>c:///Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public/fr/services/service_04/</loc>
-  </url>
-  
-  <url>
     <loc>c:///Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public/fr/services/service_05/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="#ZgotmplZ"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="#ZgotmplZ"
+                />
   </url>
   
   <url>
     <loc>c:///Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public/fr/services/service_06/</loc>
-  </url>
-  
-  <url>
-    <loc>c:///Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public/fr/about/</loc>
-    <lastmod>2018-12-06T09:29:16+10:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="#ZgotmplZ"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="#ZgotmplZ"
-                />
-  </url>
-  
-  <url>
-    <loc>c:///Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public/fr/contact/</loc>
-    <lastmod>2018-02-22T17:01:34+07:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="#ZgotmplZ"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="#ZgotmplZ"
-                />
-  </url>
-  
-  <url>
-    <loc>c:///Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public/fr/</loc>
-    <lastmod>2018-02-12T15:37:57+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -143,6 +158,20 @@
   </url>
   
   <url>
+    <loc>c:///Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public/fr/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="#ZgotmplZ"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="#ZgotmplZ"
+                />
+  </url>
+  
+  <url>
     <loc>c:///Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public/fr/categories/</loc>
     <priority>0</priority>
     <xhtml:link
@@ -158,22 +187,7 @@
   </url>
   
   <url>
-    <loc>c:///Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public/fr/tools/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="#ZgotmplZ"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="#ZgotmplZ"
-                />
-  </url>
-  
-  <url>
-    <loc>c:///Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public/fr/tags/</loc>
-    <priority>0</priority>
+    <loc>c:///Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public/fr/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -201,7 +215,64 @@
   </url>
   
   <url>
+    <loc>c:///Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public/fr/about/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="#ZgotmplZ"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="#ZgotmplZ"
+                />
+  </url>
+  
+  <url>
+    <loc>c:///Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public/fr/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="#ZgotmplZ"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="#ZgotmplZ"
+                />
+  </url>
+  
+  <url>
+    <loc>c:///Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public/fr/tools/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="#ZgotmplZ"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="#ZgotmplZ"
+                />
+  </url>
+  
+  <url>
     <loc>c:///Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public/fr/services/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="#ZgotmplZ"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="#ZgotmplZ"
+                />
+  </url>
+  
+  <url>
+    <loc>c:///Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public/fr/tags/</loc>
+    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"

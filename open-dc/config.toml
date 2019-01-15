@@ -1,11 +1,13 @@
 ########################################################################
 ## LOCALHOST
-baseURL =  "." # localhost
-relativeURLs = true
+# baseURL =  "/" # localhost
+# relativeURLs = true
+# canonifyURLs = true
 
 ## FILE SYSTEM
-# baseURL =  "c:/Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public/" # "File system
+baseURL =  "c:/Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public" # "File system
 # relativeURLs = true
+# canonifyURLs = true
 
 ## WEB
 # baseURL =  "www.open-dc.com"	# Web
@@ -20,7 +22,7 @@ math = true
 theme = "airspace"
 
 # [permalinks]
-   # services = "services/:title/"
+   # services = "services/:title/index.html"
    # work = "work/:title/"
    # about = "about/:title/"
    # contact = "contact/:title/"
@@ -92,9 +94,8 @@ theme = "airspace"
 			[[Languages.en.menu.footer]]
 			weight = 5
 			name = "Fr"
-			# url = "/index.html" # Changed as all translations are managed in html files via i18n
 			url = "/fr/index.html"
-	
+					
 	# French -----------------------------------------------------
 	[Languages.fr]
 		languageName = "Fr"
@@ -217,8 +218,8 @@ theme = "airspace"
 	# logo_service_04 = "/img/services/s04.png"	#_icon_process
 	# logo_service_05 = "/img/services/s05.png"	#_icon_qgis
 	# logo_service_06 = "/img/services/s06.png"	#_icon_map_world
-	# [params.services.button]
-      # url = "/services/index.html"
+	[params.services.button]
+      url = "/services/index.html"
 	
 	# Desactivated
   [params.tools]
@@ -239,6 +240,7 @@ theme = "airspace"
 	
   [params.contact]
     enable = true #true
+	url = "/contact/index.html"
 	icon_email = "/img/contact/icon_email.png"
 	icon_address = "/img/contact/icon_address.png"
 	icon_phone = "/img/contact/icon_phone.png"
