@@ -3,377 +3,377 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>www.open-dc.com/services/service_01/</loc>
+    <loc>/services/service_01/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="www.open-dc.com/fr/services/service_01/"
+                href="/fr/services/service_01/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="www.open-dc.com/services/service_01/"
+                href="/services/service_01/"
                 />
   </url>
   
   <url>
-    <loc>www.open-dc.com/work/work_01/</loc>
+    <loc>/work/work_01/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="www.open-dc.com/fr/work/work_01/"
+                href="/fr/work/work_01/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="www.open-dc.com/work/work_01/"
+                href="/work/work_01/"
                 />
   </url>
   
   <url>
-    <loc>www.open-dc.com/work/work_02/</loc>
+    <loc>/work/work_02/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="www.open-dc.com/fr/work/work_02/"
+                href="/fr/work/work_02/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="www.open-dc.com/work/work_02/"
+                href="/work/work_02/"
                 />
   </url>
   
   <url>
-    <loc>www.open-dc.com/services/service_02/</loc>
+    <loc>/services/service_02/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="www.open-dc.com/fr/services/service_02/"
+                href="/fr/services/service_02/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="www.open-dc.com/services/service_02/"
+                href="/services/service_02/"
                 />
   </url>
   
   <url>
-    <loc>www.open-dc.com/work/work_03/</loc>
+    <loc>/work/work_03/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="www.open-dc.com/fr/work/work_03/"
+                href="/fr/work/work_03/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="www.open-dc.com/work/work_03/"
+                href="/work/work_03/"
                 />
   </url>
   
   <url>
-    <loc>www.open-dc.com/services/service_03/</loc>
+    <loc>/services/service_03/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="www.open-dc.com/fr/services/service_03/"
+                href="/fr/services/service_03/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="www.open-dc.com/services/service_03/"
+                href="/services/service_03/"
                 />
   </url>
   
   <url>
-    <loc>www.open-dc.com/services/service_04/</loc>
+    <loc>/services/service_04/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="www.open-dc.com/fr/services/service_04/"
+                href="/fr/services/service_04/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="www.open-dc.com/services/service_04/"
+                href="/services/service_04/"
                 />
   </url>
   
   <url>
-    <loc>www.open-dc.com/work/work_04/</loc>
+    <loc>/work/work_04/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="www.open-dc.com/fr/work/work_04/"
+                href="/fr/work/work_04/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="www.open-dc.com/work/work_04/"
+                href="/work/work_04/"
                 />
   </url>
   
   <url>
-    <loc>www.open-dc.com/services/service_05/</loc>
+    <loc>/services/service_05/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="www.open-dc.com/fr/services/service_05/"
+                href="/fr/services/service_05/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="www.open-dc.com/services/service_05/"
+                href="/services/service_05/"
                 />
   </url>
   
   <url>
-    <loc>www.open-dc.com/services/service_06/</loc>
+    <loc>/services/service_06/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="www.open-dc.com/fr/services/service_06/"
+                href="/fr/services/service_06/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="www.open-dc.com/services/service_06/"
+                href="/services/service_06/"
                 />
   </url>
   
   <url>
-    <loc>www.open-dc.com/404/</loc>
+    <loc>/404/</loc>
     <lastmod>2018-02-10T10:52:03+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="www.open-dc.com/fr/404/"
+                href="/fr/404/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="www.open-dc.com/404/"
+                href="/404/"
                 />
   </url>
   
   <url>
-    <loc>www.open-dc.com/blog/migrate-from-jekyll/</loc>
+    <loc>/blog/migrate-from-jekyll/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
   </url>
   
   <url>
-    <loc>www.open-dc.com/blog/linked-post/</loc>
+    <loc>/blog/linked-post/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
   </url>
   
   <url>
-    <loc>www.open-dc.com/blog/go-is-for-lovers/</loc>
+    <loc>/blog/go-is-for-lovers/</loc>
     <lastmod>2015-09-17T13:47:08+02:00</lastmod>
   </url>
   
   <url>
-    <loc>www.open-dc.com/blog/hugo-is-for-lovers/</loc>
+    <loc>/blog/hugo-is-for-lovers/</loc>
     <lastmod>2015-08-03T13:39:46+02:00</lastmod>
   </url>
   
   <url>
-    <loc>www.open-dc.com/blog/creating-a-new-theme/</loc>
+    <loc>/blog/creating-a-new-theme/</loc>
     <lastmod>2015-06-24T13:50:46+02:00</lastmod>
   </url>
   
   <url>
-    <loc>www.open-dc.com/about/</loc>
+    <loc>/about/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="www.open-dc.com/fr/about/"
+                href="/fr/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="www.open-dc.com/about/"
+                href="/about/"
                 />
   </url>
   
   <url>
-    <loc>www.open-dc.com/blog/</loc>
+    <loc>/blog/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>www.open-dc.com/categories/</loc>
+    <loc>/categories/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="www.open-dc.com/fr/categories/"
+                href="/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="www.open-dc.com/categories/"
+                href="/categories/"
                 />
   </url>
   
   <url>
-    <loc>www.open-dc.com/contact/</loc>
+    <loc>/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="www.open-dc.com/fr/contact/"
+                href="/fr/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="www.open-dc.com/contact/"
+                href="/contact/"
                 />
   </url>
   
   <url>
-    <loc>www.open-dc.com/tags/go/</loc>
+    <loc>/tags/go/</loc>
     <lastmod>2015-09-17T13:47:08+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>www.open-dc.com/tags/golang/</loc>
+    <loc>/tags/golang/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>www.open-dc.com/tags/hugo/</loc>
+    <loc>/tags/hugo/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>www.open-dc.com/tags/ipsum/</loc>
+    <loc>/tags/ipsum/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>www.open-dc.com/categories/lorem/</loc>
+    <loc>/categories/lorem/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>www.open-dc.com/about/about/</loc>
+    <loc>/about/about/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="www.open-dc.com/fr/about/about/"
+                href="/fr/about/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="www.open-dc.com/about/about/"
+                href="/about/about/"
                 />
   </url>
   
   <url>
-    <loc>www.open-dc.com/</loc>
+    <loc>/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="www.open-dc.com/fr/"
+                href="/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="www.open-dc.com/"
+                href="/"
                 />
   </url>
   
   <url>
-    <loc>www.open-dc.com/services/</loc>
+    <loc>/services/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="www.open-dc.com/fr/services/"
+                href="/fr/services/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="www.open-dc.com/services/"
+                href="/services/"
                 />
   </url>
   
   <url>
-    <loc>www.open-dc.com/tools/</loc>
+    <loc>/tools/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="www.open-dc.com/fr/tools/"
+                href="/fr/tools/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="www.open-dc.com/tools/"
+                href="/tools/"
                 />
   </url>
   
   <url>
-    <loc>www.open-dc.com/work/</loc>
+    <loc>/work/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="www.open-dc.com/fr/work/"
+                href="/fr/work/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="www.open-dc.com/work/"
+                href="/work/"
                 />
   </url>
   
   <url>
-    <loc>www.open-dc.com/categories/programming/</loc>
+    <loc>/categories/programming/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>www.open-dc.com/tags/programming/</loc>
+    <loc>/tags/programming/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>www.open-dc.com/categories/pseudo/</loc>
+    <loc>/categories/pseudo/</loc>
     <lastmod>2015-08-03T13:39:46+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>www.open-dc.com/categories/starting/</loc>
+    <loc>/categories/starting/</loc>
     <lastmod>2015-06-24T13:50:46+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>www.open-dc.com/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2015-09-17T13:47:08+02:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="www.open-dc.com/fr/tags/"
+                href="/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="www.open-dc.com/tags/"
+                href="/tags/"
                 />
   </url>
   
   <url>
-    <loc>www.open-dc.com/tags/theme/</loc>
+    <loc>/tags/theme/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
     <priority>0</priority>
   </url>

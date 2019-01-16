@@ -10,7 +10,7 @@
 # canonifyURLs = true
 
 ## WEB
-baseURL =  "" #"www.open-dc.com"	# Web
+baseURL =  "www.open-dc.com"	# Web
 # relativeURLs = false
 ########################################################################
 
@@ -156,12 +156,12 @@ theme = "airspace"
 			[[Languages.fr.menu.footer]]
 			weight = 4
 			name = "En"
-			url = "/index.html"
+			url = "/fr/index.html"
 			## French
 			[[Languages.fr.menu.footer]]
 			weight = 5
 			name = "Fr"
-			url = "/fr/index.html"
+			url = "/index.html"
 #----------------------------------------------
 
 # The site's parameters
