@@ -2,14 +2,14 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	
 	<sitemap>
-	   	<loc>c:///Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public/en/sitemap.xml</loc>
+	   	<loc>www.open-dc.com/en/sitemap.xml</loc>
 		
 	   	<lastmod>2015-10-10T13:07:31+02:00</lastmod>
 		
 	</sitemap>
 	
 	<sitemap>
-	   	<loc>c:///Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public/fr/sitemap.xml</loc>
+	   	<loc>www.open-dc.com/fr/sitemap.xml</loc>
 		
 	</sitemap>
 	

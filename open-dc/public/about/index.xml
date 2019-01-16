@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About OpenDC on OpenDC Ltd - UK</title>
-    <link>c:///Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public/about/</link>
+    <link>www.open-dc.com/about/</link>
     <description>Recent content in About OpenDC on OpenDC Ltd - UK</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     
-	<atom:link href="c:///Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public/about/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="www.open-dc.com/about/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Open Data Consultants</title>
-      <link>c:///Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public/about/about/</link>
+      <link>www.open-dc.com/about/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>c:///Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public/about/about/</guid>
+      <guid>www.open-dc.com/about/about/</guid>
       <description>OpenDC has been founded in 2019 by Daniel Marin, engineer from ENSTA ParisTech (France) and INSTN CEA Saclay.
 Daniel has over 10 years experience in mathematical modelling for transportation, mobility and pedestrian studies and data analysis. Currently, OpenDC is a one-person company providing contracting work for consultancies and public bodies. OpenDC is meant to grow bigger as the availability of open data, open source software and the need to found decisions on transparent data, assumptions and models are likely to do.</description>
     </item>

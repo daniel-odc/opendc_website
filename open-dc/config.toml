@@ -5,12 +5,12 @@
 # canonifyURLs = true
 
 ## FILE SYSTEM
-baseURL =  "c:/Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public" # "File system
+# baseURL =  "c:/Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public" # "File system
 # relativeURLs = true
 # canonifyURLs = true
 
 ## WEB
-# baseURL =  "www.open-dc.com"	# Web
+baseURL =  "www.open-dc.com"	# Web
 # relativeURLs = false
 ########################################################################
 
@@ -211,13 +211,6 @@ theme = "airspace"
 	  
   [params.services] #==> Defined in data/service.yml
 	enable = true
-	## Services titles defined in i18n/en.toml and fr.toml
-	# logo_service_01 = "/img/services/s01.png"	#_icon_gps
-	# logo_service_02 = "/img/services/s02.png" 	#_icon_gsm
-	# logo_service_03 = "/img/services/s03.png"	#_icon_stats_ci
-	# logo_service_04 = "/img/services/s04.png"	#_icon_process
-	# logo_service_05 = "/img/services/s05.png"	#_icon_qgis
-	# logo_service_06 = "/img/services/s06.png"	#_icon_map_world
 	[params.services.button]
       url = "/services/index.html"
 	
