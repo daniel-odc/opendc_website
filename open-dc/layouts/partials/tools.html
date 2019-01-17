@@ -8,15 +8,39 @@
           <h2>{{ i18n "tools_title" }}</h2>
           
 			<div class="row">		
-				<!-- ### QGIS -->				
-				<div class="col-sm-3"><a href="{{ .tool_01_url }}"><img class="img-responsive" src="{{ .tool_01_icon | relURL }}"></a></div>
+				<!-- ### QGIS				 -->
+				<div class="col-sm-3">
+					<a href="{{ .tool_01_url }}"><img class="img-fluid" src="{{ .tool_01_icon | relURL }}" width="60%" style="padding-top: 50px"></a>
+				</div>
+				
+				<!-- <div class="col-sm-2"></div> -->
 				<!-- ### PYTHON -->
-				<div class="col-sm-3"><a href="{{ .tool_02_url }}"><img class="img-responsive" src="{{ .tool_02_icon | relURL }}"></a></div>
+				<div class="col-sm-3">
+					<a href="{{ .tool_02_url }}"><img class="img-fluid" src="{{ .tool_02_icon | relURL }}" width="60%" style="padding-top: 50px"></a>
+				</div>
+				
+				<!-- <div class="col-sm-2"></div> -->
 				<!-- ### POSTGRES -->
-				<div class="col-sm-3"><a href="{{ .tool_03_url }}"><img class="img-responsive" src="{{ .tool_03_icon | relURL }}"></a></div>
-				<!-- ### OTHERS-->
-				<div class="col-sm-3"><font size="5">{{ i18n "tools_nonshown"}}</font></div>
+				<div class="col-sm-3">
+					<a href="{{ .tool_03_url }}"><img class="img-fluid" src="{{ .tool_03_icon | relURL }}" width="60%" style="padding-top: 50px"></a>
+				</div>
+				<!-- ### OTHERS -->
+				<br><br><br>
+				<div class="col-sm-3">
+					<font size="5" style="padding-top: 50px">{{ i18n "tools_nonshown"}}</font>
+				</div>				
 			</div>
+			
+			<!-- <div class="row">		 -->
+				<!-- <!-- ### QGIS				 -->
+				<!-- <div class="col-sm-3"><a href="{{ .tool_01_url }}"><img class="img-responsive" src="{{ .tool_01_icon | relURL }}" width="50%"></a></div> -->
+				<!-- <!-- ### PYTHON -->
+				<!-- <div class="col-sm-3"><a href="{{ .tool_02_url }}"><img class="img-responsive" src="{{ .tool_02_icon | relURL }}" width="50%"></a></div> -->
+				<!-- <!-- ### POSTGRES -->
+				<!-- <div class="col-sm-3"><a href="{{ .tool_03_url }}"><img class="img-responsive" src="{{ .tool_03_icon | relURL }}" width="50%"></a></div> -->
+				<!-- <!-- ### OTHERS -->
+				<!-- <div class="col-sm-3"><font size="5">{{ i18n "tools_nonshown"}}</font></div> -->
+			<!-- </div> -->
 			
 			<br></br>
 			<p><i>{{ i18n "tools_subtitle" }}</i></p>			

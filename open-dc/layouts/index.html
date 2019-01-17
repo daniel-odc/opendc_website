@@ -3,11 +3,18 @@
 <head>
 	
 	{{ partial "head.html" . }}
-
+	
+	<!-- DM edit -->
+	<style>
+		@media screen and (max-width: 767px) {
+		 /* start of medium tablet styles */
+		 /* Adding a fixed/percentage min-width could ensure that the image doesn't get too small */
+		 .img-fluid {
+		   max-width: 30%;
+		 }
+	</style>
+	
 </head>
-<!-- test -->
-	<p>LANGUE: {{.Site.Language.Lang}}</p>
-<!-- end test -->
 <body>
 
 	{{ partial "header.html" . }}
