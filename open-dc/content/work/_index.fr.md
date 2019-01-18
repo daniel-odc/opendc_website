@@ -1,5 +1,5 @@
 +++
 title = "Nos projets"
-subtitle = "Fr - The work presented in this section has been carried out by OpenDC's director while being an employee of previous companies, before the creation of OpenDC Ltd. These examples of projects illustrate the expertise of OpenDC's founder as well as the type of projects that OpenDC pushes forward."
+subtitle = "Les travaux présentés dans cette section ont été réalisés par le directeur d'OpenDC alors qu'il était employé dans d'autres entreprises, avant la naissance d'OpenDC. Ces examples illustrent l'expertise dévelopée chez OpenDC ainsi que le type de projets et d'expertise que l'entreprise compte continuer de développer."
 translationKey = "work_list"
 +++

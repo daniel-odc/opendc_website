@@ -4,7 +4,7 @@ weight = 1
 type = "services"
 description = "Fr - OpenDC helps you find, load, analyse and visualise open data sets."
 icon = "/img/services/icon_s01.png"
-image = "/img/services/image_s01.png"
+image = "/img/services/image_s01.svg"
 translationKey = "service_01"
 +++
 

@@ -4,7 +4,7 @@ weight = 6
 type = "services"
 description = "OpenDC helps you understand the strengths and limitation of mobile phone technologies to understand people movement patterns."
 icon = "/img/services/icon_s06.png"
-image = "/img/services/image_s06.png"
+image = "/img/services/image_s06.svg"
 translationKey = "service_06"
 +++
 

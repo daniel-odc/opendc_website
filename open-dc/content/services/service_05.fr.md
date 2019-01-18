@@ -4,7 +4,7 @@ weight = 5
 type = "services"
 description = "Fr - OpenDC supports your team on advanced mobility and transport modelling projects."
 icon = "/img/services/icon_s05.png"
-image = "/img/services/image_s05.png"
+image = "/img/services/image_s05.svg"
 translationKey = "service_05"
 +++
 

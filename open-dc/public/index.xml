@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>OpenDC on OpenDC Ltd - UK</title>
+    <title>OpenDC Ltd - UK</title>
     <link>/</link>
-    <description>Recent content in OpenDC on OpenDC Ltd - UK</description>
+    <description>Recent content on OpenDC Ltd - UK</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <lastBuildDate>Sat, 10 Oct 2015 13:07:31 +0200</lastBuildDate>
@@ -17,7 +17,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/services/service_01/</guid>
-      <description>What OpenDC can do OpenDC can help you find among the thousands of webpages the open data sets that can help your organisation unlock new insights. Some of this data will be too big to be anlaysed by usual tools like Excel. OpenDC can help you load and analyse this data using open source programming tools such as Python libraries or PostgreSQL databases. Once this data is identified and loaded, OpenDC can help you analyse the patterns in the data, cross the information with external independant datasets to find correlations.</description>
+      <description>What OpenDC can do OpenDC can help you find among the thousands of webpages the open data sets that can help your organisation unlock new insights. Some of this data will be too big to be anlaysed by usual tools like Excel. OpenDC can help you load and analyse this data using open source programming tools such as Python libraries or PostgreSQL databases. Once this data is identified and loaded, OpenDC can help you analyse the patterns in the data, cross the information with external independant datasets to find correlations, answer the questions you have asked and the ones you have not.</description>
     </item>
     
     <item>
@@ -46,7 +46,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/services/service_02/</guid>
-      <description>What OpenDC can do OpenDC mainly uses the QGIS framework as a GIS tool. With QGIS, OpenDC can provide communicative maps as well as perform advanced GIS analysis such as the detection of catchment areas but also advanced routing features. OpenDC can also provide GIS training in general and on QGIS in particular.
+      <description>What OpenDC can do OpenDC mainly uses the QGIS framework as a GIS tool. With QGIS, OpenDC can provide communicative maps as well as perform advanced GIS analysis such as the analysis of catchment areas but also advanced routing features. OpenDC can also provide GIS training in general and on QGIS in particular.
 How this service can help your organisation OpenDC can help you use GIS features if You have a data set with geolocation data and don&amp;rsquo;t know how to visualise and analyse it etc.</description>
     </item>
     

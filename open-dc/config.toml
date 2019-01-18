@@ -95,6 +95,84 @@ theme = "airspace"
 			weight = 5
 			name = "Fr"
 			url = "/fr/index.html"
+			# ------------------------------------------
+			# Params
+			# ------------------------------------------
+			[Languages.en.params]
+				AuthorName = "Daniel Marin"
+				google_analytics_id = "UA-132053500-1"	
+				copyright = "Copyright - Website created by OpenDC Ltd with Hugo static site generator	 and Theme Developed by Themefisher. All rights reserved."
+				logo = "/img/logo_opendc_blue_plain_svg.svg"
+				headerFontSize = "4"	# does not work
+
+				dateFormat = "6 January 2006"
+
+				home = "Home"
+
+				# Home page intro
+				[Languages.en.params.slider]
+				enable = true
+				# title = "OpenDC - Open Data Consultants" # Defined in partials/slider.html
+				# subtitle = "We love the Web and the work we do.<br/>We work closely with our clients to deliver the best possible solutions for their needs"
+
+				# Home page section About us
+				[Languages.en.params.wrapper]
+				enable = true
+				# title = "About Us" # Defined in partials/wrapper.html
+				# italic = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics"
+				# paragraph = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id"
+
+				# Desactivated
+				[Languages.en.params.blog]
+				enable = false #true
+				title = "Get The Latest On What We're doing"
+				subtitle = "Catch up with us, anytime and anywhere"
+
+				# Home page section Work
+				[Languages.en.params.feature]
+				enable = true
+				# title = "Our work" # Defined in partials/feature.html
+				# content = "Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus."
+				[Languages.en.params.feature.button]
+				# caption = "View Works" # Defined in partials/feature.html
+				url = "/work/index.html"
+				
+				[Languages.en.params.services] #==> Defined in data/service.yml
+				enable = true
+				[Languages.en.params.services.button]
+				url = "/services/index.html"
+
+				# Desactivated
+				[Languages.en.params.tools]
+				enable = true # true
+				title = "Tools title in config.toml."
+				subtitle = "Tools sub in config.toml"
+				tool_01_name = "QGIS"
+				tool_01_icon = "/img/tools/icon_t01.png" 
+				tool_01_url = "https://qgis.org/en/site/"
+
+				tool_02_name = "Python"
+				tool_02_icon = "/img/tools/icon_t02.png" 
+				tool_02_url = "https://www.python.org/"
+
+				tool_03_name = "Postgres"
+				tool_03_icon = "/img/tools/icon_t03.png" 
+				tool_03_url = "https://www.postgresql.org/"
+
+				[Languages.en.params.contact]
+				enable = true #true
+				url = "/contact/index.html"
+				icon_email = "/img/contact/icon_email.png"
+				icon_address = "/img/contact/icon_address.png"
+				icon_phone = "/img/contact/icon_phone.png"
+				icon_linkedin = "/img/contact/icon_linkedin.png"
+				
+				# Desactivated
+				[Languages.en.params.call]
+				enable = false # true
+				title = "We design delightful digital experiences."
+				paragraph = "Read more about what we do and our philosophy of design. Judge for yourself The work and results we’ve achieved for other clients, and meet our highly experienced Team who just love to design."
+
 					
 	# French -----------------------------------------------------
 	[Languages.fr]
@@ -162,100 +240,176 @@ theme = "airspace"
 			weight = 5
 			name = "Fr"
 			url = "/fr/index.html"
+			# ------------------------------------------
+			# Params
+			# ------------------------------------------
+			[Languages.fr.params]
+				AuthorName = "Daniel Marin"
+				google_analytics_id = "UA-132053500-1"	
+				copyright = "Copyright - Website created by OpenDC Ltd with Hugo static site generator	 and Theme Developed by Themefisher. All rights reserved."
+				logo = "/img/logo_opendc_blue_plain_svg.svg"
+				headerFontSize = "4"	# does not work
+
+				dateFormat = "6 January 2006"
+
+				home = "Home"
+
+				# Home page intro
+				[Languages.fr.params.slider]
+				enable = true
+				# title = "OpenDC - Open Data Consultants" # Defined in partials/slider.html
+				# subtitle = "We love the Web and the work we do.<br/>We work closely with our clients to deliver the best possible solutions for their needs"
+
+				# Home page section About us
+				[Languages.fr.params.wrapper]
+				enable = true
+				# title = "About Us" # Defined in partials/wrapper.html
+				# italic = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics"
+				# paragraph = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id"
+
+				# Desactivated
+				[Languages.fr.params.blog]
+				enable = false #true
+				title = "Get The Latest On What We're doing"
+				subtitle = "Catch up with us, anytime and anywhere"
+
+				# Home page section Work
+				[Languages.fr.params.feature]
+				enable = true
+				# title = "Our work" # Defined in partials/feature.html
+				# content = "Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus."
+				[Languages.fr.params.feature.button]
+				# caption = "View Works" # Defined in partials/feature.html
+				url = "/fr/work/index.html"
+				
+				[Languages.fr.params.services] #==> Defined in data/service.yml
+				enable = true
+				[Languages.fr.params.services.button]
+				url = "/fr/services/index.html"
+
+				# Desactivated
+				[Languages.fr.params.tools]
+				enable = true # true
+				title = "Tools title in config.toml."
+				subtitle = "Tools sub in config.toml"
+				tool_01_name = "QGIS"
+				tool_01_icon = "/img/tools/icon_t01.png" 
+				tool_01_url = "https://qgis.org/en/site/"
+
+				tool_02_name = "Python"
+				tool_02_icon = "/img/tools/icon_t02.png" 
+				tool_02_url = "https://www.python.org/"
+
+				tool_03_name = "Postgres"
+				tool_03_icon = "/img/tools/icon_t03.png" 
+				tool_03_url = "https://www.postgresql.org/"
+
+				[Languages.fr.params.contact]
+				enable = true #true
+				url = "/fr/contact/index.html"
+				icon_email = "/img/contact/icon_email.png"
+				icon_address = "/img/contact/icon_address.png"
+				icon_phone = "/img/contact/icon_phone.png"
+				icon_linkedin = "/img/contact/icon_linkedin.png"
+				
+				# Desactivated
+				[Languages.fr.params.call]
+				enable = false # true
+				title = "Fr - We design delightful digital experiences."
+				paragraph = "Fr - Read more about what we do and our philosophy of design. Judge for yourself The work and results we’ve achieved for other clients, and meet our highly experienced Team who just love to design."
+
 #----------------------------------------------
 
 # The site's parameters
-[params]
+# [params]
 
-  # If you want to remove the copyright text you need a Themefisher license.
-  # This license is offered with a 50% discount for all Hugo users.
-  # For information see https://github.com/gohugoio/hugoThemes/issues/260
+  
+	# AuthorName = "Daniel Marin"
+	# google_analytics_id = "UA-132053500-1"	
+	# copyright = "Copyright - Website created by OpenDC Ltd with Hugo static site generator	 and Theme Developed by Themefisher. All rights reserved."
+	# logo = "/img/logo_opendc_blue_plain_svg.svg"
+	# headerFontSize = "4"	### does not work
+
+	# dateFormat = "6 January 2006"
+
+	# home = "Home"
 	
-	AuthorName = "Daniel Marin"
-	google_analytics_id = "UA-132053500-1"	
-	copyright = "Copyright - Website created by OpenDC Ltd with Hugo static site generator	 and Theme Developed by Themefisher. All rights reserved."
-	logo = "/img/logo_opendc_blue_plain_svg.svg"
-	headerFontSize = "4"	# does not work
+	## Home page intro
+  # [params.slider]
+    # enable = true
+    ## title = "OpenDC - Open Data Consultants" ### Defined in partials/slider.html
+	## subtitle = "We love the Web and the work we do.<br/>We work closely with our clients to deliver the best possible solutions for their needs"
 
-	dateFormat = "6 January 2006"
+	## Home page section About us
+  # [params.wrapper]
+    # enable = true
+    ## title = "About Us" ### Defined in partials/wrapper.html
+    ## italic = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics"
+    ## paragraph = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id"
 
-	home = "Home"
-	
-	# Home page intro
-  [params.slider]
-    enable = true
-    # title = "OpenDC - Open Data Consultants" # Defined in partials/slider.html
-	# subtitle = "We love the Web and the work we do.<br/>We work closely with our clients to deliver the best possible solutions for their needs"
+	## Desactivated
+  # [params.blog]
+    # enable = false ###true
+    # title = "Get The Latest On What We're doing"
+    # subtitle = "Catch up with us, anytime and anywhere"
 
-	# Home page section About us
-  [params.wrapper]
-    enable = true
-    # title = "About Us" # Defined in partials/wrapper.html
-    # italic = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics"
-    # paragraph = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id"
-
-	# Desactivated
-  [params.blog]
-    enable = false #true
-    title = "Get The Latest On What We're doing"
-    subtitle = "Catch up with us, anytime and anywhere"
-
-	# Home page section Work
-  [params.feature]
-    enable = true
-    # title = "Our work" # Defined in partials/feature.html
-    # content = "Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus."
-    [params.feature.button]
-      # caption = "View Works" # Defined in partials/feature.html
-      url = "/work/index.html"
+	## Home page section Work
+  # [params.feature]
+    # enable = true
+    ## title = "Our work" ### Defined in partials/feature.html
+    ## content = "Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus."
+    # [params.feature.button]
+      ## caption = "View Works" ### Defined in partials/feature.html
+      # url = "/work/index.html"
+	  # url_fr = "/fr/work/index.html"
 	  
-  [params.services] #==> Defined in data/service.yml
-	enable = true
-	[params.services.button]
-      url = "/services/index.html"
+  # [params.services] #==> Defined in data/service.yml
+	# enable = true
+	# [params.services.button]
+      # url = "/services/index.html"
 	
-	# Desactivated
-  [params.tools]
-    enable = true # true
-    title = "Tools title in config.toml."
-    subtitle = "Tools sub in config.toml"
-	tool_01_name = "QGIS"
-	tool_01_icon = "/img/tools/icon_t01.png" 
-	tool_01_url = "https://qgis.org/en/site/"
+	## Desactivated
+  # [params.tools]
+    # enable = true ### true
+    # title = "Tools title in config.toml."
+    # subtitle = "Tools sub in config.toml"
+	# tool_01_name = "QGIS"
+	# tool_01_icon = "/img/tools/icon_t01.png" 
+	# tool_01_url = "https://qgis.org/en/site/"
 	
-	tool_02_name = "Python"
-	tool_02_icon = "/img/tools/icon_t02.png" 
-	tool_02_url = "https://www.python.org/"
+	# tool_02_name = "Python"
+	# tool_02_icon = "/img/tools/icon_t02.png" 
+	# tool_02_url = "https://www.python.org/"
 
-	tool_03_name = "Postgres"
-	tool_03_icon = "/img/tools/icon_t03.png" 
-	tool_03_url = "https://www.postgresql.org/"
+	# tool_03_name = "Postgres"
+	# tool_03_icon = "/img/tools/icon_t03.png" 
+	# tool_03_url = "https://www.postgresql.org/"
 	
-  [params.contact]
-    enable = true #true
-	url = "/contact/index.html"
-	icon_email = "/img/contact/icon_email.png"
-	icon_address = "/img/contact/icon_address.png"
-	icon_phone = "/img/contact/icon_phone.png"
-	icon_linkedin = "/img/contact/icon_linkedin.png"
-    # title = "Drop us a note"
-    # subtitle = "Don’t just take our word for it. Check out some of our latest work."
-    # [params.contact.form]
-      # name = "Your name"
-      # email = "Your email"
-      # subject = "Your subject"
-      # message = "Your message"
-      # button = "Send message"
-    # [params.contact.box]
-      # title = "Stop by for a visit"
-      # address = "North Main Street, Brooklyn Australia"
-      # email = "Email: contact@mail.com"
-      # phone = "Phone: +88 01672 506 744"
-    # [params.contact.gmaps]
-      # title = "We Also Count in Google Maps"
+  # [params.contact]
+    # enable = true ###true
+	# url = "/contact/index.html"
+	# icon_email = "/img/contact/icon_email.png"
+	# icon_address = "/img/contact/icon_address.png"
+	# icon_phone = "/img/contact/icon_phone.png"
+	# icon_linkedin = "/img/contact/icon_linkedin.png"
+    ## title = "Drop us a note"
+    ## subtitle = "Don’t just take our word for it. Check out some of our latest work."
+    ## [params.contact.form]
+      ## name = "Your name"
+      ## email = "Your email"
+      ## subject = "Your subject"
+      ## message = "Your message"
+      ## button = "Send message"
+    ## [params.contact.box]
+      ## title = "Stop by for a visit"
+      ## address = "North Main Street, Brooklyn Australia"
+      ## email = "Email: contact@mail.com"
+      ## phone = "Phone: +88 01672 506 744"
+    ## [params.contact.gmaps]
+      ## title = "We Also Count in Google Maps"
 
-	# Desactivated
-  [params.call]
-    enable = false # true
-    title = "We design delightful digital experiences."
-    paragraph = "Read more about what we do and our philosophy of design. Judge for yourself The work and results we’ve achieved for other clients, and meet our highly experienced Team who just love to design."
+	## Desactivated
+  # [params.call]
+    # enable = false ### true
+    # title = "We design delightful digital experiences."
+    # paragraph = "Read more about what we do and our philosophy of design. Judge for yourself The work and results we’ve achieved for other clients, and meet our highly experienced Team who just love to design."

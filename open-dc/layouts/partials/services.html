@@ -50,8 +50,7 @@
 	</div>
 
 	{{ with .Site.Params.services.button }}
-	<!-- <a href="{{ .Site.BaseUrl}}{{ .Site.Language.Lang }}services" class="btn btn-main">{{ i18n "services_button" }}</a> -->
-	<a href="{{ .url | relURL }}" class="btn btn-main">{{ i18n "services_button" }}</a>
+		<a href="{{ .url | relURL }}" class="btn btn-main">{{ i18n "services_button" }}</a>
 	{{ end }}
 	   
 </section>

@@ -4,7 +4,7 @@ weight = 3
 type = "services"
 description = "Fr - OpenDC helps you develop your own plugins under the QGIS API."
 icon = "/img/services/icon_s03.png"
-image = "/img/services/image_s03.png"
+image = "/img/services/image_s03.svg"
 translationKey = "service_03"
 +++
 

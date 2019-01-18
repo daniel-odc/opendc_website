@@ -4,7 +4,7 @@ weight = 4
 type = "services"
 description = "Fr - OpenDC helps you automate your daily recurring tasks."
 icon = "/img/services/icon_s04.png"
-image = "/img/services/image_s04.png"
+image = "/img/services/image_s04.svg"
 translationKey = "service_04"
 +++
 

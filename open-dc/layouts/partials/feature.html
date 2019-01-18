@@ -8,8 +8,13 @@
       	<!-- {{ .Site.Params.feature.content | markdownify }} -->
 		{{ i18n "work_subtitle" | markdownify }}
       </p>
-      {{ with .Site.Params.feature.button }}
-      	<a href="{{ .url | relURL }}" class="btn btn-main">{{ i18n "work_button" }}</a>
+	  {{ with .Site.Params.feature.button }}
+      	<!-- <a href="{{ .url | relURL }}" class="btn btn-main">{{ i18n "work_button" }}</a> -->
+		{{ if .Site.Language.Lang "=" "fr"}}
+			<a href="{{ .url_fr | relURL }}" class="btn btn-main">{{ i18n "work_button" }}.Site.Language.Lang</a>
+		{{ else}}
+			<a href="{{ .url | relURL }}" class="btn btn-main">{{ i18n "work_button" }}</a>			
+		{{ end}}
       {{ end }}
     </div>
   </div>

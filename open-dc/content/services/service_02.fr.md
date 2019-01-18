@@ -4,7 +4,7 @@ weight = 2
 type = "services"
 description = "Fr - OpenDC helps you develop maps and use GIS features to get new insights."
 icon = "/img/services/icon_s02.png"
-image = "/img/services/image_s02.png"
+image = "/img/services/image_s02.svg"
 translationKey = "service_02"
 +++
 

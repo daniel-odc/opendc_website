@@ -23,8 +23,8 @@ other = "OpenDC is a start-up specialised in data analysis and mobility studies.
 [about_paragraph]
 other = "OpenDC helps businesses and public bodies find open data that can help them get new insights, be more efficient or develop new products. \
 			We help find, download, store, analyse and visualise the data. \
-			We use open source tools and can provide our client with the source code and tools developed to deliver our product. \
-			OpenDC has an extensive experience in the analysis of mobility data such as mobility survey data, GPS and mobile phone data but is not limited to it."
+			We use mainly open source tools (but are not limited to them) and can provide our client with the source code and tools developed to deliver our product. \
+			OpenDC also has an extensive experience in the analysis of mobility data such as mobility survey data, GPS and mobile phone data and can assist on mobility studies and model development."
 
 # CONTACT
 [contact_title]
@@ -38,7 +38,8 @@ other = "Contact us at"
 [tools_title]
 other = "Our favorite tools"
 [tools_subtitle]
-other = "OpenDC tends to use open source tools but is not limited to it and can use proprietary tools such as VBA for Microsoft Office applications in many projects."
+other = "OpenDC mainly uses open source tools but is not limited to them. We have an extensive experience in using some proprietary tools such as VBA for \
+		Microsoft Office applications and can develop products based on those if required."
 [tools_nonshown]
 other = "And many others..."
 
@@ -46,9 +47,10 @@ other = "And many others..."
 [work_title]
 other = "Our work"
 [work_subtitle]
-other = "OpenDC finds, loads and analyses data, develop software products and transportation models."
+other = "Our work experience covers a wide range of disciplines and applications. We have been involved in open data analysis projects, GPS and mobile phone data, \
+		transport modelling and software development."
 [work_button]
-other = "View work"
+other = "View our work"
 
 [work_01_title]
 other = "En - Work 1"

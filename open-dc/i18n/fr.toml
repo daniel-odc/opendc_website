@@ -1,11 +1,11 @@
 # HOME
 [home_page]
-other = "fr - Home"
+other = "Accueil"
 
 [home_page_title]
-other = "fr - OpenDC - Open Data Consultants"
+other = "OpenDC - Open Data Consultants"
 [home_page_subtitle]
-other = "fr - Data analysis, model development and mobility studies, based on Open Data and Open Source tools and languages."
+other = "Analyse de données, dévelopment d'outils, modèles, études de mobilité basés sur de l'open data et des outils de programmation open-source."
 
 # GENERIC
 [read_more]
@@ -17,14 +17,15 @@ other = "Précédent"
 
 # ABOUT
 [about_title]
-other = "fr - About us"
+other = "À propos"
 [about_subtitle]
-other = "fr - OpenDC is a start-up specialised in data analysis and mobility studies. OpenDC mainly works with open data sets and open source languages."
+other = "OpenDC est une start-up spécialisée en analyse de données et analyse de mobilité. OpenDC travaille essentiellement (mais pas seulement) avec des jeux de données ouvertes et des outils open-source."
+
 [about_paragraph]
-other = "fr - OpenDC helps businesses and public bodies find open data that can help them get new insights, be more efficient or develop new products. \
-			We help find, download, store, analyse and visualise the data. \
-			We use open source tools and can provide our client with the source code and tools developed to deliver our product. \
-			OpenDC has an extensive experience in the analysis of mobility data such as mobility survey data, GPS and mobile phone data but is not limited to it."
+other = "OpenDC aide les entreprises et organismes publics à trouver et analyser des jeux de données leur permettant de découvrir des nouveaux enseignements, d'être plus efficaces ou de développer des nouveaux produits. \
+	Nous aidons à trouver , télécharger, stocker, analyser et visualiser la donnée. \
+	Nous utilisons essentiellement des outils open-source et pouvons fournir à nos clients code source et outils dévelopés pour leur projet. \
+	OpenDC a également une longue expérience en analyse de données de mobilité, telles que les analyses d'enquêtes ménage ou des analyses de données mobile et GPS pour comprendre les déplacements. Nous pouvons vous assister sur vos études de mobilité et dévelopement de modèles."				
 
 # CONTACT
 [contact_title]
@@ -44,11 +45,12 @@ other = "Et bien d'autres..."
 
 # WORK
 [work_title]
-other = "fr - Our work"
+other = "Nos réalisations"
 [work_subtitle]
-other = "fr - [Section to fill]"
+other = "Notre expérience couvre un vaste champ de disciplines et d'applications. Nous avons activement participé à différent projets d'analyse de données ouvertes, donnéés GPS et données mobiles, modélisation de transports et dévelopement de logiciels de modélisation."
+
 [work_button]
-other = "fr - View work"
+other = "Voir nos projets"
 
 [work_01_title]
 other = "Fr - Work 1"
