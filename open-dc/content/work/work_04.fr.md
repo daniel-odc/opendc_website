@@ -43,7 +43,7 @@ This collaboration of transport planners and data analysts has given our client 
 </p>
 
 <p>
-More info can be found <a><href = "https://aetransport.org/en-gb/past-etc-papers/conference-papers-2018?search=edmond&state=a">here</a>.
+More info can be found <a><href = "https://aetransport.org/en-gb/past-etc-papers/conference-papers-2018?search=edmond&state=a" target="_blank"><u>here</u></a>.
 </p>
 
 

@@ -12,8 +12,8 @@
 	<section class="blog section">
 		<div class="container">
 			<div class="row">
-				{{ range (.Paginator 6).Pages }}
-				<div class="col-md-6">
+				{{ range first 3 (.Paginator 6).Pages }}
+				<div class="col-md-4">
 					<article class="blog-post">
 						<img src="{{ .Params.Icon | relURL}}" class="img-responsive" alt="post-thumb">
 						<a class="post-title" href="{{ .Permalink | safeURL }}">{{ .Title }}</a>
@@ -21,7 +21,20 @@
 						<a href="{{ .Permalink | safeURL}}" class="btn btn-main">{{ i18n "read_more"}}</a>						
 					</article>
 				</div>
-				{{ end }}			
+				{{ end }}
+			</div>
+			<!-- TRICK TO MAKE THEM APPEAR ON 2 ROWS, OTHERWISE IT JUMPS	 -->
+			<div class="row">
+				{{ range last 3 (.Paginator 6).Pages }}
+				<div class="col-md-4">
+					<article class="blog-post">
+						<img src="{{ .Params.Icon | relURL}}" class="img-responsive" alt="post-thumb">
+						<a class="post-title" href="{{ .Permalink | safeURL }}">{{ .Title }}</a>
+						<p>{{ .Description }}</p>
+						<a href="{{ .Permalink | safeURL}}" class="btn btn-main">{{ i18n "read_more"}}</a>						
+					</article>
+				</div>
+				{{ end }}
 			</div>
 			<div class="col-12 text-center">
 				{{ template "_internal/pagination.html" . }}

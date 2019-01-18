@@ -36,7 +36,7 @@ Our client could push their deep understanding of urban planning in the region o
 </p>
 
 <p>
-More info can be found <a><href = "http://www.agencedevillers.com/archives/745">here</a>.
+More info can be found <a><href = "http://www.agencedevillers.com/archives/745" target="_blank"><u>here</u></a>.
 </p>
 
 

@@ -37,7 +37,7 @@ Mode choice forecast is a difficult exercise that usually relies on various assu
 </p>
 
 <p>
-More info can be found <a><href = "http://www.cdvia.fr/fr/actualites/report-modal-vptc">here</a>.
+More info can be found <a><href = "http://www.cdvia.fr/fr/actualites/report-modal-vptc" target="_blank"><u>here</u></a>.
 </p>
 
 

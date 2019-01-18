@@ -47,8 +47,8 @@ other = "And many others..."
 [work_title]
 other = "Our work"
 [work_subtitle]
-other = "Our work experience covers a wide range of disciplines and applications. We have been involved in open data analysis projects, GPS and mobile phone data, \
-		transport modelling and software development."
+other = "Our work experience covers a wide range of disciplines and applications. We have been involved in open data analysis, GPS and mobile phone data, \
+		transport modelling and software development projects."
 [work_button]
 other = "View our work"
 
@@ -70,7 +70,7 @@ other = "En - Description Work 2."
 [services_title]
 other = "Our services"
 [services_subtitle]
-other = "OpenDC services that help your business unlock new insights."
+other = "Some examples of services provided by OpenDC that can help your business become more efficient and unlock new insights:"
 
 [services_button]
 other = "View all services"

@@ -6,7 +6,7 @@
 	  <h2 class="text-uppercase">{{ i18n "work_title" }}</h2>
       <p>
       	<!-- {{ .Site.Params.feature.content | markdownify }} -->
-		{{ i18n "work_subtitle" | markdownify }}
+		<font color="black">{{ i18n "work_subtitle" | markdownify }}</font>
       </p>
 	  {{ with .Site.Params.feature.button }}
       	<!-- <a href="{{ .url | relURL }}" class="btn btn-main">{{ i18n "work_button" }}</a> -->

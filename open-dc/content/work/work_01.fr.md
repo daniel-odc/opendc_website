@@ -39,7 +39,7 @@ The client has an in-house tool, fast and user friendly and used on a daily basi
 </p>
 
 <p>
-More info can be found <a><href = "https://movementstrategies.com/blog-posts/modelling-pedestrian-movement-with-sense-old-science-new-approach">here</a>.
+More info can be found <a href="https://movementstrategies.com/blog-posts/modelling-pedestrian-movement-with-sense-old-science-new-approach" target="_blank"><u>here</u></a>.
 </p>
 
 
