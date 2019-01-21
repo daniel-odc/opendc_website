@@ -45,28 +45,14 @@ other = "Et bien d'autres..."
 
 # WORK
 [work_title]
-other = "Nos réalisations"
+other = "Nos projets"
 [work_subtitle]
-other = "Notre expérience couvre un vaste champ de disciplines et d'applications. Nous avons activement participé à différent projets d'analyse de données ouvertes, donnéés GPS et données mobiles, modélisation de transports et dévelopement de logiciels de modélisation."
+other = "Nous avons activement participé à différent projets d'analyse de données ouvertes, donnéés GPS et données mobiles, modélisation de transports et dévelopement de logiciels de modélisation."
 
 [work_button]
 other = "Voir nos projets"
 
-[work_01_title]
-other = "Fr - Work 1"
-[work_01_subtitle]
-other = "Fr - Work 1 subtitile"
-[work_01_descr]
-other = "Fr - Description Work 1."
-
-[work_02_title]
-other = "Fr - Work 2"
-[work_02_subtitle]
-other = "Fr - Work 2 subtitile"
-[work_02_descr]
-other = "Fr - Description Work 2."
-
-			
+		
 # SERVICES
 [services_title]
 other = "fr - Our services"
@@ -75,51 +61,6 @@ other = "fr - OpenDC services that help your business unlock new insights."
 
 [services_button]
 other = "fr - View all services"
-
-[service_01_title]
-other = "fr - GPS data"
-[service_01_subtitle]
-other = "fr - OpenDC GPS data."
-[service_01_descr]
-other = "Fr - Description GPS data."
-
-[service_02_title]
-other = "service 2"
-[service_02_subtitle]
-other = "OpenDC service 2."
-[service_02_descr]
-other = "Fr - Description service 2."
-
-
-[service_03_title]
-other = "service 3"
-[service_03_subtitle]
-other = "OpenDC  service 3."
-[service_03_descr]
-other = "Fr - Description service 3."
-
-[service_04_title]
-other = "service 4"
-[service_04_subtitle]
-other = "OpenDC service 4."
-[service_04_descr]
-other = "Fr - Description service 4."
-
-
-[service_05_title]
-other = "service 5"
-[service_05_subtitle]
-other = "OpenDC service 5."
-[service_05_descr]
-other = "Fr - Description service 5."
-
-
-[service_06_title]
-other = "service 6"
-[service_06_subtitle]
-other = "OpenDC service 6."
-[service_06_descr]
-other = "Fr - Description service 6."
 
 			
 [odc_description_title]

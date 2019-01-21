@@ -45,27 +45,13 @@ other = "And many others..."
 
 # WORK
 [work_title]
-other = "Our work"
+other = "Our projects"
 [work_subtitle]
-other = "Our work experience covers a wide range of disciplines and applications. We have been involved in open data analysis, GPS and mobile phone data, \
-		transport modelling and software development projects."
+other = "We have delivered projects around open data analysis, GPS and mobile phone data, \
+		transport modelling and software development."
 [work_button]
-other = "View our work"
-
-[work_01_title]
-other = "En - Work 1"
-[work_01_subtitle]
-other = "En - Work 1 subtitile"
-[work_01_descr]
-other = "En - Description Work 1."
-
-[work_02_title]
-other = "En - Work 2"
-[work_02_subtitle]
-other = "En - Work 2 subtitile"
-[work_02_descr]
-other = "En - Description Work 2."
-			
+other = "View our projects"
+		
 # SERVICES
 [services_title]
 other = "Our services"
@@ -75,53 +61,7 @@ other = "Some examples of services provided by OpenDC that can help your busines
 [services_button]
 other = "View all services"
 
-[service_01_title]
-other = "GPS data"
-[service_01_subtitle]
-other = "OpenDC GPS data."
-[service_01_descr]
-other = "En - Description GPS data."
-
-[service_02_title]
-other = "service 2"
-[service_02_subtitle]
-other = "OpenDC service 2."
-[service_02_descr]
-other = "En - Description service 2."
-
-
-[service_03_title]
-other = "service 3"
-[service_03_subtitle]
-other = "OpenDC  service 3."
-[service_03_descr]
-other = "En - Description service 3."
-
-[service_04_title]
-other = "service 4"
-[service_04_subtitle]
-other = "OpenDC service 4."
-[service_04_descr]
-other = "En - Description service 4."
-
-
-[service_05_title]
-other = "service 5"
-[service_05_subtitle]
-other = "OpenDC service 5."
-[service_05_descr]
-other = "En - Description service 5."
-
-
-[service_06_title]
-other = "service 6"
-[service_06_subtitle]
-other = "OpenDC service 6."
-[service_06_descr]
-other = "En - Description service 6."
-
-
-			
+		
 [odc_description_title]
 other = "OpenDC is a start-up specialised in data analysis and mobility studies."
 
