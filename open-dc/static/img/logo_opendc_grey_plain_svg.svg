@@ -17,7 +17,7 @@
    inkscape:export-filename="C:\Users\dmarin\Dropbox\Pro\OpenDC\01 Templates\Logos\opendc_blue.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
-   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="logo_opendc_grey_plain_svg.svg">
   <defs
      id="defs5299" />
@@ -28,17 +28,18 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8"
-     inkscape:cx="26.490539"
-     inkscape:cy="15.835331"
+     inkscape:zoom="5.6"
+     inkscape:cx="-48.819808"
+     inkscape:cy="102.63544"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="3200"
-     inkscape:window-height="1675"
-     inkscape:window-x="-13"
-     inkscape:window-y="-13"
-     inkscape:window-maximized="1" />
+     inkscape:window-width="4000"
+     inkscape:window-height="2094"
+     inkscape:window-x="9584"
+     inkscape:window-y="-16"
+     inkscape:window-maximized="1"
+     showguides="false" />
   <metadata
      id="metadata5302">
     <rdf:RDF>
@@ -51,6 +52,42 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="GEOMETRY"
+     style="display:none">
+    <path
+       transform="translate(-40.963371,-36.145208)"
+       style="fill:none;stroke:#000000;stroke-width:0.569363px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 7.8372317,170.92788 79.853649,28.283936"
+       id="path439"
+       inkscape:connector-curvature="0" />
+    <path
+       transform="translate(-40.963371,-36.145208)"
+       inkscape:connector-curvature="0"
+       id="path441"
+       d="M 34.106577,173.95169 106.12299,31.307746"
+       style="fill:none;stroke:#000000;stroke-width:0.569363px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       transform="translate(-40.963371,-36.145208)"
+       style="fill:none;stroke:#000000;stroke-width:0.43638846px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 4.1454709,56.658362 106.96746,56.422127"
+       id="path443"
+       inkscape:connector-curvature="0" />
+    <path
+       transform="translate(-40.963371,-36.145208)"
+       inkscape:connector-curvature="0"
+       id="path447"
+       d="M 5.5628816,68.163013 108.38487,67.926778"
+       style="fill:none;stroke:#000000;stroke-width:0.43638846px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       transform="translate(-40.963371,-36.145208)"
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 94.021778,79.384182 93.880038,56.705609"
+       id="path445"
+       inkscape:connector-curvature="0" />
+  </g>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
@@ -85,40 +122,38 @@
        inkscape:export-xdpi="50.2061"
        transform="scale(0.99373638,1.0063031)"
        id="text1163"
-       y="66.296898"
-       x="64.069672"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#3d5583;fill-opacity:1;stroke:none;stroke-width:0.10598996;"
+       y="67.294319"
+       x="62.037109"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611111px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;display:inline;fill:#3d5583;fill-opacity:1;stroke:none;stroke-width:0.12189806;"
        xml:space="preserve"
        inkscape:export-filename="C:\Users\dmarin\Dropbox\Pro\OpenDC\01 Templates\Logos\images\logo_opendc_grey.png"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#3d5583;fill-opacity:1;stroke-width:0.10598996;"
-         y="66.296898"
-         x="64.069672"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611111px;line-height:0;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;writing-mode:lr;text-anchor:start;fill:#3d5583;fill-opacity:1;stroke-width:0.12189806;"
+         y="67.294319"
+         x="62.037109"
          sodipodi:role="line"
          id="tspan1157"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0.29846689px;writing-mode:lr-tb;text-anchor:start;fill:#3d5583;fill-opacity:1;stroke-width:0.10598996;"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611111px;line-height:0;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;writing-mode:lr;text-anchor:start;fill:#3d5583;fill-opacity:1;stroke-width:0.12189806;"
            id="tspan1155"
            dy="0">Open Data</tspan></tspan><tspan
          id="tspan1161"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#3d5583;fill-opacity:1;stroke-width:0.10598996;"
-         y="66.296898"
-         x="64.069672"
-         sodipodi:role="line"><tspan
-           id="tspan1159"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0.29846689px;writing-mode:lr-tb;text-anchor:start;fill:#3d5583;fill-opacity:1;stroke-width:0.10598996;" /></tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611111px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0.34329802px;writing-mode:lr;text-anchor:start;fill:#3d5583;fill-opacity:1;stroke-width:0.12189806;"
+         y="73.467934"
+         x="62.037109"
+         sodipodi:role="line" /></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#3d5583;fill-opacity:1;stroke:none;stroke-width:0.12257256;"
-       x="55.956715"
-       y="81.384354"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611112px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;display:inline;fill:#3d5583;fill-opacity:1;stroke:none;stroke-width:0.11149393;"
+       x="53.650639"
+       y="81.732559"
        id="text1167"
        transform="scale(1.0335611,0.96752867)"
        inkscape:export-xdpi="50.2061"
        inkscape:export-ydpi="50.2061"
        inkscape:export-filename="C:\Users\dmarin\Dropbox\Pro\OpenDC\01 Templates\Logos\images\logo_opendc_grey.png"><tspan
          sodipodi:role="line"
-         x="55.956715"
-         y="81.384354"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#3d5583;fill-opacity:1;stroke-width:0.12257256;"
+         x="53.650639"
+         y="81.732559"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611112px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr;text-anchor:start;fill:#3d5583;fill-opacity:1;stroke-width:0.11149393;"
          id="tspan1165">Consultants</tspan></text>
   </g>
 </svg>

@@ -16,11 +16,11 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/services/service_01/</guid>
-      <description>What OpenDC can do OpenDC can help you find among the thousands of webpages the open data sets that can help your organisation unlock new insights. Some of this data will be too big to be anlaysed by usual tools like Excel. OpenDC can help you load and analyse this data using open source programming tools such as Python libraries or PostgreSQL databases. Once this data is identified and loaded, OpenDC can help you analyse the patterns in the data, cross the information with external independant datasets to find correlations, answer the questions you have asked and the ones you have not.</description>
+      <description>What OpenDC can do OpenDC can help you find among the thousands of webpages the open data sets that can help your organisation unlock new insights. Some of this data will be too big to be analysed by usual tools like Excel. OpenDC can help you load and analyse this data using open source programming tools such as Python libraries or PostgreSQL databases. Once this data is identified and loaded, OpenDC can help you analyse the patterns in the data, cross the information with external independent datasets to find correlations, answer the questions you have asked and perhaps the ones you have not.</description>
     </item>
     
     <item>
-      <title>Mapping and Visualisation</title>
+      <title>Mapping and other visualisation</title>
       <link>/services/service_02/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -35,19 +35,19 @@ How this service can help your organisation OpenDC can help you use GIS features
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/services/service_03/</guid>
-      <description>What OpenDC can do OpenDC can develop for you custom QGIS plguins under the QGIS API. Note that any QGIS plugin that is publicaly released needs to be open-source. 
+      <description>What OpenDC can do OpenDC can develop for you custom QGIS plugins under the QGIS API. Note that any QGIS plugin that is publicly released has to be open-source. You can however use your plugin internally if you do not want to release the code. 
 How this service can help your organisation You might be interested in a custom QGIS plugin if you are working for a
- Non Governmental Organisation (NGO) with interesting geographical datasets that you want to make available to the GIS community in order to enable the wide analysis of this data set.</description>
+Non Governmental Organisation (NGO) with interesting geographical datasets that you want to make available to the GIS community in order to enable the wide analysis of this data set.</description>
     </item>
     
     <item>
-      <title>Assistance on process automation</title>
+      <title>Process automation</title>
       <link>/services/service_04/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/services/service_04/</guid>
-      <description>What OpenDC can do OpenDC mainly uses open-source tools and languages but stays pragmatic when a language or an application is popular but not open-source. Therefore OpenDC also uses the VBA language to automate processes on any Microsoft Office application. Python, C++ and SQL are used for any other application. 
-How this service can help your organisation OpenDC can help you use automate your processes if you are working for a</description>
+      <description>What OpenDC can do OpenDC mainly uses open-source tools and languages but stays pragmatic when a language or an application is popular but not open-source. Therefore OpenDC also uses the VBA language to automate processes on any Microsoft Office application. Python, C++ and SQL are generally used for any other applications. 
+How this service can help your organisation OpenDC can help you automate your processes if you are working for a</description>
     </item>
     
     <item>
@@ -56,9 +56,9 @@ How this service can help your organisation OpenDC can help you use automate you
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/services/service_05/</guid>
-      <description>What OpenDC can do OpenDC&amp;rsquo;s founder has over 10 years experience in transport and pedestrian modelling, working in Paris, London and Guinea Conakry. OpenDC can help strengthen your team with advanced modelling and project management skills. 
+      <description>What OpenDC can do OpenDC&amp;rsquo;s founder has over 10 years experience in transport and pedestrian modelling projects, working in London, Paris and Guinea Conakry. OpenDC can help strengthen your team on high profile mobility projects with advanced modelling and project management skills. 
 How this service can help your organisation OpenDC can help you in your mobility project if you are working for a
- Local council and want to be advised on a mobility study you would like to launch.</description>
+Local council and want to be advised on a mobility study you would like to launch.</description>
     </item>
     
     <item>
@@ -67,7 +67,7 @@ How this service can help your organisation OpenDC can help you in your mobility
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/services/service_06/</guid>
-      <description>What OpenDC can do OpenDC&amp;rsquo;s founder has developed an expertise on the use of mobile phone data (GSM) and GPS data to understand people movement. This expertise involves the collection of the data, the storage, the cleansing process, various filtering processes using different mathematical tools, the acaling, bias correction, aggregation, analysis and visualisation. 
+      <description>What OpenDC can do OpenDC&amp;rsquo;s founder has developed an expertise in the use of mobile phone data (GSM) and GPS data to understand people movement. This expertise involves the data collection, storage, cleansing, filtering processes using different mathematical tools, scaling, bias correction, aggregation, analysis and visualisation. 
 How this service can help your organisation OpenDC can assist you with GPS and mobile network data if you are working for a</description>
     </item>
     

@@ -34,17 +34,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.10.2.min.js"><\/script>')</script>
 <script src="/js/bootstrap.min.js"></script>
@@ -59,17 +48,7 @@
 
 
 
-
-
-
-
-
-
-
 </head>
-
-	<p>LANGUE: en</p>
-
 <body>
 
 	
@@ -89,10 +68,19 @@
             <span class="icon-bar"></span>
             </button>
             
-			<a class="logo" href=""> 
-              
-			  <img src="/img/logo_opendc_grey_plain_svg.svg" alt="OpenDC Ltd - UK Logo" width="35%"/>
-            </a>
+			<div class="row">
+			
+				<a class="logo" href=""> 
+				  <img src="/img/logo_opendc_grey_plain_svg.svg" alt="OpenDC Ltd - UK Logo" width="100px"/>
+				</a>
+				
+				
+				  
+				
+				
+				  
+				
+			</div>
           </div>
             
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
@@ -100,24 +88,21 @@
                 
 				<li><a href="/index.html"><font size="4">Home</font></a></li>
               
-                
-				<li><a href="/services/index.html"><font size="4">Services</font></a></li>
+                <li><a href="/services/index.html"><font size="4">Services</font></a></li>
               
-                
-				<li><a href="/work/index.html"><font size="4">Work</font></a></li>
+                <li><a href="/work/index.html"><font size="4">Work</font></a></li>
               
-                
-				<li><a href="/about/index.html"><font size="4">About</font></a></li>
+                <li><a href="/about/index.html"><font size="4">About</font></a></li>
               
-                
-				<li><a href="/contact/index.html"><font size="4">Contact</font></a></li>
+                <li><a href="/contact/index.html"><font size="4">Contact</font></a></li>
               
-                
-				<li><a href="/index.html"><font size="4">En</font></a></li>
-              
-                
-				<li><a href="/fr/index.html"><font size="4">Fr</font></a></li>
-              
+			  
+			  
+			  <span class="text-nowrap"><li style="padding-top:5px;"><i>
+				<a href="/"><font size="4">En</font></a>/<a href="/fr/"><font size="4">Fr</font></a>
+				
+			  </i></li></span>
+			  
               </ul>
             </div>
           </div>
@@ -135,7 +120,7 @@
             <div class="col-md-12">
                 <div class="block">
                     <h1>About OpenDC</h1>
-                    <p></p>
+                    <p style="text-align: left"></p>
                 </div>
             </div>
         </div>
@@ -146,18 +131,24 @@
 		<div class="container">
 			<div class="row">
 				
-				
+				<div class="col-md-6">
 					<article class="blog-post">
 						<a class="post-title">Open Data Consultants</a>
-						<p><p>OpenDC has been founded in 2019 by Daniel Marin, engineer from 
-<a><href = "https://www.ensta-paristech.fr/en">ENSTA ParisTech</a> (France) and <a><href = "http://www-instn.cea.fr/en/">INSTN CEA Saclay.</a></p>
-<p>Daniel has over 10 years experience in mathematical modelling for transportation, mobility and pedestrian studies and data analysis. 
-<p>Currently, OpenDC is a one-person company providing contracting work for consultancies and public bodies. OpenDC is meant to grow bigger as the availability of open data, open source software and the need to found decisions on transparent data, assumptions and models are likely to do.</p>
+						<p><p>
+OpenDC has been founded in 2019 by <a href="https://www.linkedin.com/in/daniel-marin-a34a1480/" target="_blank">Daniel Marin</a>, engineer from 
+<a href = "https://www.ensta-paristech.fr/en" target="_blank">ENSTA ParisTech</a> (France) and <a href = "http://www-instn.cea.fr/en/" target="_blank">INSTN CEA Saclay.</a>
+</p>
+<p>
+Daniel has over 10 years experience in mathematical modelling for transportation, mobility and pedestrian studies and data analysis. 
+</p>
+<p>
+Currently, OpenDC is a one-person company providing contracting work for consultancies and public bodies. However, OpenDC has a network of larger companies specialized in pedestrian and transport modelling and ready to partner if a project requires large teams. OpenDC is meant to grow bigger as the availability of open data, open source software and the need to found decisions on transparent data, assumptions and models are likely to do.
+</p>
 </p>
 						
 						<a href="/contact/index.html" class="btn btn-main">Contact us</a>
 					</article>
-				
+				</div>
 				
 			</div>
 			<div class="col-12 text-center">
@@ -188,6 +179,14 @@
           </ul>
         </div>
         
+		
+		<p><font size ="1"><i>
+			OpenDC Ltd is a limited company registered in 
+			England and Wales with company number 
+			11623032. VAT No 
+			312137646
+		</i></p>
+		
 		<p><font size ="1">Copyright - Website created by OpenDC Ltd with Hugo static site generator	 and Theme Developed by Themefisher. All rights reserved.</p>
       </div>
     </div>

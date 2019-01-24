@@ -15,7 +15,7 @@
 				{{ range (.Paginator 6).Pages }}
 				<div class="col-md-6">
 					<article class="blog-post">
-						<img src="{{ .Params.Icon | relURL}}" class="img-responsive" alt="post-thumb">
+						<img src="{{ .Params.Icon | relURL}}" class="img-fluid" alt="post-thumb" width="60%" >
 						<a class="post-title" href="{{ .Permalink | safeURL }}">{{ .Title }}</a>
 						<p>{{ .Description }}</p>
 						<a href="{{ .Permalink | safeURL}}" class="btn btn-main">{{ i18n "read_more"}}</a>						

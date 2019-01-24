@@ -11,104 +11,102 @@
     
     
     <item>
-      <title>Fr - Analysis of Open Datasets</title>
+      <title>Analyse de jeux de données ouvertes</title>
       <link>/fr/services/service_01/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/fr/services/service_01/</guid>
-      <description>What OpenDC can do OpenDC can help you find among the thousands of webpages the open data sets that can help your organisation unlock new insights. Some of this data will be too big to be anlaysed by usual tools like Excel. OpenDC can help you load and analyse this data using open source programming tools such as Python libraries or PostgreSQL databases. Once this data is identified and loaded, OpenDC can help you analyse the patterns in the data, cross the information with external independant datasets to find correlations, answer the questions you have asked and the ones you have not.</description>
+      <description>L&amp;rsquo;expertise OpenDC OpenDC vous aide à trouver parmi les milliers de pages web disponibles les jeux de données ouvertes qui aideront votre organisation à se développer. Certains de ces jeux de données seront trop volumineux pour être analysés par des outils classiques tels que Microsoft Excel. OpenDC peut vous aider à charger cette donnée en utilisant des outils de programmation open source tels que des librairies Python ou des bases de données PostreSQL.</description>
     </item>
     
     <item>
-      <title>Fr - SENSE Pedestrian Assignment Software</title>
+      <title>SENSE Logiciel de simulation de flux piétons</title>
       <link>/fr/work/work_01/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/fr/work/work_01/</guid>
-      <description>Client: Movement Strategies Ltd     Sector: Pedestrian modelling   
- What we did:  We developed a pedestrian dynamic assignment software, with an assignment algorithm based on fluid mechanics principles. The tool can assign an unlimited number of pedestrians, at any scale and cutom flow desnity relationship can be implemented. How we use open data or software:  The tool was computed as a QGIS plugin, open source software providing an open source API.</description>
+      <description>Entreprise: Movement Strategies Ltd     Client: Projet interne  --  Secteur: Modélisation de flux piétons   
+ Ce que nous avons fait:  Nous avons développé un outil d&amp;rsquo;affectation dynamique de piétons, avec un algorithme issu de la mécanique des fluides. L&amp;rsquo;outil peut affecter un nombre illimité de piétons à n&amp;rsquo;importe quelle échelle et des lois fondamentales de relation flux-densité peuvent y être librement adaptées.</description>
     </item>
     
     <item>
-      <title>Fr - Bassins de vie du Grand Paris</title>
-      <link>/fr/work/work_02/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/fr/work/work_02/</guid>
-      <description>Client: Agence D&amp;A     Sector: Urban planning   
- What we did:  We created a toll analysing commuting open data from the French ordnance survey (INSEE) to help our client understand how commuting data can give insights on how nieghbouring cities bound together and define perimeters that are sometimes at odds with the official administration boundaries. How we use open data or software:  We used French national ordnance survey data from INSEE before it was called open data.</description>
-    </item>
-    
-    <item>
-      <title>Fr -Mapping and Visualisation</title>
+      <title>Cartographie et autres visualisations</title>
       <link>/fr/services/service_02/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/fr/services/service_02/</guid>
-      <description>What OpenDC can do OpenDC mainly uses the QGIS framework as a Geographic Information System (GIS) tool. With QGIS, OpenDC can provide communicative maps as well as perform advanced GIS analysis such as the analysis of catchment areas but also advanced routing features. OpenDC can also provide GIS training in general and on QGIS in particular. 
-How this service can help your organisation OpenDC can help you use GIS features if you are working for a</description>
+      <description>L&amp;rsquo;expertise OpenDC OpenDC utilise essentiellement le Système d&amp;rsquo;Information Géographique (SIG) QGIS. Avec QGIS, OpenDC peut vous fournir des cartes communicatives et effectuer des opérations SIG avancées telles que des analyses de zones de chalandise ou des calculs avancés de choix d&amp;rsquo;itinéraires. OpenDC peut aussi fournir des formations sur les SIG en général et QGIS en particulier. 
+En quoi cela peut vous intéresser OpenDC peut vous aider dans l&amp;rsquo;analyse géographique si vous travaillez par exemple pour une des organisations suivantes:</description>
     </item>
     
     <item>
-      <title>Fr - Mode Choice Estimator</title>
+      <title>Les Bassins de vie du Grand Paris</title>
+      <link>/fr/work/work_02/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/fr/work/work_02/</guid>
+      <description>Entreprise: CDVIA     Client: Agence D&amp;A     Secteur: Urbanisme   
+ Ce que nous avons fait:  Nous avons analysé des données de déplacements domicile-travail issues de la base INSEE afin d&amp;rsquo;aider notre client à comprendre comment ces données de mobilité pouvaient faire ressortir des enseignements sur la façon dont les communes franciliennes limitrophes interagissent. Notre client a pu ainsi démontrer que ces interactions peuvent former des périmètres parfois bien différents de ceux constituant la communauté d&amp;rsquo;agglomérations à laquelle les communes étudiées appartiennent.</description>
+    </item>
+    
+    <item>
+      <title>Calculateur de choix modal</title>
       <link>/fr/work/work_03/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/fr/work/work_03/</guid>
-      <description>Client: CDVIA     Sector: Transport modelling   
- What we did:  We helped our client build a public transport assignment tool plugged into their in-house private transport assignment tool. We then collected open data of observed mode choice for commute at an aggregate level. Using privtae and public transportation travel times derived from the assignment tool, we have infered a simple model giving a mode probablity as a function of the travel time difference.</description>
+      <description>Entreprise: CDVIA     Client: Projet interne  --  Secteur: Modélisation des transports   
+ Ce que nous avons fait:  Nous avons aidé notre client à développer un outil d&amp;rsquo;affectation en transport en commun (TC), pouvant s&amp;rsquo;interfacer avec leur outil maison d&amp;rsquo;affectation en véhicules particuliers (VP). Nous avons ensuite collecté des données de choix modal agrégées pour des déplacements domicile travail (données INSEE). En utilisant les temps de parcours issus des outils d&amp;rsquo;affectation VP et TC, nous avons développé un modèle simple permettant de déduire une probabilité d&amp;rsquo;utilisation d&amp;rsquo;un mode de transport en fonction de la simple différence de temps de parcours.</description>
     </item>
     
     <item>
-      <title>Fr - QGIS Plugin Development</title>
+      <title>Développement de plugins sous QGIS</title>
       <link>/fr/services/service_03/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/fr/services/service_03/</guid>
-      <description>What OpenDC can do OpenDC can develop for you custom QGIS plguins under the QGIS API. Note that any QGIS plugin that is publicaly released needs to be open-source. 
-How this service can help your organisation You might be interested in a custom QGIS plugin if you are working for a
- Non Governmental Organisation (NGO) with interesting geographical datasets that you want to make available to the GIS community in order to enable the wide analysis of this data set.</description>
+      <description>L&amp;rsquo;expertise OpenDC OpenDC développe des plugins customisés sous l&amp;rsquo;API de QGIS . Notons que tout plugin publié dans le dépôt officiel de plugins QGIS doit être open source. Le plugin peut toutefois être utilisé en interne si le code n&amp;rsquo;a pas vocation à être dévoilé. 
+En quoi cela peut vous intéresser Vous pouvez être intéressé par un développement de plugin custom si vous travaillez par exemple pour une des organisations suivantes:</description>
     </item>
     
     <item>
-      <title>Fr - Assistance on process automation</title>
+      <title>Automatisation de process</title>
       <link>/fr/services/service_04/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/fr/services/service_04/</guid>
-      <description>What OpenDC can do Fr - OpenDC mainly uses open source languages but stay pragmatic when a language or an application is popular but not open source. Therefore OpenDC uses VBA to automate your processes on any Microsoft Office application, and Python for other applications. 
-How this service can help your organisation OpenDC can help you use automate your processes if You have standard manipulations under Excel that regularly take a lot of your time.</description>
+      <description>L&amp;rsquo;expertise OpenDC OpenDC utilise essentiellement des outils de programmation open source mais reste pragmatique lorsqu&amp;rsquo;un langage ou application non open source est populaire et accessible. OpenDC utilise notamment le langage VBA pour automatiser des tâches dans les applications Microsoft Office. Python, C++ et SQL sont généralement utilisés par OpenDC pour les autres applications. 
+En quoi cela peut vous intéresser OpenDC peut vous aider dans l&amp;rsquo;automatisation de vos process si vous travaillez par exemple pour une des organisations suivantes:</description>
     </item>
     
     <item>
-      <title>Fr - Project EDMOND</title>
+      <title>Projet EDMOND</title>
       <link>/fr/work/work_04/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/fr/work/work_04/</guid>
-      <description>Client: Transport for London (TfL)      Sector: Data analytics in transport    
- What we did:  The TfL EDMOND project aimed to build Origin-Destination (OD) matrices in the Greater London Authority (GLA) unsing mobile network data fused with external datasets.  As part of the Telefónica UK team in a joint project involving two major consultancies (Jacobs and AECOM), we managed the team of analysts at Telefónica in charge of collecting, cleaning, filtering, scaling and analysing the mobile network data.</description>
+      <description>Entreprise: Telefónica UK     Client: Transport for London (TfL)     Secteur: Analyse de données   
+ Ce que nous avons fait:  Le projet EDMOND lancé par TfL avait pour but de créer des matrices Origines Destinations (OD) à l&amp;rsquo;échelle nationale avec un focus sur la région du Grand Londres en utilisant des données mobiles couplées à des jeux de données externes.  En temps que membre de l&amp;rsquo;équipe Telefónica UK dans un projet commun impliquant deux bureaux d&amp;rsquo;études majeurs (Jacobs et AECOM), nous avons encadré l&amp;rsquo;équipe d&amp;rsquo;analystes à Telefónica en charge de la collecte, du filtrage, du redressement et de l&amp;rsquo;analyse de la donnée mobile.</description>
     </item>
     
     <item>
-      <title>Fr - Assistance on mobility studies</title>
+      <title>Études de mobilité</title>
       <link>/fr/services/service_05/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/fr/services/service_05/</guid>
-      <description>What OpenDC can do OpenDC&amp;rsquo;s founder has over 10 years experience in transport and pedestrian modelling, working in Paris, London and Guinea Conakry. OpenDC can help strengthen your team with advanced modelling and project management skills. 
-How this service can help your organisation OpenDC can help you in your mobility project if you are working for a
- Local council and want to be advised on a mobility study you would like to launch.</description>
+      <description>L&amp;rsquo;expertise OpenDC Le fondateur d&amp;rsquo;OpenDC a plus de 10 ans d&amp;rsquo;expérience dans la modélisation de flux piétons, transports en commun et véhicules particuliers, ayant travaillé à Paris, Londres et en Guinée Conakry. OpenDC peut vous aider à compléter votre équipe sur des études de mobilité grâce à des compétences en modélisation et en gestion de projet avancées. 
+En quoi cela peut vous intéresser OpenDC peut vous aider dans vos études de mobilité si vous travaillez par exemple pour une des organisations suivantes:</description>
     </item>
     
     <item>
-      <title>Fr - Advice on the use of mobile phone and GPS data</title>
+      <title>Conseil sur l&#39;utilisation de données mobiles, GSM et GPS</title>
       <link>/fr/services/service_06/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/fr/services/service_06/</guid>
-      <description>What OpenDC can do OpenDC&amp;rsquo;s founder has developed an expertise on the use of mobile phone data (GSM) and GPS data to understand people movement. This expertise involves the collection of the data, the storage, the cleansing process, various filtering processes using different mathematical tools, the acaling, bias correction, aggregation, analysis and visualisation. 
-How this service can help your organisation OpenDC can assist you with GPS and mobile network data if you are working for a</description>
+      <description>L&amp;rsquo;expertise OpenDC Le fondateur d&amp;rsquo;OpenDC a pris part à des projets innovants et fondateurs utilisant la donnée mobile (GSM) pour comprendre les flux de personnes. L&amp;rsquo;expertise acquise comprend la collecte de données, le stockage, les processus de filtrage, la maîtrise des outils mathématiques pour le redressement, la correction de biais, l’agrégation, l&amp;rsquo;analyse et la visualisation de la donnée. 
+En quoi cela peut vous intéresser OpenDC peut vous aider dans l&amp;rsquo;étude de la donnée mobile si vous travaillez par exemple pour une des organisations suivantes:</description>
     </item>
     
     <item>
@@ -117,8 +115,7 @@ How this service can help your organisation OpenDC can assist you with GPS and m
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/fr/about/about/</guid>
-      <description>Fr - OpenDC has been founded in 2019 by Daniel Marin, engineer from ENSTA ParisTech (France) and INSTN CEA Saclay.
-Daniel has over 10 years experience in mathematical modelling for transportation, mobility and pedestrian studies and data analysis. Currently, OpenDC is a one-person company providing contracting work for consultancies and public bodies. OpenDC is meant to grow bigger as the availability of open data, open source software and the need to found decisions on transparent data, assumptions and models are likely to do.</description>
+      <description>OpenDC a été crée en 2019 par Daniel Marin, ingénieur issu de l&#39; ENSTA ParisTech et de l&#39; INSTN CEA Saclay.  Daniel a plus de 10 ans d&#39;expérience dans la modélisation mathématique des transports, les études de mobilité, analyse de flux piétons et analyse de données.  OpenDC est à l&#39;heure actuelle une entreprise avec un seul membre, opérant des tâches en contractuel pour des bureaux d&#39;études et organismes publics.</description>
     </item>
     
   </channel>

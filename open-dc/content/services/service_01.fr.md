@@ -1,49 +1,48 @@
 +++
-title = "Fr - Analysis of Open Datasets"
+title = "Analyse de jeux de données ouvertes"
 weight = 1
 type = "services"
-description = "OpenDC helps you find, load, analyse and visualise open data sets."
+description = "OpenDC vous aide à trouver, charger, analyser et visualiser des jeux de données ouvertes."
 icon = "/img/services/icon_s01.png"
 image = "/img/services/image_s01.svg"
 translationKey = "service_01"
 +++
 
-#### What OpenDC can do
-OpenDC can help you find among the thousands of webpages the open data sets  that can help your organisation unlock new insights.
-Some of this data will be too big to be anlaysed by usual tools like Excel. OpenDC can help you load and analyse this data using open source programming tools such as Python libraries or PostgreSQL databases.
-Once this data is identified and loaded, OpenDC can help you analyse the patterns in the data, cross the information with external independant datasets to find correlations, answer the questions you have asked and the ones you have not.
+#### L'expertise OpenDC
+OpenDC vous aide à trouver parmi les milliers de pages web disponibles les jeux de données ouvertes qui aideront votre organisation à se développer. Certains de ces jeux de données seront trop volumineux pour être analysés par des outils classiques tels que Microsoft Excel. OpenDC peut vous aider à charger cette donnée en utilisant des outils de programmation open source tels que des librairies Python ou des bases de données PostreSQL.
+Une fois ces données identifiées et chargées, nous pouvons vous aider à en analyser les patterns, à croiser l'information avec des sources de données indépendantes afin d'y percevoir des corrélations, à répondre aux questions que vous vous posiez et peut-être à celles que vous ne vous posiez pas.
 <br></br>
 
-#### How this service can help your organisation
-OpenDC can help you using open data if you are working for a
+#### En quoi cela peut vous intéresser
+OpenDC peut vous aider dans l'utilisation de jeux de données ouvertes si vous travaillez par exemple pour une des organisations suivantes:
 	
-<ul.a>
-	
-	<li><b>Local council</b> and want to understand more about the available data related to your territory and compare with other similar size territories in your country or elsewhere.</li><br></br>
+<ul style="list-style-type:disc; padding-left:2em; line-height:250%;">
+	<li><b>Collectivité territoriale</b> et vous souhaitez mieux comprendre les données disponibles qui décrivent votre territoire et les comparer avec celles issues d'autres territoires.</li>
 
-	<li><b>Non-Governmental Organisation</b> (NGO) and want to investigate the available data for the countries you have projects in.</li><br></br>
+	<li><b>Organisation Non Gouvernementale</b> (ONG) et souhaitez explorer la donnée disponible sur les pays dans lesquels vous intervenez.</li>
 
-	<li><b>Transport operator</b> and want to release your data in an open data format, or investigate the data provided by other transport operators.</li><br></br>
+	<li><b>Opérateur de transport</b> et souhaitez publier vos données en open data ou analyser des données d'autres opérateurs.</li>
 
-	<li><b>Research programme</b> and need support in your data collection and analysis tasks.</li><br></br>
+	<li><b>Programme de recherche</b> et avez besoin de support sur vos tâches de collecte et d'analyse de données.</li>
 
-	<li><b>Consultancy</b> and want to understand how the use of open data can help you deliver more robust and complete studies.</li><br></br>
+	<li><b>Bureau d'études</b> et souhaitez mieux comprendre comment l'utilisation de l'open data peut vous aider à fournir des études plus complètes et référencées.</li>
 
-	<li><b>Urban planner</b> and want to collect and analyse data about the territory where your masterplan is planned.</li><br></br>
+	<li><b>Urbaniste</b> et souhaitez collecter de la donnée sur le territoire de votre masterplan.</li>
 
-	<li><b>Lender, key donor or funder</b> (World Bank, Agence Française de Dévelopement, European Commission etc.) and want to evaluate the effects of a past policy or want to support your decision on future investments through open data.</li><br></br>
+	<li><b>Bailleur de fonds</b> (Banque mondiale, Agence Française de Développement, Commission Européenne etc.) et souhaitez évaluer les effets d'une politique publique passée ou souhaitez fonder vos investissements futurs sur de l'open data.</li>
 
-	<li><b>Property investor</b> and want to better understand how open data can help you make better decisions on where to invest on the short middle and long run.</li><br></br>
+	<li><b>Développeur immobilier</b> et vous souhaitez mieux comprendre comment l'open data peut vous aider à prendre de meilleures décisions pour vos choix d'investissements à court, moyen et long terme.</li>
 
-	<li><b>Political party</b> and want to use open data to develop your programme and support your communication plan.</li><br></br>
+	<li><b>Parti politique</b> et souhaitez utiliser de l’open data pour développer votre programme politique et votre plan de communication.</li>
 
-	<li><b>Non-Profit Organisation</b> and need open and transparant data to collect funds or support your communication.</li><br></br>
+	<li><b>Association</b> et vous avez besoin de données ouvertes et transparentes pour collecter des fonds ou développer votre communication.</li>
 
-	<li><b>Retailer</b> that wants to expand and needs data to understand catchment areas and competition in order to take the best decision as where to expand.</li><br></br>
+	<li><b>Aménageur commercial</b> et avez besoin de données afin de comprendre les zones de chalandise, la concurrence et choisir ainsi l'emplacement d'expansion idéal.</li>
 
-	<li><b>Entrepreneur</b> that open data could help better understand the market and the concurrence.</li><br></br>
+	<li><b>Entrepreneur</b> que la donnée pourrait aider à mieux comprendre le marché et la concurrence.</li>
 
-	<li><b>Shop owner</b> that want to open a new shop and would like to support his location choice on open data.</li><br></br>
+	<li><b>Boutique</b> qui souhaite ouvrir une nouvelle enseigne et voudrait choisir sa location en utilisant de l'open data.</li>
 
-	<li><b>Any business</b> that needs transparent data to support their strategic decision!</li><br></br>
+	<li><b>Toute autre organisation</b> qui a besoin de données ouvertes afin de supporter de façon transparente leurs décisions stratégiques!</li>
+
 </ul>

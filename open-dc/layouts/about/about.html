@@ -3,9 +3,6 @@
 <head>
 	{{ partial "head.html" . }}
 </head>
-<!-- test -->
-	<p>LANGUE: {{.Site.Language.Lang}}</p>
-<!-- end test -->
 <body>
 
 	{{ partial "header.html" . }}
@@ -16,14 +13,14 @@
 		<div class="container">
 			<div class="row">
 				<!-- {{ range (.Paginator 6).Pages }} -->
-				<!-- <div class="col-md-6"> -->
+				<div class="col-md-6">
 					<article class="blog-post">
 						<a class="post-title">{{ .Title }}</a>
 						<p>{{ .Content }}</p>
 						<!-- <a href="/contact/contact.html" class="btn btn-main">{{ i18n "contact_action"}}</a> -->
 						<a href="{{ .Site.Params.contact.url | relURL}}" class="btn btn-main">{{ i18n "contact_action"}}</a>
 					</article>
-				<!-- </div> -->
+				</div>
 				<!-- {{ end }} -->
 			</div>
 			<div class="col-12 text-center">

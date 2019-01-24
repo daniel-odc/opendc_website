@@ -1,31 +1,40 @@
 +++
-title = "Fr - Assistance on mobility studies"
+title = "Études de mobilité"
 weight = 5
 type = "services"
-description = "OpenDC supports your team on advanced mobility studies, pedestrian and transport modelling projects."
+description = "OpenDC vous assiste dans vos études de mobilité et projets de modélisation de flux piétons, véhicules particuliers et transports en commun."
 icon = "/img/services/icon_s05.png"
 image = "/img/services/image_s05.svg"
 translationKey = "service_05"
 +++
 
-#### What OpenDC can do
-OpenDC's founder has over 10 years experience in transport and pedestrian modelling, working in Paris, London and Guinea Conakry. OpenDC can help strengthen your team with advanced modelling and project management skills.
+#### L'expertise OpenDC
+Le fondateur d'OpenDC a plus de 10 ans d'expérience dans la modélisation de flux piétons, transports en commun et véhicules particuliers, ayant travaillé à Paris, Londres et en Guinée Conakry. OpenDC peut vous aider à compléter votre équipe sur des études de mobilité grâce à des compétences en modélisation et en gestion de projet avancées.
 <br></br>
 
-#### How this service can help your organisation
-OpenDC can help you in your mobility project if you are working for a
+#### En quoi cela peut vous intéresser
+OpenDC peut vous aider dans vos études de mobilité si vous travaillez par exemple pour une des organisations suivantes:
+	
+<ul style="list-style-type:disc; padding-left:2em; line-height:250%;">
+	
+	<li><b>Collectivité territoriale</b> et vous souhaitez être conseillés sur une étude de mobilité que vous souhaiteriez lancer.</li>
 
-<ul.a>
+	<li><b>Organisation Non Gouvernementale</b> (ONG) et souhaitez apporter un complément d'expertise sur un projet de mobilité que vous lancez.</li>
 
-	<li><b>Local council</b> and want to be advised on a mobility study you would like to launch.</li><br></br>
-	<li><b>Non Governmental Organisation</b> (NGO) and would like some mobility expertise for a project you are running.</li><br></br>
-	<li><b>Transport operator</b> and need an experienced modeller to assist you in a specific project.</li><br></br>
-	<li><b>Research programme</b> and need skills and experience in the collection of mobility data, using open-data and advanced transport APIs.</li><br></br>
-	<li><b>Consultancy</b> specialised in traffic but not pdestrian modelling or reverse and the need to strengthen your team with complementary skills.</li><br></br>
-	<li><b>Urban planner</b> that needs a mobility engineer to partner with in your project.</li><br></br>
-	<li><b>Lender, key donor or funder</b> (World Bank, Agence Française de Dévelopement, European Commission etc.) that need advanced mobility analysis to understand and demonstrate links between development and general accessiblity.</li><br></br>
-	<li><b>Property investor</b> who would like to estimate transport accessiblity in the present but also in the future, taking into account transport projects, modelling access times and understand how attractive future property location will be.</li><br></br>
-	<li><b>Retailer</b> who want to understand how the accessiblity to their shopping centre can be improved.</li><br></br>
-	<li><b>Any business</b> that needs expertise in mobility studies, from the analysis of survey data, to the modelling of future transportation networks, demand forecasts and general travel time and accessiblity analysis.</li><br></br>
+	<li><b>Opérateur de transport</b> et avez besoin d'un modélisateur expérimenté pour vous assister sur vos projets.</li>
+
+	<li><b>Programme de recherche</b> et avez besoin d'expérience dans le domaine de la collecte de données de mobilité et l'utilisation d'API en transports.</li>
+
+	<li><b>Bureau d'études</b> spécialisé en flux piétons mais pas transports ou l'inverse et avez besoin de compétences complémentaires sur un projet.</li>
+
+	<li><b>Urbaniste</b> et avez besoin d'un ingénieur mobilité pour vous associer sur un projet.</li>
+
+	<li><b>Bailleur de fonds</b> et avez besoin de compétences avancées en mobilité afin de comprendre les liens entre accessibilité et développement.</li>
+
+	<li><b>Développeur immobilier</b> et vous souhaitez estimer les gains en temps d’accessibilité  qu'un projet de transport pourra apporter dans le futur et quantifier ainsi la valorisation de votre investissement.</li>
+
+	<li><b>Aménageur commercial</b> et souhaitez comprendre comment l’accessibilité à votre zone commerciale peut être améliorée.</li>
+
+	<li><b>Toute autre organisation</b> qui a besoin d'expertise en études de mobilité, depuis l'analyse de données d'enquêtes à la modélisation de réseaux de transports futurs en passant par la modélisation de demande et la prévision de temps d'accessibilité.</li>
+
 </ul>
-

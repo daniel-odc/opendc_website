@@ -5,7 +5,7 @@ other = "Accueil"
 [home_page_title]
 other = "OpenDC - Open Data Consultants"
 [home_page_subtitle]
-other = "Analyse de données, dévelopment d'outils, modèles, études de mobilité basés sur de l'open data et des outils de programmation open-source."
+other = "Analyse de données, développement d'outils, modèles et études de mobilité basés sur de l'open data et des outils de programmation open source."
 
 # GENERIC
 [read_more]
@@ -19,13 +19,13 @@ other = "Précédent"
 [about_title]
 other = "À propos"
 [about_subtitle]
-other = "OpenDC est une start-up spécialisée en analyse de données et analyse de mobilité. OpenDC travaille essentiellement (mais pas seulement) avec des jeux de données ouvertes et des outils open-source."
+other = "OpenDC est une start-up spécialisée en analyse de données et études de mobilité. OpenDC travaille essentiellement (mais pas seulement) avec des jeux de données ouvertes et des outils open-source."
 
 [about_paragraph]
-other = "OpenDC aide les entreprises et organismes publics à trouver et analyser des jeux de données leur permettant de découvrir des nouveaux enseignements, d'être plus efficaces ou de développer des nouveaux produits. \
-	Nous aidons à trouver , télécharger, stocker, analyser et visualiser la donnée. \
-	Nous utilisons essentiellement des outils open-source et pouvons fournir à nos clients code source et outils dévelopés pour leur projet. \
-	OpenDC a également une longue expérience en analyse de données de mobilité, telles que les analyses d'enquêtes ménage ou des analyses de données mobile et GPS pour comprendre les déplacements. Nous pouvons vous assister sur vos études de mobilité et dévelopement de modèles."				
+other = "OpenDC aide les entreprises et organismes publics à trouver et analyser des jeux de données leur permettant de dégager de nouvelles interprétations et compréhensions, d'être plus efficaces ou de développer des nouveaux produits. \
+	Nous aidons à trouver, télécharger, stocker, analyser et visualiser la donnée. \
+	Nous utilisons essentiellement des outils open-source et pouvons fournir à nos clients code source et outils développés pour leur projet. \
+	OpenDC a également une longue expérience en analyse de données de mobilité, telles que les données d'enquêtes ménage ou les données mobile et GPS pour comprendre les déplacements. Nous pouvons vous assister aussi sur vos études de mobilité et développement de modèles."				
 
 # CONTACT
 [contact_title]
@@ -37,17 +37,17 @@ other = "Contactez nous à"
 
 # TOOLS
 [tools_title]
-other = "Nos outils"
+other = "Nos outils favoris"
 [tools_subtitle]
-other = "Outils blabla"
+other = "OpenDC utilise essentiellement des outils open source mais ne se limite pas à ces derniers. Nous avons notamment une longue expérience de développement dans le langage propriétaire VBA et pouvons l'utiliser pour développer des produits si besoin."
 [tools_nonshown]
-other = "Et bien d'autres..."
+other = "..."
 
 # WORK
 [work_title]
 other = "Nos projets"
 [work_subtitle]
-other = "Nous avons activement participé à différent projets d'analyse de données ouvertes, donnéés GPS et données mobiles, modélisation de transports et dévelopement de logiciels de modélisation."
+other = "Notre sélection de projets illustre notre expertise en termes d'analyse de données ouvertes, données GPS et données mobiles, modélisation de transports et développement de logiciels de modélisation."
 
 [work_button]
 other = "Voir nos projets"
@@ -55,27 +55,35 @@ other = "Voir nos projets"
 		
 # SERVICES
 [services_title]
-other = "fr - Our services"
+other = "Services OpenDC"
 [services_subtitle]
-other = "fr - OpenDC services that help your business unlock new insights."
+other = "Nos services utilisent et combinent de l'open data et des outils d'analyse open source pour vous permettre de mieux comprendre et développer votre activité:"
 
 [services_button]
-other = "fr - View all services"
+other = "Services détaillés"
 
 			
-[odc_description_title]
-other = "fr - OpenDC is a start-up specialised in data analysis and mobility studies."
+# [odc_description_title]
+# other = "fr - OpenDC is a start-up specialised in data analysis and mobility studies."
 
-[odc_description_details]
-other = "fr - OpenDC helps businesses and public bodies find open data that can help them get new insights, be more efficient or develop new products. \
-			We help find, download, store, analyse and visualise the data. \
-			We use open source tools and can provide our client with the source code and tools developed to deliver our product. \
-			OpenDC has an extensive experience in the analysis of mobility data such as mobility survey data, GPS and mobile phone data but is not limited to it."
+# [odc_description_details]
+# other = "fr - OpenDC helps businesses and public bodies find open data that can help them get new insights, be more efficient or develop new products. \
+			# We help find, download, store, analyse and visualise the data. \
+			# We use open source tools and can provide our client with the source code and tools developed to deliver our product. \
+			# OpenDC has an extensive experience in the analysis of mobility data such as mobility survey data, GPS and mobile phone data but is not limited to it."
 
-[our_work]
-other = "fr - Our work"
+# [our_work]
+# other = "fr - Our work"
 			
+# Company registration
+[is_registered]			
+other = " est une Limited Company de droit anglais déclarée au  "
 
+[with_company_number]
+other = " avec numéro d'inscription "
+
+[with_vat_number]
+other = ". TVA No "
 
 
 # [home_page_title]

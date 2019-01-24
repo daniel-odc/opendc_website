@@ -1,5 +1,5 @@
 +++
-title = "Our Work"
-subtitle = "The work presented in this section has been carried out by OpenDC's director while being an employee of previous companies, before the creation of OpenDC Ltd. These examples of projects illustrate the expertise available at OpenDC as well as the type of projects that OpenDC pushes forward."
+title = "Our projects"
+subtitle = "The examples of projects below have been delivered by OpenDC's founder while being an employee of the mentioned companies, highlighting the range of skills available at OpenDC."
 translationKey = "work_list"
 +++

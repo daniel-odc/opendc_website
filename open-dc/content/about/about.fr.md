@@ -4,9 +4,16 @@ draft = false
 translationKey = "about"
 +++
 
-<p>Fr - OpenDC has been founded in 2019 by Daniel Marin, engineer from 
-<a><href = "https://www.ensta-paristech.fr/en">ENSTA ParisTech</a> (France) and <a><href = "http://www-instn.cea.fr/en/">INSTN CEA Saclay.</a></p>
-<p>Daniel has over 10 years experience in mathematical modelling for transportation, mobility and pedestrian studies and data analysis. 
-<p>Currently, OpenDC is a one-person company providing contracting work for consultancies and public bodies. OpenDC is meant to grow bigger as the availability of open data, open source software and the need to found decisions on transparent data, assumptions and models are likely to do.</p>
+<p>
+OpenDC a été crée en 2019 par <a href="https://www.linkedin.com/in/daniel-marin-a34a1480/" target="_blank">Daniel Marin</a>, ingénieur issu de l'
+<a href = "https://www.ensta-paristech.fr/fr" target="_blank">ENSTA ParisTech</a> et de l' <a href = "http://www-instn.cea.fr/" target="_blank">INSTN CEA Saclay.</a>
+</p>
+<p>
+Daniel a plus de 10 ans d'expérience dans la modélisation mathématique des transports, les études de mobilité, analyse de flux piétons et analyse de données. 
+</p>
+<p>
+OpenDC est à l'heure actuelle une entreprise avec un seul membre, opérant des tâches en contractuel pour des bureaux d'études et organismes publics. OpenDC dispose cependant dans son réseau d'entreprises plus grandes et spécialisées en modélisation des transports et des flux piétons, avec qui il est possible de s'associer pour des projets nécessitant des ressources importantes.
+OpenDC vise à se développer davantage, au même titre que la disponibilité des données ouvertes, logiciels open source ainsi que le besoin de de fonder les décisions sur des données, des hypothèses et des modèles transparents.
+</p>
 
 

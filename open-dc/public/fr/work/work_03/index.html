@@ -16,7 +16,7 @@
 
 
 
-<title>Fr - Mode Choice Estimator</title>
+<title>Calculateur de choix modal</title>
 
 <meta name="generator" content="Hugo 0.53" />
 
@@ -34,17 +34,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.10.2.min.js"><\/script>')</script>
 <script src="/js/bootstrap.min.js"></script>
@@ -54,13 +43,6 @@
 <script src="/js/jquery.counterup.js"></script>
 
 <script src="js/main.js"></script>
-
-
-
-
-
-
-
 
 
 
@@ -86,35 +68,43 @@
             <span class="icon-bar"></span>
             </button>
             
-			<a class="logo" href=""> 
-              
-			  <img src="/img/logo_opendc_grey_plain_svg.svg" alt="OpenDC Ltd - Fr Logo" width="35%"/>
-            </a>
+			<div class="row">
+			
+				<a class="logo" href=""> 
+				  <img src="/img/logo_opendc_grey_plain_svg.svg" alt="OpenDC Ltd - Fr Logo" width="100px"/>
+				</a>
+				
+				
+				  
+				
+				
+				  
+				
+			</div>
           </div>
             
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
               <ul class="nav navbar-nav navbar-right">
                 
-				<li><a href="/index.html"><font size="4">Home</font></a></li>
+				<li><a href="/fr/index.html"><font size="4">Accueil</font></a></li>
               
-                
-				<li><a href="/fr/services/index.html"><font size="4">Services</font></a></li>
+                <li><a href="/fr/services/index.html"><font size="4">Services</font></a></li>
               
-                
-				<li><a href="/fr/work/index.html"><font size="4">Projets</font></a></li>
+                <li><a href="/fr/work/index.html"><font size="4">Projets</font></a></li>
               
-                
-				<li><a href="/fr/about/index.html"><font size="4">A-propos</font></a></li>
+                <li><a href="/fr/about/index.html"><font size="4">A-propos</font></a></li>
               
-                
-				<li><a href="/fr/contact/index.html"><font size="4">Contact</font></a></li>
+                <li><a href="/fr/contact/index.html"><font size="4">Contact</font></a></li>
               
-                
-				<li><a href="/index.html"><font size="4">En</font></a></li>
+                <li><a href=""><font size="4"></font></a></li>
               
-                
-				<li><a href="/fr/index.html"><font size="4">Fr</font></a></li>
-              
+			  
+			  
+			  <span class="text-nowrap"><li style="padding-top:5px;"><i>
+				<a href="/"><font size="4">En</font></a>/<a href="/fr/"><font size="4">Fr</font></a>
+				
+			  </i></li></span>
+			  
               </ul>
             </div>
           </div>
@@ -132,42 +122,54 @@
 	      <div class="row">
 		    <div>
 	          <div class="block">
-							<img class="img-fluid" src="/img/work/image_w03.png" width="50%" alt="post-image"> 
-	            <h1>Fr - Mode Choice Estimator</h1>
+							<img class="img-fluid" src="/img/work/image_w03.png" width="512px" style="max-width: 90%" alt="post-image"> 
+	            <h1>Calculateur de choix modal</h1>
 	            <div class="post-info-wrapper">
 	              
 	            </div>
 	            <hr />
-	            <p><div class="row">
-    <div class="col-sm-3"><h4>Client:</h4></div>
-    <div class="col-sm-3"> <h4><a><href = "http://www.cdvia.fr/">CDVIA</a> </h4> </div>
-    <div class="col-sm-3"><a><href = "http://www.cdvia.fr/"/> <img src="/img/clients/icon_cdvia.png" /></a></div>
-</div>  
+	            <p><!-- Company -->
 
 <div class="row">
-    <div class="col-sm-3"><h4>Sector:</h4></div>
-    <div class="col-sm-3"> <h4>Transport modelling</div>
+    <div class="col-sm-3"><h4>Entreprise:</h4></div>
+    <div class="col-sm-3"> <h4><a href = "http://www.cdvia.fr/" target="_blank">CDVIA</a> </h4> </div>
+    <div class="col-sm-3"><a href = "http://www.cdvia.fr/" target="_blank"/> <img src="/img/clients/icon_cdvia.svg" width="100px"/></a></div>
+</div>  
+
+<!-- Client -->
+
+<div class="row">
+    <div class="col-sm-3"><h4>Client:</h4></div>
+    <div class="col-sm-3"> <h5><i>Projet interne</i></h5></div>
+    <!-- <div class="col-sm-3"></div> -->
+</div>  
+
+<!-- Sector -->
+
+<div class="row">
+    <div class="col-sm-3"><h4>Secteur:</h4></div>
+    <div class="col-sm-3"> <h4>Modélisation des transports</div>
     <div class="col-sm-3"></div>
 </div>  
 
 <p><br></br>
-<h4>What we did:</h4>
+<h4>Ce que nous avons fait:</h4>
 <p>
-We helped our client build a public transport assignment tool plugged into their in-house private transport assignment tool. We then collected open data of observed mode choice for commute at an aggregate level. Using privtae and public transportation travel times derived from the assignment tool, we have infered a simple model giving a mode probablity as a function of the travel time difference.
+Nous avons aidé notre client à développer un outil d&rsquo;affectation en transport en commun (TC), pouvant s&rsquo;interfacer avec leur outil maison d&rsquo;affectation en véhicules particuliers (VP). Nous avons ensuite collecté des données de choix modal agrégées pour des déplacements domicile travail (données <a href = "https://www.insee.fr/fr/accueil" target="_blank">INSEE</a>). En utilisant les temps de parcours issus des outils d&rsquo;affectation VP et TC, nous avons développé un modèle simple permettant de déduire une probabilité d&rsquo;utilisation d&rsquo;un mode de transport en fonction de la simple différence de temps de parcours.
 </p></p>
 
-<p><h4>How we use open data or software:</h4>
+<p><h4>Données ou logiciels ouverts utilisés:</h4>
 <p>
-We have collected open data via GTFS feeds and online time tables to build a database of the public transport network of the Paris region. We have also collected and analysed commuting public data sets giving proportions of trips between different cities using each transportation mode.
+Nous avons collecté des données ouvertes au format GTFS ainsi que des fiches horaires en ligne afin de construire une base de données permettant de modéliser l&rsquo;ensemble du réseau de transport francilien. Nous avons également collecté les données ouvertes de flux domicile travail issus de la base INSEE afin d&rsquo;avoir les différentes proportions de parts modales entre communes sur l&rsquo;ensemble du territoire.
 </p></p>
 
-<p><h4>What was the value for our client:</h4>
+<p><h4>Quels bénéfices pour notre client:</h4>
 <p>
-Mode choice forecast is a difficult exercise that usually relies on various assumptions, and as behavioural element, implies a lot of uncertainty. However, not trying to forecast mode changes leads to unreliable model outputs where assignment on road sections exceeds their capacity. The development of this simple model enabled our client to easilty communicate the method to their end-clients and strengthened their private transportation forecasts.
+La prévision de choix modal est un exercice difficile, qui nécessite un grand nombre d&rsquo;hypothèses et de segmentations et comme tout élément comportemental, entraîne une grande part d&rsquo;incertitude. Cependant, renoncer à modéliser cette évolution entraîne des résultats de simulation aberrants, où les affectations VP dépassent de loin la capacité des voies empruntées. Le développement de ce modèle simplifié a permis à notre client de communiquer simplement la méthode et expliquer les résultats à leur clients finaux. Cette méthode a renforcé la crédibilité de leur simulations et leur modèle est aujourd&rsquo;hui utilisé par la plupart des collectivités d&rsquo;Île de France.
 </p></p>
 
 <p>
-More info can be found <a><href = "http://www.cdvia.fr/fr/actualites/report-modal-vptc" target="_blank"><u>here</u></a>.
+Plus d'information sur ce projet  <a href = "http://www.cdvia.fr/fr/actualites/report-modal-vptc" target="_blank"><u>ici</u></a>.
 </p>
 </p>
 	          </div>
@@ -226,6 +228,14 @@ More info can be found <a><href = "http://www.cdvia.fr/fr/actualites/report-moda
           </ul>
         </div>
         
+		
+		<p><font size ="1"><i>
+			OpenDC Ltd est une Limited Company de droit anglais déclarée au  
+			England and Wales avec numéro d&#39;inscription 
+			11623032. TVA No 
+			312137646
+		</i></p>
+		
 		<p><font size ="1">Copyright - Website created by OpenDC Ltd with Hugo static site generator	 and Theme Developed by Themefisher. All rights reserved.</p>
       </div>
     </div>

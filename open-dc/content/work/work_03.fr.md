@@ -1,43 +1,49 @@
 +++
-title = "Fr - Mode Choice Estimator"
+title = "Calculateur de choix modal"
 weight = 3
-description = "Fr - Analysis of open data crossed with transportation model data to forecast mode choice in the region of Paris."
+description = "Analyse de données de flux en open data croisées avec des modèles de transport permettant de prédire les parts modales futures dans la région parisienne."
 icon = "/img/work/icon_w03.png"
 image = "/img/work/image_w03.png"
 translationKey = "work_03"
 +++
 
-
+<!-- Company -->
 <div class="row">
-	<div class="col-sm-3"><h4>Client:</h4></div>
-	<div class="col-sm-3"> <h4><a><href = "http://www.cdvia.fr/">CDVIA</a> </h4> </div>
-	<div class="col-sm-3"><a><href = "http://www.cdvia.fr/"/> <img src="/img/clients/icon_cdvia.png" /></a></div>
+	<div class="col-sm-3"><h4>Entreprise:</h4></div>
+	<div class="col-sm-3"> <h4><a href = "http://www.cdvia.fr/" target="_blank">CDVIA</a> </h4> </div>
+	<div class="col-sm-3"><a href = "http://www.cdvia.fr/" target="_blank"/> <img src="/img/clients/icon_cdvia.svg" width="100px"/></a></div>
 </div>	
 
+<!-- Client -->
 <div class="row">
-	<div class="col-sm-3"><h4>Sector:</h4></div>
-	<div class="col-sm-3"> <h4>Transport modelling</div>
+	<div class="col-sm-3"><h4>Client:</h4></div>
+	<div class="col-sm-3"> <h5><i>Projet interne</i></h5></div>
+	<!-- <div class="col-sm-3"></div> -->
+</div>	
+
+<!-- Sector -->
+<div class="row">
+	<div class="col-sm-3"><h4>Secteur:</h4></div>
+	<div class="col-sm-3"> <h4>Modélisation des transports</div>
 	<div class="col-sm-3"></div>
 </div>	
 
 <br></br>
-<h4>What we did:</h4> 
+<h4>Ce que nous avons fait:</h4> 
 <p>
-We helped our client build a public transport assignment tool plugged into their in-house private transport assignment tool. We then collected open data of observed mode choice for commute at an aggregate level. Using privtae and public transportation travel times derived from the assignment tool, we have infered a simple model giving a mode probablity as a function of the travel time difference. 
+Nous avons aidé notre client à développer un outil d'affectation en transport en commun (TC), pouvant s'interfacer avec leur outil maison d'affectation en véhicules particuliers (VP). Nous avons ensuite collecté des données de choix modal agrégées pour des déplacements domicile travail (données <a href = "https://www.insee.fr/fr/accueil" target="_blank">INSEE</a>). En utilisant les temps de parcours issus des outils d'affectation VP et TC, nous avons développé un modèle simple permettant de déduire une probabilité d'utilisation d'un mode de transport en fonction de la simple différence de temps de parcours.
 </p>
 
-<h4>How we use open data or software:</h4>
+<h4>Données ou logiciels ouverts utilisés:</h4>
 <p>
-We have collected open data via GTFS feeds and online time tables to build a database of the public transport network of the Paris region. We have also collected and analysed commuting public data sets giving proportions of trips between different cities using each transportation mode.
+Nous avons collecté des données ouvertes au format GTFS ainsi que des fiches horaires en ligne afin de construire une base de données permettant de modéliser l'ensemble du réseau de transport francilien. Nous avons également collecté les données ouvertes de flux domicile travail issus de la base INSEE afin d'avoir les différentes proportions de parts modales entre communes sur l'ensemble du territoire.
 </p>
 
-<h4>What was the value for our client:</h4>
+<h4>Quels bénéfices pour notre client:</h4>
 <p>
-Mode choice forecast is a difficult exercise that usually relies on various assumptions, and as behavioural element, implies a lot of uncertainty. However, not trying to forecast mode changes leads to unreliable model outputs where assignment on road sections exceeds their capacity. The development of this simple model enabled our client to easilty communicate the method to their end-clients and strengthened their private transportation forecasts.
+La prévision de choix modal est un exercice difficile, qui nécessite un grand nombre d'hypothèses et de segmentations et comme tout élément comportemental, entraîne une grande part d'incertitude. Cependant, renoncer à modéliser cette évolution entraîne des résultats de simulation aberrants, où les affectations VP dépassent de loin la capacité des voies empruntées. Le développement de ce modèle simplifié a permis à notre client de communiquer simplement la méthode et expliquer les résultats à leur clients finaux. Cette méthode a renforcé la crédibilité de leur simulations et leur modèle est aujourd'hui utilisé par la plupart des collectivités d'Île de France.
 </p>
 
 <p>
-More info can be found <a><href = "http://www.cdvia.fr/fr/actualites/report-modal-vptc" target="_blank"><u>here</u></a>.
+Plus d'information sur ce projet  <a href = "http://www.cdvia.fr/fr/actualites/report-modal-vptc" target="_blank"><u>ici</u></a>.
 </p>
-
-

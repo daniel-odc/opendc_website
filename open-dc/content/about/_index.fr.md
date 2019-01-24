@@ -1,4 +1,4 @@
 +++
-title = 'A propos'
+title = "À propos d'OpenDC"
 translationKey = "about"
 +++

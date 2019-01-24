@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Our Work on OpenDC Ltd - UK</title>
+    <title>Our projects on OpenDC Ltd - UK</title>
     <link>/work/</link>
-    <description>Recent content in Our Work on OpenDC Ltd - UK</description>
+    <description>Recent content in Our projects on OpenDC Ltd - UK</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     
@@ -16,28 +16,25 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/work/work_01/</guid>
-      <description>Client: Movement Strategies Ltd     Sector: Pedestrian modelling   
- What we did:  We developed a pedestrian dynamic assignment software, with an assignment algorithm based on fluid mechanics principles. The tool can assign an unlimited number of pedestrians, at any scale and cutom flow desnity relationship can be implemented. How we use open data or software:  The tool was computed as a QGIS plugin, open source software providing an open source API.</description>
+      <description>Company: Movement Strategies Ltd     Client: Internal project   --  Sector: Pedestrian modelling   What we did:  We developed a pedestrian dynamic assignment software, with an assignment algorithm based on fluid mechanics principles. The tool can assign an unlimited number of pedestrians, at any scale and custom flow density relationship can be implemented. How we use open data or software:  The tool was computed as a QGIS plugin, open source software providing an open source API.</description>
     </item>
     
     <item>
-      <title>Bassins de vie du Grand Paris</title>
+      <title>Life territories within the &#34;Grand Paris&#34;</title>
       <link>/work/work_02/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/work/work_02/</guid>
-      <description>Client: Agence D&amp;A     Sector: Urban planning   
- What we did:  We created a toll analysing commuting open data from the French ordnance survey (INSEE) to help our client understand how commuting data can give insights on how nieghbouring cities bound together and define perimeters that are sometimes at odds with the official administration boundaries. How we use open data or software:  We used French national ordnance survey data from INSEE before it was called open data.</description>
+      <description>Company: CDVIA     Client: Agence D&amp;A     Sector: Urban planning   What we did:  We created a tool analysing commuting data from the French National Institute of Statistics (INSEE) to help our client understand how commuting data can give insights on how neighbouring cities bound together and define perimeters that can sometimes be at odds with the official administration boundaries. How we use open data or software:  We used French national ordnance survey data from INSEE before it was called open data.</description>
     </item>
     
     <item>
-      <title>Mode Choice Estimator</title>
+      <title>Transportation Mode Choice Estimator</title>
       <link>/work/work_03/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/work/work_03/</guid>
-      <description>Client: CDVIA     Sector: Transport modelling   
- What we did:  We helped our client build a public transport assignment tool plugged into their in-house private transport assignment tool. We then collected open data of observed mode choice for commute at an aggregate level. Using privtae and public transportation travel times derived from the assignment tool, we have infered a simple model giving a mode probablity as a function of the travel time difference.</description>
+      <description>Company: CDVIA     Client: Internal project   --  Sector: Transport modelling   What we did:  We helped our client build a public transport assignment tool plugged into their in-house private transport assignment tool. We then collected open data of observed mode choice for commute at an aggregate level. Using private and public transportation travel times derived from the assignment tools, we have inferred a simple model giving a mode probability as a function of the difference of travel time between public and private transportation options.</description>
     </item>
     
     <item>
@@ -46,8 +43,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/work/work_04/</guid>
-      <description>Client: Transport for London (TfL)      Sector: Data analytics in transport    
- What we did:  The TfL EDMOND project aimed to build Origin-Destination (OD) matrices in the Greater London Authority (GLA) unsing mobile network data fused with external datasets.  As part of the Telefónica UK team in a joint project involving two major consultancies (Jacobs and AECOM), we managed the team of analysts at Telefónica in charge of collecting, cleaning, filtering, scaling and analysing the mobile network data.</description>
+      <description>Company: Telefónica UK     Client: Transport for London (TfL)     Sector: Data analytics in transport   What we did:  The TfL EDMOND (Estimating Demand from MObile Network Data) project aimed to build Origin-Destination (OD) matrices in the Greater London Authority (GLA) using mobile network data fused with external datasets.  As part of the Telefónica UK team in a joint project involving two major consultancies (Jacobs and AECOM), we managed the team of Telefónica analysts in charge of collecting, cleaning, filtering, scaling and analysing the mobile network data.</description>
     </item>
     
   </channel>

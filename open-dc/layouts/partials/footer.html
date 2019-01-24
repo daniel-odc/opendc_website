@@ -11,6 +11,14 @@
           </ul>
         </div>
         <!-- <p><font size ="1">Copyright &copy; Website created with Hugo and Theme Design &amp; Developed by Themefisher. All rights reserved.</p> -->
+		<!-- Company details -->
+		<p><font size ="1"><i>
+			{{ .Site.Data.contact.companyName}}{{ i18n "is_registered"}}
+			{{ .Site.Data.contact.companyPlaceOfRegistration}}{{ i18n "with_company_number"}}
+			{{ .Site.Data.contact.companyRegistrationNumber}}{{ i18n "with_vat_number"}}
+			{{ .Site.Data.contact.companyVATnumber}}
+		</i></p>
+		<!-- Copyright -->
 		<p><font size ="1">{{ .Site.Params.copyright}}</p>
       </div>
     </div>

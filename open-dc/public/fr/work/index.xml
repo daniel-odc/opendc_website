@@ -11,43 +11,43 @@
     
     
     <item>
-      <title>Fr - SENSE Pedestrian Assignment Software</title>
+      <title>SENSE Logiciel de simulation de flux piétons</title>
       <link>/fr/work/work_01/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/fr/work/work_01/</guid>
-      <description>Client: Movement Strategies Ltd     Sector: Pedestrian modelling   
- What we did:  We developed a pedestrian dynamic assignment software, with an assignment algorithm based on fluid mechanics principles. The tool can assign an unlimited number of pedestrians, at any scale and cutom flow desnity relationship can be implemented. How we use open data or software:  The tool was computed as a QGIS plugin, open source software providing an open source API.</description>
+      <description>Entreprise: Movement Strategies Ltd     Client: Projet interne  --  Secteur: Modélisation de flux piétons   
+ Ce que nous avons fait:  Nous avons développé un outil d&amp;rsquo;affectation dynamique de piétons, avec un algorithme issu de la mécanique des fluides. L&amp;rsquo;outil peut affecter un nombre illimité de piétons à n&amp;rsquo;importe quelle échelle et des lois fondamentales de relation flux-densité peuvent y être librement adaptées.</description>
     </item>
     
     <item>
-      <title>Fr - Bassins de vie du Grand Paris</title>
+      <title>Les Bassins de vie du Grand Paris</title>
       <link>/fr/work/work_02/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/fr/work/work_02/</guid>
-      <description>Client: Agence D&amp;A     Sector: Urban planning   
- What we did:  We created a toll analysing commuting open data from the French ordnance survey (INSEE) to help our client understand how commuting data can give insights on how nieghbouring cities bound together and define perimeters that are sometimes at odds with the official administration boundaries. How we use open data or software:  We used French national ordnance survey data from INSEE before it was called open data.</description>
+      <description>Entreprise: CDVIA     Client: Agence D&amp;A     Secteur: Urbanisme   
+ Ce que nous avons fait:  Nous avons analysé des données de déplacements domicile-travail issues de la base INSEE afin d&amp;rsquo;aider notre client à comprendre comment ces données de mobilité pouvaient faire ressortir des enseignements sur la façon dont les communes franciliennes limitrophes interagissent. Notre client a pu ainsi démontrer que ces interactions peuvent former des périmètres parfois bien différents de ceux constituant la communauté d&amp;rsquo;agglomérations à laquelle les communes étudiées appartiennent.</description>
     </item>
     
     <item>
-      <title>Fr - Mode Choice Estimator</title>
+      <title>Calculateur de choix modal</title>
       <link>/fr/work/work_03/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/fr/work/work_03/</guid>
-      <description>Client: CDVIA     Sector: Transport modelling   
- What we did:  We helped our client build a public transport assignment tool plugged into their in-house private transport assignment tool. We then collected open data of observed mode choice for commute at an aggregate level. Using privtae and public transportation travel times derived from the assignment tool, we have infered a simple model giving a mode probablity as a function of the travel time difference.</description>
+      <description>Entreprise: CDVIA     Client: Projet interne  --  Secteur: Modélisation des transports   
+ Ce que nous avons fait:  Nous avons aidé notre client à développer un outil d&amp;rsquo;affectation en transport en commun (TC), pouvant s&amp;rsquo;interfacer avec leur outil maison d&amp;rsquo;affectation en véhicules particuliers (VP). Nous avons ensuite collecté des données de choix modal agrégées pour des déplacements domicile travail (données INSEE). En utilisant les temps de parcours issus des outils d&amp;rsquo;affectation VP et TC, nous avons développé un modèle simple permettant de déduire une probabilité d&amp;rsquo;utilisation d&amp;rsquo;un mode de transport en fonction de la simple différence de temps de parcours.</description>
     </item>
     
     <item>
-      <title>Fr - Project EDMOND</title>
+      <title>Projet EDMOND</title>
       <link>/fr/work/work_04/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/fr/work/work_04/</guid>
-      <description>Client: Transport for London (TfL)      Sector: Data analytics in transport    
- What we did:  The TfL EDMOND project aimed to build Origin-Destination (OD) matrices in the Greater London Authority (GLA) unsing mobile network data fused with external datasets.  As part of the Telefónica UK team in a joint project involving two major consultancies (Jacobs and AECOM), we managed the team of analysts at Telefónica in charge of collecting, cleaning, filtering, scaling and analysing the mobile network data.</description>
+      <description>Entreprise: Telefónica UK     Client: Transport for London (TfL)     Secteur: Analyse de données   
+ Ce que nous avons fait:  Le projet EDMOND lancé par TfL avait pour but de créer des matrices Origines Destinations (OD) à l&amp;rsquo;échelle nationale avec un focus sur la région du Grand Londres en utilisant des données mobiles couplées à des jeux de données externes.  En temps que membre de l&amp;rsquo;équipe Telefónica UK dans un projet commun impliquant deux bureaux d&amp;rsquo;études majeurs (Jacobs et AECOM), nous avons encadré l&amp;rsquo;équipe d&amp;rsquo;analystes à Telefónica en charge de la collecte, du filtrage, du redressement et de l&amp;rsquo;analyse de la donnée mobile.</description>
     </item>
     
   </channel>

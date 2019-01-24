@@ -6,7 +6,6 @@
     <description>Recent content on OpenDC Ltd - UK</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <lastBuildDate>Sat, 10 Oct 2015 13:07:31 +0200</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
@@ -17,7 +16,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/services/service_01/</guid>
-      <description>What OpenDC can do OpenDC can help you find among the thousands of webpages the open data sets that can help your organisation unlock new insights. Some of this data will be too big to be anlaysed by usual tools like Excel. OpenDC can help you load and analyse this data using open source programming tools such as Python libraries or PostgreSQL databases. Once this data is identified and loaded, OpenDC can help you analyse the patterns in the data, cross the information with external independant datasets to find correlations, answer the questions you have asked and the ones you have not.</description>
+      <description>What OpenDC can do OpenDC can help you find among the thousands of webpages the open data sets that can help your organisation unlock new insights. Some of this data will be too big to be analysed by usual tools like Excel. OpenDC can help you load and analyse this data using open source programming tools such as Python libraries or PostgreSQL databases. Once this data is identified and loaded, OpenDC can help you analyse the patterns in the data, cross the information with external independent datasets to find correlations, answer the questions you have asked and perhaps the ones you have not.</description>
     </item>
     
     <item>
@@ -26,22 +25,20 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/work/work_01/</guid>
-      <description>Client: Movement Strategies Ltd     Sector: Pedestrian modelling   
- What we did:  We developed a pedestrian dynamic assignment software, with an assignment algorithm based on fluid mechanics principles. The tool can assign an unlimited number of pedestrians, at any scale and cutom flow desnity relationship can be implemented. How we use open data or software:  The tool was computed as a QGIS plugin, open source software providing an open source API.</description>
+      <description>Company: Movement Strategies Ltd     Client: Internal project   --  Sector: Pedestrian modelling   What we did:  We developed a pedestrian dynamic assignment software, with an assignment algorithm based on fluid mechanics principles. The tool can assign an unlimited number of pedestrians, at any scale and custom flow density relationship can be implemented. How we use open data or software:  The tool was computed as a QGIS plugin, open source software providing an open source API.</description>
     </item>
     
     <item>
-      <title>Bassins de vie du Grand Paris</title>
+      <title>Life territories within the &#34;Grand Paris&#34;</title>
       <link>/work/work_02/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/work/work_02/</guid>
-      <description>Client: Agence D&amp;A     Sector: Urban planning   
- What we did:  We created a toll analysing commuting open data from the French ordnance survey (INSEE) to help our client understand how commuting data can give insights on how nieghbouring cities bound together and define perimeters that are sometimes at odds with the official administration boundaries. How we use open data or software:  We used French national ordnance survey data from INSEE before it was called open data.</description>
+      <description>Company: CDVIA     Client: Agence D&amp;A     Sector: Urban planning   What we did:  We created a tool analysing commuting data from the French National Institute of Statistics (INSEE) to help our client understand how commuting data can give insights on how neighbouring cities bound together and define perimeters that can sometimes be at odds with the official administration boundaries. How we use open data or software:  We used French national ordnance survey data from INSEE before it was called open data.</description>
     </item>
     
     <item>
-      <title>Mapping and Visualisation</title>
+      <title>Mapping and other visualisation</title>
       <link>/services/service_02/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -51,34 +48,33 @@ How this service can help your organisation OpenDC can help you use GIS features
     </item>
     
     <item>
-      <title>Mode Choice Estimator</title>
-      <link>/work/work_03/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/work/work_03/</guid>
-      <description>Client: CDVIA     Sector: Transport modelling   
- What we did:  We helped our client build a public transport assignment tool plugged into their in-house private transport assignment tool. We then collected open data of observed mode choice for commute at an aggregate level. Using privtae and public transportation travel times derived from the assignment tool, we have infered a simple model giving a mode probablity as a function of the travel time difference.</description>
-    </item>
-    
-    <item>
       <title>QGIS Plugin Development</title>
       <link>/services/service_03/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/services/service_03/</guid>
-      <description>What OpenDC can do OpenDC can develop for you custom QGIS plguins under the QGIS API. Note that any QGIS plugin that is publicaly released needs to be open-source. 
+      <description>What OpenDC can do OpenDC can develop for you custom QGIS plugins under the QGIS API. Note that any QGIS plugin that is publicly released has to be open-source. You can however use your plugin internally if you do not want to release the code. 
 How this service can help your organisation You might be interested in a custom QGIS plugin if you are working for a
- Non Governmental Organisation (NGO) with interesting geographical datasets that you want to make available to the GIS community in order to enable the wide analysis of this data set.</description>
+Non Governmental Organisation (NGO) with interesting geographical datasets that you want to make available to the GIS community in order to enable the wide analysis of this data set.</description>
     </item>
     
     <item>
-      <title>Assistance on process automation</title>
+      <title>Transportation Mode Choice Estimator</title>
+      <link>/work/work_03/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/work/work_03/</guid>
+      <description>Company: CDVIA     Client: Internal project   --  Sector: Transport modelling   What we did:  We helped our client build a public transport assignment tool plugged into their in-house private transport assignment tool. We then collected open data of observed mode choice for commute at an aggregate level. Using private and public transportation travel times derived from the assignment tools, we have inferred a simple model giving a mode probability as a function of the difference of travel time between public and private transportation options.</description>
+    </item>
+    
+    <item>
+      <title>Process automation</title>
       <link>/services/service_04/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/services/service_04/</guid>
-      <description>What OpenDC can do OpenDC mainly uses open-source tools and languages but stays pragmatic when a language or an application is popular but not open-source. Therefore OpenDC also uses the VBA language to automate processes on any Microsoft Office application. Python, C++ and SQL are used for any other application. 
-How this service can help your organisation OpenDC can help you use automate your processes if you are working for a</description>
+      <description>What OpenDC can do OpenDC mainly uses open-source tools and languages but stays pragmatic when a language or an application is popular but not open-source. Therefore OpenDC also uses the VBA language to automate processes on any Microsoft Office application. Python, C++ and SQL are generally used for any other applications. 
+How this service can help your organisation OpenDC can help you automate your processes if you are working for a</description>
     </item>
     
     <item>
@@ -87,8 +83,7 @@ How this service can help your organisation OpenDC can help you use automate you
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/work/work_04/</guid>
-      <description>Client: Transport for London (TfL)      Sector: Data analytics in transport    
- What we did:  The TfL EDMOND project aimed to build Origin-Destination (OD) matrices in the Greater London Authority (GLA) unsing mobile network data fused with external datasets.  As part of the Telefónica UK team in a joint project involving two major consultancies (Jacobs and AECOM), we managed the team of analysts at Telefónica in charge of collecting, cleaning, filtering, scaling and analysing the mobile network data.</description>
+      <description>Company: Telefónica UK     Client: Transport for London (TfL)     Sector: Data analytics in transport   What we did:  The TfL EDMOND (Estimating Demand from MObile Network Data) project aimed to build Origin-Destination (OD) matrices in the Greater London Authority (GLA) using mobile network data fused with external datasets.  As part of the Telefónica UK team in a joint project involving two major consultancies (Jacobs and AECOM), we managed the team of Telefónica analysts in charge of collecting, cleaning, filtering, scaling and analysing the mobile network data.</description>
     </item>
     
     <item>
@@ -97,9 +92,9 @@ How this service can help your organisation OpenDC can help you use automate you
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/services/service_05/</guid>
-      <description>What OpenDC can do OpenDC&amp;rsquo;s founder has over 10 years experience in transport and pedestrian modelling, working in Paris, London and Guinea Conakry. OpenDC can help strengthen your team with advanced modelling and project management skills. 
+      <description>What OpenDC can do OpenDC&amp;rsquo;s founder has over 10 years experience in transport and pedestrian modelling projects, working in London, Paris and Guinea Conakry. OpenDC can help strengthen your team on high profile mobility projects with advanced modelling and project management skills. 
 How this service can help your organisation OpenDC can help you in your mobility project if you are working for a
- Local council and want to be advised on a mobility study you would like to launch.</description>
+Local council and want to be advised on a mobility study you would like to launch.</description>
     </item>
     
     <item>
@@ -108,63 +103,8 @@ How this service can help your organisation OpenDC can help you in your mobility
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/services/service_06/</guid>
-      <description>What OpenDC can do OpenDC&amp;rsquo;s founder has developed an expertise on the use of mobile phone data (GSM) and GPS data to understand people movement. This expertise involves the collection of the data, the storage, the cleansing process, various filtering processes using different mathematical tools, the acaling, bias correction, aggregation, analysis and visualisation. 
+      <description>What OpenDC can do OpenDC&amp;rsquo;s founder has developed an expertise in the use of mobile phone data (GSM) and GPS data to understand people movement. This expertise involves the data collection, storage, cleansing, filtering processes using different mathematical tools, scaling, bias correction, aggregation, analysis and visualisation. 
 How this service can help your organisation OpenDC can assist you with GPS and mobile network data if you are working for a</description>
-    </item>
-    
-    <item>
-      <title>Migrate from Jekyll</title>
-      <link>/blog/migrate-from-jekyll/</link>
-      <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
-      
-      <guid>/blog/migrate-from-jekyll/</guid>
-      <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
-▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
-▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
-    </item>
-    
-    <item>
-      <title>Linked post</title>
-      <link>/blog/linked-post/</link>
-      <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
-      
-      <guid>/blog/linked-post/</guid>
-      <description>I&amp;rsquo;m a linked post in the menu. You can add other posts by adding the following line to the frontmatter:
-menu = &amp;quot;main&amp;quot;  Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mauris nulla, vestibulum vel auctor sed, posuere eu lorem. Aliquam consequat augue ut accumsan mollis. Suspendisse malesuada sodales tincidunt. Vivamus sed erat ac augue bibendum porta sed id ipsum. Ut mollis mauris eget ligula sagittis cursus. Aliquam id pharetra tellus.</description>
-    </item>
-    
-    <item>
-      <title>Go is for lovers</title>
-      <link>/blog/go-is-for-lovers/</link>
-      <pubDate>Thu, 17 Sep 2015 13:47:08 +0200</pubDate>
-      
-      <guid>/blog/go-is-for-lovers/</guid>
-      <description>Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.
-This document is a brief primer on using go templates.</description>
-    </item>
-    
-    <item>
-      <title>Hugo is for lovers</title>
-      <link>/blog/hugo-is-for-lovers/</link>
-      <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
-      
-      <guid>/blog/hugo-is-for-lovers/</guid>
-      <description>Step 1. Install Hugo Goto hugo releases and download the appropriate version for your os and architecture.
-Save it somewhere specific as we will be using it in the next step.
-More complete instructions are available at installing hugo
-Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site you are reading right now.
-Follow the following steps:
- Clone the hugo repository Go into the repo Run hugo in server mode and build the docs Open your browser to http://localhost:1313  Corresponding pseudo commands:</description>
-    </item>
-    
-    <item>
-      <title>Creating a new theme</title>
-      <link>/blog/creating-a-new-theme/</link>
-      <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
-      
-      <guid>/blog/creating-a-new-theme/</guid>
-      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
-We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
     </item>
     
     <item>
@@ -173,8 +113,7 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/about/about/</guid>
-      <description>OpenDC has been founded in 2019 by Daniel Marin, engineer from ENSTA ParisTech (France) and INSTN CEA Saclay.
-Daniel has over 10 years experience in mathematical modelling for transportation, mobility and pedestrian studies and data analysis. Currently, OpenDC is a one-person company providing contracting work for consultancies and public bodies. OpenDC is meant to grow bigger as the availability of open data, open source software and the need to found decisions on transparent data, assumptions and models are likely to do.</description>
+      <description>OpenDC has been founded in 2019 by Daniel Marin, engineer from ENSTA ParisTech (France) and INSTN CEA Saclay.  Daniel has over 10 years experience in mathematical modelling for transportation, mobility and pedestrian studies and data analysis.  Currently, OpenDC is a one-person company providing contracting work for consultancies and public bodies. However, OpenDC has a network of larger companies specialized in pedestrian and transport modelling and ready to partner if a project requires large teams.</description>
     </item>
     
   </channel>

@@ -43,7 +43,7 @@
 	{{ end }}
 
 
-	{{ if and .Site.Data.service .Site.Data.service.enable }}
+	{{ if and (isset .Site.Params "services") (.Site.Params.services.enable) }}
 		{{ partial "services.html" . }}
 	{{ end }}
 	
