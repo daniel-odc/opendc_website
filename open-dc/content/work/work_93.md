@@ -1,10 +1,10 @@
 +++
 title = "Transportation Mode Choice Estimator"
-weight = 3
+weight = 93
 description = "Analysis of open data crossed with transportation model data to forecast mode choice in the region of Paris."
-icon = "/img/work/icon_w03.png"
-image = "/img/work/image_w03.png"
-translationKey = "work_03"
+icon = "/img/work/icon_w93.png"
+image = "/img/work/image_w93.png"
+translationKey = "work_93"
 +++
 
 <!-- Company -->

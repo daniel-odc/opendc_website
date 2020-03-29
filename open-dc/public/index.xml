@@ -68,6 +68,15 @@ Non Governmental Organisation (NGO) with interesting geographical datasets that 
     </item>
     
     <item>
+      <title>Mobile Network Data project</title>
+      <link>/work/work_04/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/work/work_04/</guid>
+      <description>Company: Telefónica UK   -- Confidential  --  Client: Confidential Transport for London (TfL)   --  --  Sector: Data analytics in transport   What we did:  Our project aimed to build Origin-Destination (OD) matrices split by modes in a dense and populated region using mobile network data fused with external datasets. As part of a major telco company, in a joint project involving two transport consultancies, we managed the team of analysts in charge of collecting, cleaning, filtering, scaling and analysing the mobile network data.</description>
+    </item>
+    
+    <item>
       <title>Process automation</title>
       <link>/services/service_04/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -75,15 +84,6 @@ Non Governmental Organisation (NGO) with interesting geographical datasets that 
       <guid>/services/service_04/</guid>
       <description>What OpenDC can do OpenDC mainly uses open-source tools and languages but stays pragmatic when a language or an application is popular but not open-source. Therefore OpenDC also uses the VBA language to automate processes on any Microsoft Office application. Python, C++ and SQL are generally used for any other applications. 
 How this service can help your organisation OpenDC can help you automate your processes if you are working for a</description>
-    </item>
-    
-    <item>
-      <title>Project EDMOND</title>
-      <link>/work/work_04/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/work/work_04/</guid>
-      <description>Company: Telefónica UK     Client: Transport for London (TfL)     Sector: Data analytics in transport   What we did:  The TfL EDMOND (Estimating Demand from MObile Network Data) project aimed to build Origin-Destination (OD) matrices in the Greater London Authority (GLA) using mobile network data fused with external datasets.  As part of the Telefónica UK team in a joint project involving two major consultancies (Jacobs and AECOM), we managed the team of Telefónica analysts in charge of collecting, cleaning, filtering, scaling and analysing the mobile network data.</description>
     </item>
     
     <item>
@@ -113,7 +113,7 @@ How this service can help your organisation OpenDC can assist you with GPS and m
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/about/about/</guid>
-      <description>OpenDC has been founded in 2019 by Daniel Marin, engineer from ENSTA ParisTech (France) and INSTN CEA Saclay.  Daniel has over 10 years experience in mathematical modelling for transportation, mobility and pedestrian studies and data analysis.  Currently, OpenDC is a one-person company providing contracting work for consultancies and public bodies. However, OpenDC has a network of larger companies specialized in pedestrian and transport modelling and ready to partner if a project requires large teams.</description>
+      <description>OpenDC has been founded in 2019 by Daniel Marin, engineer from ENSTA ParisTech (France) and INSTN CEA Saclay.  Daniel has over 10 years experience in mathematical modelling for transportation, mobility and pedestrian studies and data analysis, and can work with full proficiency in an English, French or Portuguese speaking environment.  Currently, OpenDC is a company providing contracting work for consultancies and public bodies. OpenDC has also a network of companies specialized in pedestrian and transport modelling and ready to partner if a project requires large teams.</description>
     </item>
     
   </channel>

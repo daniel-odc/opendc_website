@@ -1,13 +1,13 @@
 +++
 title = "SENSE Logiciel de simulation de flux piétons"
-weight = 1
+weight = 91
 description = "Implémentation d'un logiciel de simulation de flux piétons dans un environnement open source."
-icon = "/img/work/icon_w01.png"
-image = "/img/work/image_w01.png"
-logo_client = "/img/clients/icon_ms.svg"
+icon = "/img/work/icon_w91.png"
+image = "/img/work/image_w91.png"
+logo_client = "/img/clients/icon_ms.png"
 # next_page = "/work/work_02.html"
-# prev_page = "/work/work_04.html"
-translationKey = "work_01"
+# prev_page = "/work/work_94.html"
+translationKey = "work_91"
 +++
 
 <!-- Company -->

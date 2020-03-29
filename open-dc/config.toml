@@ -95,6 +95,11 @@ theme = "airspace"
 			weight = 5
 			name = "Fr"
 			url = "/fr/index.html"
+			# Pt
+			[[Languages.en.menu.footer]]
+			weight = 6
+			name = "Pt"
+			url = "/pt/index.html"
 			# ------------------------------------------
 			# Params
 			# ------------------------------------------
@@ -102,7 +107,7 @@ theme = "airspace"
 				AuthorName = "Daniel Marin"
 				google_analytics_id = "UA-132053500-1"	
 				copyright = "Copyright - Website created by OpenDC Ltd with Hugo static site generator	 and Theme Developed by Themefisher. All rights reserved."
-				logo = "/img/logo_opendc_grey_plain_svg.svg"
+				logo = "/img/ODClogo-full_stormy.svg"
 				headerFontSize = "4"	# does not work
 				
 				dateFormat = "6 January 2006"
@@ -234,6 +239,11 @@ theme = "airspace"
 			weight = 5
 			name = "Fr"
 			url = "/fr/index.html"
+			## Portuguese
+			[[Languages.fr.menu.footer]]
+			weight = 6
+			name = "Pt"
+			url = "/pt/index.html"
 			# ------------------------------------------
 			# Params
 			# ------------------------------------------
@@ -241,7 +251,7 @@ theme = "airspace"
 				AuthorName = "Daniel Marin"
 				google_analytics_id = "UA-132053500-1"	
 				copyright = "Copyright - Website created by OpenDC Ltd with Hugo static site generator	 and Theme Developed by Themefisher. All rights reserved."
-				logo = "/img/logo_opendc_grey_plain_svg.svg"
+				logo = "/img/ODClogo-full_stormy.svg"
 				headerFontSize = "4"	# does not work
 				
 				dateFormat = "6 January 2006"
@@ -305,6 +315,139 @@ theme = "airspace"
 				enable = false # true
 				title = "Fr - We design delightful digital experiences."
 				paragraph = "Fr - Read more about what we do and our philosophy of design. Judge for yourself The work and results we’ve achieved for other clients, and meet our highly experienced Team who just love to design."
+
+	# Portuguese -----------------------------------------------------
+	[Languages.pt]
+		languageName = "Pt"
+		weight = 1    
+		languageCode = "pt"
+		url = "/pt/index.html"
+		title = "OpenDC Ltd - Pt" #"OpenDC UK" #???
+		home = "Página Principal"
+		# Navigation
+		[Languages.pt.menu]
+			# Services
+    		[[Languages.pt.menu.header]]
+			weight = 2
+			name = "Serviços"
+			url = "/pt/services/index.html"
+			# Work
+    		[[Languages.pt.menu.header]]
+			weight = 3
+			name = "Projectos"
+			url = "/pt/work/index.html"
+			# About
+			[[Languages.pt.menu.header]]
+			weight = 4
+			name = "Sobre nós"
+			url = "/pt/about/index.html" #url = "/fr/about"
+			# Contact
+			[[Languages.pt.menu.header]]
+			weight = 5
+			name = "Contacto"
+			url = "/pt/contact/index.html"
+			[[Languages.pt.menu.header]]
+			# ------------------------------------------
+			# Footer
+			# ------------------------------------------
+			[[Languages.pt.menu.footer]]
+			weight = 1
+			name = "Página Principal"
+			url = "/pt/index.html"
+			[[Languages.pt.menu.footer]]
+			weight = 2
+			name = "Sobre nós"
+			url = "/pt/about/index.html"
+			[[Languages.pt.menu.footer]]
+			weight = 3
+			name = "Contacto"
+			url = "/pt/contact/index.html"
+			## English
+			[[Languages.pt.menu.footer]]
+			weight = 4
+			name = "En"
+			url = "/index.html"
+			## French
+			[[Languages.pt.menu.footer]]
+			weight = 5
+			name = "Fr"
+			url = "/fr/index.html"
+			## Portuguese
+			[[Languages.pt.menu.footer]]
+			weight = 6
+			name = "Pt"
+			url = "/pt/index.html"
+			# ------------------------------------------
+			# Params
+			# ------------------------------------------
+			[Languages.pt.params]
+				AuthorName = "Daniel Marin"
+				google_analytics_id = "UA-132053500-1"	
+				copyright = "Copyright - Website created by OpenDC Ltd with Hugo static site generator	 and Theme Developed by Themefisher. All rights reserved."
+				logo = "/img/ODClogo-full_stormy.svg"
+				headerFontSize = "4"	# does not work
+				
+				dateFormat = "6 January 2006"
+
+				home = "Página Principal"
+
+				# Home page intro
+				[Languages.pt.params.slider]
+				enable = true
+				
+				# Home page section About us
+				[Languages.pt.params.wrapper]
+				enable = true
+				
+				# Desactivated
+				[Languages.pt.params.blog]
+				enable = false #true
+				title = "Get The Latest On What We're doing"
+				subtitle = "Catch up with us, anytime and anywhere"
+
+				# Home page section Work
+				[Languages.pt.params.feature]
+				enable = true
+				[Languages.pt.params.feature.button]
+				# caption = "View Works" # Defined in partials/feature.html
+				url = "/pt/work/index.html"
+				
+				[Languages.pt.params.services] #==> Defined in data/service.yml
+				enable = true
+				[Languages.pt.params.services.button]
+				# url = "/pt/services/index.html"
+				url = "/pt/services/service_01/index.html" # Goes to the first service instead
+
+				# Desactivated
+				[Languages.pt.params.tools]
+				enable = true # true
+				title = "Tools title in config.toml."
+				subtitle = "Tools sub in config.toml"
+				tool_01_name = "QGIS"
+				tool_01_icon = "/img/tools/icon_t01.png" 
+				tool_01_url = "https://qgis.org/en/site/"
+
+				tool_02_name = "Python"
+				tool_02_icon = "/img/tools/icon_t02.png" 
+				tool_02_url = "https://www.python.org/"
+
+				tool_03_name = "Postgres"
+				tool_03_icon = "/img/tools/icon_t03.png" 
+				tool_03_url = "https://www.postgresql.org/"
+
+				[Languages.pt.params.contact]
+				enable = true #true
+				url = "/pt/contact/index.html"
+				icon_email = "/img/contact/icon_email.png"
+				icon_address = "/img/contact/icon_address.png"
+				icon_phone = "/img/contact/icon_phone.png"
+				icon_linkedin = "/img/contact/icon_linkedin.png"
+				
+				# Desactivated
+				[Languages.pt.params.call]
+				enable = false # true
+				title = "Pt - We design delightful digital experiences."
+				paragraph = "Pt - Read more about what we do and our philosophy of design. Judge for yourself The work and results we’ve achieved for other clients, and meet our highly experienced Team who just love to design."
 
 #----------------------------------------------
 

@@ -1,10 +1,10 @@
 +++
 title = "Les Bassins de vie du Grand Paris"
-weight = 2
+weight = 92
 description = "Analyses de données de flux en open data permettant de comprendre comment les déplacements domicile-travail permettent de mettre en évidence des nouveaux territoires."
-icon = "/img/work/icon_w02.png"
-image = "/img/work/image_w02.png"
-translationKey = "work_02"
+icon = "/img/work/icon_w92.png"
+image = "/img/work/image_w92.png"
+translationKey = "work_92"
 +++
 
 <!-- Company -->

@@ -38,12 +38,12 @@
     </item>
     
     <item>
-      <title>Project EDMOND</title>
+      <title>Mobile Network Data project</title>
       <link>/work/work_04/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/work/work_04/</guid>
-      <description>Company: Telefónica UK     Client: Transport for London (TfL)     Sector: Data analytics in transport   What we did:  The TfL EDMOND (Estimating Demand from MObile Network Data) project aimed to build Origin-Destination (OD) matrices in the Greater London Authority (GLA) using mobile network data fused with external datasets.  As part of the Telefónica UK team in a joint project involving two major consultancies (Jacobs and AECOM), we managed the team of Telefónica analysts in charge of collecting, cleaning, filtering, scaling and analysing the mobile network data.</description>
+      <description>Company: Telefónica UK   -- Confidential  --  Client: Confidential Transport for London (TfL)   --  --  Sector: Data analytics in transport   What we did:  Our project aimed to build Origin-Destination (OD) matrices split by modes in a dense and populated region using mobile network data fused with external datasets. As part of a major telco company, in a joint project involving two transport consultancies, we managed the team of analysts in charge of collecting, cleaning, filtering, scaling and analysing the mobile network data.</description>
     </item>
     
   </channel>

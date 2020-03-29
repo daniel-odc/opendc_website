@@ -1,10 +1,10 @@
 +++
 title = "Life territories within the \"Grand Paris\""
-weight = 2
+weight = 92
 description = "Analysis of open commuting data to understand how commuting patterns shape the territory."
-icon = "/img/work/icon_w02.png"
-image = "/img/work/image_w02.png"
-translationKey = "work_02"
+icon = "/img/work/icon_w92.png"
+image = "/img/work/image_w92.png"
+translationKey = "work_92"
 +++
 
 <!-- Company -->

@@ -87,20 +87,6 @@
   </url>
   
   <url>
-    <loc>/fr/services/service_04/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/services/service_04/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/services/service_04/"
-                />
-  </url>
-  
-  <url>
     <loc>/fr/work/work_04/</loc>
     <xhtml:link
                 rel="alternate"
@@ -111,6 +97,20 @@
                 rel="alternate"
                 hreflang="fr"
                 href="/fr/work/work_04/"
+                />
+  </url>
+  
+  <url>
+    <loc>/fr/services/service_04/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/services/service_04/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/services/service_04/"
                 />
   </url>
   

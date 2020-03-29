@@ -1,13 +1,13 @@
 +++
-title = "SENSE Pedestrian Assignment Software"
-weight = 1
-description = "Pedestrian assignment software development under open source framework."
-icon = "/img/work/icon_w01.png"
-image = "/img/work/image_w01.png"
-logo_client = "/img/clients/icon_ms.png"
+title = "HGV flow web mapping"
+weight = 90
+description = "Web mapping of HGV flows on the roads network"
+icon = "/img/work/icon_w90.png"
+image = "/img/work/image_w90.png"
+logo_client = "/img/clients/icon_cdvia.png"
 # next_page = "/work/work_02.html"
-# prev_page = "/work/work_04.html"
-translationKey = "work_01"
+# prev_page = "/work/work_94.html"
+translationKey = "work_90"
 +++
 
 <!-- Company -->

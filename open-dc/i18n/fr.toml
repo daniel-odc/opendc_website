@@ -48,10 +48,8 @@ other = "..."
 other = "Nos projets"
 [work_subtitle]
 other = "Notre sélection de projets illustre notre expertise en termes d'analyse de données ouvertes, données GPS et données mobiles, modélisation de transports et développement de logiciels de modélisation."
-
 [work_button]
 other = "Voir nos projets"
-
 		
 # SERVICES
 [services_title]

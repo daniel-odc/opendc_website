@@ -1,10 +1,10 @@
 +++
 title = "Calculateur de choix modal"
-weight = 3
+weight = 93
 description = "Analyse de données de flux en open data croisées avec des modèles de transport permettant de prédire les parts modales futures dans la région parisienne."
-icon = "/img/work/icon_w03.png"
-image = "/img/work/image_w03.png"
-translationKey = "work_03"
+icon = "/img/work/icon_w93.png"
+image = "/img/work/image_w93.png"
+translationKey = "work_93"
 +++
 
 <!-- Company -->
