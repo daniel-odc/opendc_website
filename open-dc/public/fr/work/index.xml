@@ -11,41 +11,86 @@
     
     
     <item>
-      <title>SENSE Logiciel de simulation de flux piétons</title>
-      <link>/fr/work/work_01/</link>
+      <title>Données de téléphonie mobiles</title>
+      <link>/fr/work/work_86/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/fr/work/work_01/</guid>
+      <guid>/fr/work/work_86/</guid>
+      <description>Client : Eiffage  --   --  Partenaires : CDVIA  --    Secteur : Analyse de données mobiles   Le contexte :  La Région Sud (Provence Alpes Côte d’Azur), en charge entre autres de l’offre de transport public sur son territoire, souhaite étudier la possibilité d’utiliser des données d’opérateur de téléphonie mobile pour analyser les déplacements sur son territoire. Un appel d’offre a été lancé en mai 2019 pour mener cette analyse.</description>
+    </item>
+    
+    <item>
+      <title>Data Lake Network Rail</title>
+      <link>/fr/work/work_87/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/fr/work/work_87/</guid>
+      <description>Client:   --  Partenaires: CDVIA  --    Secteur : Géoprocessing et analyse de données   Le contexte :  Notre client Network Rail gère l’infrastructure ferroviaire au Royaume Uni. Les propriétés de son matériel (rails, caténaires etc.) sont recensées dans une base de données centralisée. Par ailleurs, des systèmes de mesure modernes embarqués sur les trains empruntant l’infrastructure permettent de mesurer certaines propriétés du matériel, comme la hauteur ou le désaxage des caténaires par exemple.</description>
+    </item>
+    
+    <item>
+      <title>Accessibilité multimodale</title>
+      <link>/fr/work/work_88/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/fr/work/work_88/</guid>
+      <description>Client: Confidentiel   --  --  Partenaire : CDVIA  --   Secteur: Études de mobilité   Le contexte :  800 employés de notre client travaillent sur différents sites de la région parisienne. La plupart d’entre eux se rendent sur leur lieu de travail en voiture. Notre client s’interroge sur la pertinence de centraliser les différents sites en un seul. Ils souhaitent connaitre l’impact de ce changement sur les temps de parcours des trajets domicile-travail de leurs employés, ainsi que les potentiels basculements modaux qui pourraient en découler.</description>
+    </item>
+    
+    <item>
+      <title>Tableau de bord KPI</title>
+      <link>/fr/work/work_89/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/fr/work/work_89/</guid>
+      <description>Client: Eiffage  --   --  Partners-- CDVIA  -- --  Secteur : Visualisation de données et automatisation de process.   Le contexte :  CPMS (Collaborative Project Management Services) gère des centaines de projets pour des clients de l’industrie du transport ferroviaire au Royaume Uni et en Europe. L’équipe s’agrandit en concomitance avec le nombre et la complexité des projets. En conséquence, les besoins en communication sur les projets en cours, gestion des ressources disponibles, budget, prévisions de croissance et autres KPI de l’entreprise aux équipes dirigeantes et actionnaires ont également augmenté.</description>
+    </item>
+    
+    <item>
+      <title>Cartographie Web de flux PL</title>
+      <link>/fr/work/work_90/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/fr/work/work_90/</guid>
+      <description>Client: Eiffage  --   --  Partenaire : CDVIA  --   Secteur : Cartographie et automatisation de process   Le contexte :  Notre client Eiffage est en charge des chantiers de construction des stations de la ligne 16 du réseau du Grand Paris Express. Eiffage doit communiquer à son client – Société du Grand Paris (SGP) – le nombre de poids lourds (PL) générés par le projet et empruntant la voirie publique.</description>
+    </item>
+    
+    <item>
+      <title>Logiciel de simulation piétons</title>
+      <link>/fr/work/work_91/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/fr/work/work_91/</guid>
       <description>Entreprise: Movement Strategies Ltd     Client: Projet interne  --  Secteur: Modélisation de flux piétons   
  Ce que nous avons fait:  Nous avons développé un outil d&amp;rsquo;affectation dynamique de piétons, avec un algorithme issu de la mécanique des fluides. L&amp;rsquo;outil peut affecter un nombre illimité de piétons à n&amp;rsquo;importe quelle échelle et des lois fondamentales de relation flux-densité peuvent y être librement adaptées.</description>
     </item>
     
     <item>
       <title>Les Bassins de vie du Grand Paris</title>
-      <link>/fr/work/work_02/</link>
+      <link>/fr/work/work_92/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/fr/work/work_02/</guid>
+      <guid>/fr/work/work_92/</guid>
       <description>Entreprise: CDVIA     Client: Agence D&amp;A     Secteur: Urbanisme   
  Ce que nous avons fait:  Nous avons analysé des données de déplacements domicile-travail issues de la base INSEE afin d&amp;rsquo;aider notre client à comprendre comment ces données de mobilité pouvaient faire ressortir des enseignements sur la façon dont les communes franciliennes limitrophes interagissent. Notre client a pu ainsi démontrer que ces interactions peuvent former des périmètres parfois bien différents de ceux constituant la communauté d&amp;rsquo;agglomérations à laquelle les communes étudiées appartiennent.</description>
     </item>
     
     <item>
       <title>Calculateur de choix modal</title>
-      <link>/fr/work/work_03/</link>
+      <link>/fr/work/work_93/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/fr/work/work_03/</guid>
+      <guid>/fr/work/work_93/</guid>
       <description>Entreprise: CDVIA     Client: Projet interne  --  Secteur: Modélisation des transports   
  Ce que nous avons fait:  Nous avons aidé notre client à développer un outil d&amp;rsquo;affectation en transport en commun (TC), pouvant s&amp;rsquo;interfacer avec leur outil maison d&amp;rsquo;affectation en véhicules particuliers (VP). Nous avons ensuite collecté des données de choix modal agrégées pour des déplacements domicile travail (données INSEE). En utilisant les temps de parcours issus des outils d&amp;rsquo;affectation VP et TC, nous avons développé un modèle simple permettant de déduire une probabilité d&amp;rsquo;utilisation d&amp;rsquo;un mode de transport en fonction de la simple différence de temps de parcours.</description>
     </item>
     
     <item>
       <title>Analyse de données mobiles</title>
-      <link>/fr/work/work_04/</link>
+      <link>/fr/work/work_94/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/fr/work/work_04/</guid>
+      <guid>/fr/work/work_94/</guid>
       <description>Entreprise: Confidentiel  Client: Confidentiel  Secteur: Analyse de données   
  Ce que nous avons fait:  Notre projet avait pour but de créer des matrices Origines Destinations (OD) à une échelle nationale avec un focus sur la région étudiée en utilisant des données mobiles couplées à des jeux de données externes.
 En temps que membre de l&amp;rsquo;équipe issue d&amp;rsquo;un opérateur de téléphonie mobile dans un projet commun impliquant deux bureaux d&amp;rsquo;études spécialisés en modèles de transports, nous avons encadré l&amp;rsquo;équipe d&amp;rsquo;analystes en charge de la collecte, du filtrage, du redressement et de l&amp;rsquo;analyse de la donnée mobile.</description>

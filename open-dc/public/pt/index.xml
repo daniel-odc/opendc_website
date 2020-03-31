@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OpenDC on OpenDC Ltd - Pt</title>
+    <link>/pt/</link>
+    <description>Recent content in OpenDC on OpenDC Ltd - Pt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt</language>
+    
+	<atom:link href="/pt/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Análise de Open Datasets</title>
+      <link>/pt/services/service_01/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pt/services/service_01/</guid>
+      <description>O que a OpenDC pode fazer por si A OpenDC pode ajudá-lo a encontrar, de entre milhares de páginas web, conjuntos de dados em formato open data que permitirão à sua organização desenvolver novas visões. Alguns destes dados serão demasiado extensos para serem analisados pelas usuais ferramentas como o Excel. A OpenDC pode ajudá-lo a descarregar e analisar estes dados usando ferramentas de programação open source, tais como bibliotecas Python ou bases de dados PostgreSQL.</description>
+    </item>
+    
+    <item>
+      <title>Mapeamento e Visualização</title>
+      <link>/pt/services/service_02/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pt/services/service_02/</guid>
+      <description>O que a OpenDC pode fazer por si A OpenDC usa maioritariamente a estrutura QGIS como ferramenta do sistema de informação geográfica (GIS). Com QGIS, a OpenDC pode fornecer mapas comunicativos e realizar análise avançada do GIS, tal como análise de bacias hidrográficas e também de recursos avançados de encaminhamento. A OpenDC pode também fornecer treino GIS em geral e QGIS em particular. 
+Como é que este serviço pode ajudar a sua organização A OpenDC pode ajudá-lo a usar o GIS se você estiver a trabalhar para</description>
+    </item>
+    
+    <item>
+      <title>Desenvolvimento de Plugins QGIS</title>
+      <link>/pt/services/service_03/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pt/services/service_03/</guid>
+      <description>O que a OpenDC pode fazer por si A OpenDC pode desenvolver Plugins QGIS personalizados QGIS através da QGIS API. Note que qualquer plugin QGIS que seja divulgado publicamente necessita de ser open source. Pode, no entanto usar o plugin internamente se não desejar divulgar o código. 
+Como é que este serviço pode ajudar a sua organização Poderá ter interesse em plugins QGIS personalizados se estiver a trabalhar para</description>
+    </item>
+    
+    <item>
+      <title>Automação de Projetos</title>
+      <link>/pt/services/service_04/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pt/services/service_04/</guid>
+      <description>O que a OpenDC pode fazer por si A OpenDC usa maioritariamente ferramentas e linguagens open-source mas mantém-se pragmática quando uma linguagem ou aplicação é popular, mesmo não sendo open-source. Sendo assim, a OpenDC também utiliza linguagem VBA para automatizar processos em qualquer aplicação Microsoft Office. Python, C++ e SQL são geralmente usados para outras aplicações. 
+Como é que este serviço pode ajudar a sua organização A OpenDC pode ajudá-lo a automatizar os seus processos se estiver a trabalhar para</description>
+    </item>
+    
+    <item>
+      <title>Assistência em Estudos de Mobilidade</title>
+      <link>/pt/services/service_05/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pt/services/service_05/</guid>
+      <description>O que a OpenDC pode fazer por si O fundador da OpenDC tem mais de 10 anos de experiência em projetos de modelação de transportes e pedestres, trabalhando em Londres, Paris e Guiné Conakry. A OpenDC pode ajudá-lo a fortalecer a sua equipa em projetos de mobilidade de alto perfil com modelação avançada e competências de gestão de projetos. 
+Como é que este serviço pode ajudar a sua organização A OpenDC pode ajudá-lo no seu projeto de mobilidade se estiver a trabalhar para</description>
+    </item>
+    
+    <item>
+      <title>Conselhos acerca do uso de dados telefónicos ou de GPS</title>
+      <link>/pt/services/service_06/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pt/services/service_06/</guid>
+      <description>O que a OpenDC pode fazer por si O fundador da OpenDC desenvolveu competências no uso de dados de telemóvel e GPS para entender o movimento de pessoas. Esta competência envolve a recolha de dados, armazenamento, limpeza, processos de filtração que usam diferentes ferramentas matemáticas, escalamentos, correcção de enviesamentos, agregação, análise e visualização. 
+Como é que este serviço pode ajudar a sua organização A OpenDC pode assisti-lo com dados de GPS e redes telefónicas se estiver a trabalhar para</description>
+    </item>
+    
+    <item>
+      <title>Mobility analysis with mobile phone data</title>
+      <link>/pt/work/work_86/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pt/work/work_86/</guid>
+      <description>Client: Eiffage  --   --  Partners: CDVIA  --    Sector: Mobile data analysis   The context:  The Région Sud, a French public administration in charge (not only) of the public transportation service, wants to investigate the use of mobile network data (MND) to understand the transportation needs and behaviours across the South-East region of France. They launched a public tender in May 2019 on this topic.</description>
+    </item>
+    
+    <item>
+      <title>Network Rail Data lake</title>
+      <link>/pt/work/work_87/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pt/work/work_87/</guid>
+      <description>Client: Eiffage  --   --  Partners: CDVIA  --    Sector: GIS processing and data analysis   The context:  Our client (Network Rail) manages the rail infrastructure in the UK. Theirs assets (rail, overhead structures etc.) properties are stored in a central database. Modern measurement systems embedded in high speed trains enable to measure some properties of these assets, like the height and stagger of an overhead electrification line at a given location for example.</description>
+    </item>
+    
+    <item>
+      <title>Multimode workplace accessibility</title>
+      <link>/pt/work/work_88/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pt/work/work_88/</guid>
+      <description>Client: Confidential    --  --  Partner: CDVIA  --   Sector: Mobility studies   The context:  Our client (a French public administration) has 800 employees working on different sites located in the region of Paris. Most of the employees commute by private vehicle. Our client is looking at the opportunity of using a new single site for all employees. They want to understand the impact of the new site on the employees’ individual travel time and mode share evolution.</description>
+    </item>
+    
+    <item>
+      <title>KPI Dashboard</title>
+      <link>/pt/work/work_89/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pt/work/work_89/</guid>
+      <description>Client: Eiffage  --   --  Partners-- CDVIA  -- --  Sector: Data visualisation and process automation.   The context:  CPMS (Collaborative Project Management Services) manages hundreds of projects for rail industry clients in the UK and abroad. The team is growing bigger as the number of projects and the needs to analyse and communicate the staff availability, budget forecast and other company KPI to the management team and the shareholders.</description>
+    </item>
+    
+    <item>
+      <title>HGV flow web mapping</title>
+      <link>/pt/work/work_90/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pt/work/work_90/</guid>
+      <description>Client: Eiffage  --   --  Partner: CDVIA  --   Sector: GIS and process automation   The context:  Our client Eiffage is in charge of the construction of the future public transportation stations of the line 16 of the Grand Paris Express in the Paris Area – France. Eiffage need to communicate to their final client, the Société du Grand Paris (SGP), the number of heavy good vehicles (HGV) generated by the project and using the public road network.</description>
+    </item>
+    
+    <item>
+      <title>Software de atribuição pedestre SENSE</title>
+      <link>/pt/work/work_91/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pt/work/work_91/</guid>
+      <description>Companhia: Movement Strategies Ltd     Cliente: Projecto Interno   --  Sector: Modelação pedestre   O que fizemos:  Desenvolvemos um software de atribuição dinâmica pedestre, com um algoritmo de atribuição baseado em princípios de Mecânica de Fluidos. A ferramenta pode atribuir um número ilimitado de pedestres, a qualquer escala e é possível implementar uma relação fluxo-densidade personalizada. Como usamos open data e o software:  A ferramenta foi desenvolvida como um QGIS plugin, software open source que providencia uma API open source.</description>
+    </item>
+    
+    <item>
+      <title>Territórios de vida dentro da Grande Paris</title>
+      <link>/pt/work/work_92/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pt/work/work_92/</guid>
+      <description>Companhia: CDVIA     Cliente: Agence D&amp;A     Sector: Planeamento Urbano   O que fizemos:  Desenvolvemos uma ferramenta analisando dados pendulares do Instituto Nacional de Estatística Francês (INSEE) para ajudar o cliente a entender como é que dados pendulares podem fornecer ideias à cerca da forma como cidades vizinhas estão conectadas e definem perímetros que muitas vezes estão em contradição com as fronteiras oficiais de administração.</description>
+    </item>
+    
+    <item>
+      <title>Estimador de escolha de modos de transporte</title>
+      <link>/pt/work/work_93/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pt/work/work_93/</guid>
+      <description>Companhia: CDVIA     Cliente: Projecto interno   --  Sector: Modelação de transporte   O que fizemos:  Ajudámos o nosso cliente a desenvolver uma ferramenta pública de atribuição de transportes com conexão à sua pŕopria ferramenta de atribuição privada e in-house. Prosseguimos à recolha de open data do modelo de escolha observado para comutar a um nível agregado. Usando tempos de viagem de transportes públicos e privados deduzidos das ferramentas de atribuição, inferimos um modelo simples que dá a probabilidade de um modo em função da diferença no tempo de viagem entre opções de transporte público e privado.</description>
+    </item>
+    
+    <item>
+      <title>Projecto de Dados de Rede Móvel</title>
+      <link>/pt/work/work_94/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pt/work/work_94/</guid>
+      <description>Companhia: Telefónica UK   -- Confidencial  --  Cliente: Confidencial Transport for London (TfL)   --  --  Sector: Análise de dados em transporte   O que fizemos:  O nosso projecto visou desenvolver matrizes Origem-Destino (OD) divididas por modos numa região densa e populosa usando dados de redes telefónicas em conjunção com conjuntos de dados externos. Como parte de uma grande empresa de telecomunicações, num projecto conjunto envolvendo duas consultadorias de transporte, gerimos a equipa de analistas responsável pela recolha, limpeza, filtração, escalamento e análise dos dados da rede móvel.</description>
+    </item>
+    
+    <item>
+      <title>Consultores de Open Data</title>
+      <link>/pt/about/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pt/about/about/</guid>
+      <description>A OpenDC foi fundada em 2019 por Daniel Marin, engenheiro de ENSTA ParisTech (França) e INSTN CEA Saclay.  Daniel tem mais de 10 anos de experiência em modelação matemática para transporte, mobilidade, estudos pedestres e análise de dados, e pode trabalhar com completa aptidão em ambientes de língua Inglesa, Francesa ou Portuguesa.  De momento, a OpenDC é uma empresa que fornece trabalho contratado para consultoras e organismos públicos.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Serviços da OpenDC on OpenDC Ltd - Pt</title>
+    <link>/pt/services/</link>
+    <description>Recent content in Serviços da OpenDC on OpenDC Ltd - Pt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt</language>
+    
+	<atom:link href="/pt/services/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Análise de Open Datasets</title>
+      <link>/pt/services/service_01/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pt/services/service_01/</guid>
+      <description>O que a OpenDC pode fazer por si A OpenDC pode ajudá-lo a encontrar, de entre milhares de páginas web, conjuntos de dados em formato open data que permitirão à sua organização desenvolver novas visões. Alguns destes dados serão demasiado extensos para serem analisados pelas usuais ferramentas como o Excel. A OpenDC pode ajudá-lo a descarregar e analisar estes dados usando ferramentas de programação open source, tais como bibliotecas Python ou bases de dados PostgreSQL.</description>
+    </item>
+    
+    <item>
+      <title>Mapeamento e Visualização</title>
+      <link>/pt/services/service_02/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pt/services/service_02/</guid>
+      <description>O que a OpenDC pode fazer por si A OpenDC usa maioritariamente a estrutura QGIS como ferramenta do sistema de informação geográfica (GIS). Com QGIS, a OpenDC pode fornecer mapas comunicativos e realizar análise avançada do GIS, tal como análise de bacias hidrográficas e também de recursos avançados de encaminhamento. A OpenDC pode também fornecer treino GIS em geral e QGIS em particular. 
+Como é que este serviço pode ajudar a sua organização A OpenDC pode ajudá-lo a usar o GIS se você estiver a trabalhar para</description>
+    </item>
+    
+    <item>
+      <title>Desenvolvimento de Plugins QGIS</title>
+      <link>/pt/services/service_03/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pt/services/service_03/</guid>
+      <description>O que a OpenDC pode fazer por si A OpenDC pode desenvolver Plugins QGIS personalizados QGIS através da QGIS API. Note que qualquer plugin QGIS que seja divulgado publicamente necessita de ser open source. Pode, no entanto usar o plugin internamente se não desejar divulgar o código. 
+Como é que este serviço pode ajudar a sua organização Poderá ter interesse em plugins QGIS personalizados se estiver a trabalhar para</description>
+    </item>
+    
+    <item>
+      <title>Automação de Projetos</title>
+      <link>/pt/services/service_04/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pt/services/service_04/</guid>
+      <description>O que a OpenDC pode fazer por si A OpenDC usa maioritariamente ferramentas e linguagens open-source mas mantém-se pragmática quando uma linguagem ou aplicação é popular, mesmo não sendo open-source. Sendo assim, a OpenDC também utiliza linguagem VBA para automatizar processos em qualquer aplicação Microsoft Office. Python, C++ e SQL são geralmente usados para outras aplicações. 
+Como é que este serviço pode ajudar a sua organização A OpenDC pode ajudá-lo a automatizar os seus processos se estiver a trabalhar para</description>
+    </item>
+    
+    <item>
+      <title>Assistência em Estudos de Mobilidade</title>
+      <link>/pt/services/service_05/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pt/services/service_05/</guid>
+      <description>O que a OpenDC pode fazer por si O fundador da OpenDC tem mais de 10 anos de experiência em projetos de modelação de transportes e pedestres, trabalhando em Londres, Paris e Guiné Conakry. A OpenDC pode ajudá-lo a fortalecer a sua equipa em projetos de mobilidade de alto perfil com modelação avançada e competências de gestão de projetos. 
+Como é que este serviço pode ajudar a sua organização A OpenDC pode ajudá-lo no seu projeto de mobilidade se estiver a trabalhar para</description>
+    </item>
+    
+    <item>
+      <title>Conselhos acerca do uso de dados telefónicos ou de GPS</title>
+      <link>/pt/services/service_06/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pt/services/service_06/</guid>
+      <description>O que a OpenDC pode fazer por si O fundador da OpenDC desenvolveu competências no uso de dados de telemóvel e GPS para entender o movimento de pessoas. Esta competência envolve a recolha de dados, armazenamento, limpeza, processos de filtração que usam diferentes ferramentas matemáticas, escalamentos, correcção de enviesamentos, agregação, análise e visualização. 
+Como é que este serviço pode ajudar a sua organização A OpenDC pode assisti-lo com dados de GPS e redes telefónicas se estiver a trabalhar para</description>
+    </item>
+    
+  </channel>
+</rss>

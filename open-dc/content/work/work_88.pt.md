@@ -13,8 +13,8 @@ translationKey = "work_88"
 <!-- Client -->
 <div class="row">
 	<div class="col-sm-3"><h4>Client:</h4></div>
-	<!--  <div class="col-sm-3"> <h3><a href = "https://www.eiffage.com/" target="_blank">Eiffage</a> </h3> </div>-->
-	<div class="col-sm-3"><a href = "https://www.valdemarne.fr/" target="_blank"/> <img src="/img/clients/icon_cd94.svg" width="150px"/></a></div>
+	<div class="col-sm-3"> <h3>Confidential</a> </h3> </div>
+	<!--   <div class="col-sm-3"><a href = "https://www.valdemarne.fr/" target="_blank"/> <img src="/img/clients/icon_cd94.svg" width="150px"/></a></div> -->
 	<!-- <div class="col-sm-3"></div> -->
 </div>	
 

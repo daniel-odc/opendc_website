@@ -1,7 +1,7 @@
 +++
 title = "Tableau de bord KPI"
 weight = 89
-description = "Rail company KPI Dashboard"
+description = "Tableau de bord d'accès aux KPI d'une entreprise de l'industrie ferroviaire."
 icon = "/img/work/icon_w89.png"
 image = "/img/work/image_w89.png"
 logo_client = "/img/clients/icon_cpms.png"
@@ -27,22 +27,22 @@ translationKey = "work_89"
 
 <!-- Sector -->
 <div class="row">
-	<div class="col-sm-3"><h5>Sector:</h4></div>
-	<div class="col-sm-3"> <h5>Data visualisation and process automation.</div>
+	<div class="col-sm-3"><h5>Secteur :</h4></div>
+	<div class="col-sm-4"> <h5>Visualisation de données et automatisation de process.</div>
 	<div class="col-sm-3"></div>
 </div>	
 
-<h4>The context:</h4> 
+<h4>Le contexte :</h4> 
 <p>
-CPMS (Collaborative Project Management Services) manages hundreds of projects for rail industry clients in the UK and abroad. The team is growing bigger as the number of projects and the needs to analyse and communicate the staff availability, budget forecast and other company KPI to the management team and the shareholders.
+CPMS (Collaborative Project Management Services) gère des centaines de projets pour des clients de l’industrie du transport ferroviaire au Royaume Uni et en Europe. L’équipe s’agrandit en concomitance avec le nombre et la complexité des projets. En conséquence, les besoins en communication sur les projets en cours, gestion des ressources disponibles, budget, prévisions de croissance et autres KPI de l’entreprise aux équipes dirigeantes et actionnaires ont également augmenté.
 </p>
 
-<h4>What we did:</h4>
+<h4>Notre apport :</h4>
 <p>
-We collected useful company data from its different sectors (finance, HR, marketing etc.) and set up an online dashboard enabling the visualisation of this data using Power BI. We then developed a fully automated process so any new data regarding new projects, staff, pipeline, forecast etc. would be updated on the dashboard and immediately available for query and visualisation to all the stakeholders.
+Nous avons collecté les données des différents services de l’entreprise (comptabilité, ressources humaines, marketing etc.) et implémenté via Microsoft Power BI un tableau de bord en ligne permettant de visualiser et filtrer ces données. Nous avons ensuite implémenté un process totalement automatisé permettant de mettre à jour le tableau de bord en accédant uniquement aux données brutes des différents secteurs. Grâce à ce process, le contenu du tableau peut être mis à jour en quelques clics par les responsables de chaque service.
 </p>
 
-<h4>The value for our client:</h4>
+<h4>Les bénéfices pour notre client :</h4>
 <p>
-This automated dashboard saves several days of work every month. The time to collect, format, sort, compute the data is now a question of seconds when it used to be a matter of days. Besides, the communication is no longer polluted by superseded spreadsheets or pdf reports stored in mailboxes or local folders. All the information is clean and always up to date in one single secured webpage, always available to the management team and the company shareholders.
+Ce process automatisé permet à notre client d’économiser plusieurs jours de travail chaque mois. Le temps de collecte, formatage, tri, calcul des données est désormais de l’ordre de quelques secondes quand il était de l’ordre de quelques jours dans le passé. De plus, la communication des résultats de l’entreprise n’est plus polluée par des versions non à jour de feuilles de calcul ou rapports, stockés dans le passé dans des boites mail ou dossier locaux. L’ensemble de l’information pour tous les services est désormais formaté et disponible sur une seule page web sécurisée, accessible à tout moment à l’ensemble des parties prenantes.
 </p>

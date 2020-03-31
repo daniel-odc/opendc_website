@@ -1,17 +1,5 @@
-########################################################################
-## LOCALHOST
-# baseURL =  "/" # localhost
-# relativeURLs = true
-# canonifyURLs = true
-
-## FILE SYSTEM
-# baseURL =  "c:/Users/dmarin/Dropbox/Pro/info/Git/Project_repositories/opendc_website/open-dc/public" # "File system
-# relativeURLs = true
-# canonifyURLs = true
-
 ## WEB
-baseURL =  "" #"www.open-dc.com"	# Web
-# relativeURLs = false
+baseURL =  ""
 ########################################################################
 
 languageCode = "en-uk"
@@ -107,7 +95,7 @@ theme = "airspace"
 				AuthorName = "Daniel Marin"
 				google_analytics_id = "UA-132053500-1"	
 				copyright = "Copyright - Website created by OpenDC Ltd with Hugo static site generator	 and Theme Developed by Themefisher. All rights reserved."
-				logo = "/img/ODClogo-full_stormy.svg"
+				logo = "/img/ODClogo-full.svg"
 				headerFontSize = "4"	# does not work
 				
 				dateFormat = "6 January 2006"
@@ -251,7 +239,7 @@ theme = "airspace"
 				AuthorName = "Daniel Marin"
 				google_analytics_id = "UA-132053500-1"	
 				copyright = "Copyright - Website created by OpenDC Ltd with Hugo static site generator	 and Theme Developed by Themefisher. All rights reserved."
-				logo = "/img/ODClogo-full_stormy.svg"
+				logo = "/img/ODClogo-full.svg"
 				headerFontSize = "4"	# does not work
 				
 				dateFormat = "6 January 2006"
@@ -384,7 +372,7 @@ theme = "airspace"
 				AuthorName = "Daniel Marin"
 				google_analytics_id = "UA-132053500-1"	
 				copyright = "Copyright - Website created by OpenDC Ltd with Hugo static site generator	 and Theme Developed by Themefisher. All rights reserved."
-				logo = "/img/ODClogo-full_stormy.svg"
+				logo = "/img/ODClogo-full.svg"
 				headerFontSize = "4"	# does not work
 				
 				dateFormat = "6 January 2006"

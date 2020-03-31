@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A propósito de OpenDC on OpenDC Ltd - Pt</title>
+    <link>/pt/about/</link>
+    <description>Recent content in A propósito de OpenDC on OpenDC Ltd - Pt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt</language>
+    
+	<atom:link href="/pt/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Consultores de Open Data</title>
+      <link>/pt/about/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pt/about/about/</guid>
+      <description>A OpenDC foi fundada em 2019 por Daniel Marin, engenheiro de ENSTA ParisTech (França) e INSTN CEA Saclay.  Daniel tem mais de 10 anos de experiência em modelação matemática para transporte, mobilidade, estudos pedestres e análise de dados, e pode trabalhar com completa aptidão em ambientes de língua Inglesa, Francesa ou Portuguesa.  De momento, a OpenDC é uma empresa que fornece trabalho contratado para consultoras e organismos públicos.</description>
+    </item>
+    
+  </channel>
+</rss>

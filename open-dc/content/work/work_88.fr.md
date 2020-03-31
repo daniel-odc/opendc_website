@@ -5,16 +5,14 @@ description = "Accessibilité multimode à un site de 800 employés"
 icon = "/img/work/icon_w88.png"
 image = "/img/work/image_w88.png"
 logo_client = "/img/clients/icon_cd94.png"
-# next_page = "/work/work_02.html"
-# prev_page = "/work/work_94.html"
 translationKey = "work_88"
 +++
 
 <!-- Client -->
 <div class="row">
 	<div class="col-sm-3"><h4>Client:</h4></div>
-	<!--  <div class="col-sm-3"> <h3><a href = "https://www.eiffage.com/" target="_blank">Eiffage</a> </h3> </div>-->
-	<div class="col-sm-3"><a href = "https://www.valdemarne.fr/" target="_blank"/> <img src="/img/clients/icon_cd94.svg" width="150px"/></a></div>
+	<div class="col-sm-3"> <h3>Confidentiel</a> </h3> </div>
+	<!--   <div class="col-sm-3"><a href = "https://www.valdemarne.fr/" target="_blank"/> <img src="/img/clients/icon_cd94.svg" width="150px"/></a></div>-->
 	<!-- <div class="col-sm-3"></div> -->
 </div>	
 
