@@ -1,5 +1,5 @@
 +++
-title = "SENSE Pedestrian Assignment Software"
+title = "Pedestrian Modelling Software"
 weight = 91
 description = "Pedestrian assignment software development under open source framework."
 icon = "/img/work/icon_w91.png"

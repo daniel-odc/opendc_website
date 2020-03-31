@@ -1,5 +1,5 @@
 +++
-title = "SENSE Logiciel de simulation de flux piétons"
+title = "Logiciel de simulation piétons"
 weight = 91
 description = "Implémentation d'un logiciel de simulation de flux piétons dans un environnement open source."
 icon = "/img/work/icon_w91.png"

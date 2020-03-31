@@ -1,7 +1,7 @@
 +++
-title = "Transportation Mode Choice Estimator"
+title = "Mode Choice Estimator"
 weight = 93
-description = "Analysis of open data crossed with transportation model data to forecast mode choice in the region of Paris."
+description = "Use of open data and transportation modelling to forecast mode choice in the region of Paris."
 icon = "/img/work/icon_w93.png"
 image = "/img/work/image_w93.png"
 translationKey = "work_93"

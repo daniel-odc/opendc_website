@@ -12,10 +12,10 @@
 	<section class="blog section">
 		<div class="container">
 			<div class="row">
-				{{ range (.Paginator 6).Pages }}
-				<div class="col-md-6">
+				{{ range (.Paginator 18).Pages }}
+				<div class="col-md-4">
 					<article class="blog-post">
-						<img src="{{ .Params.Icon | relURL}}" class="img-fluid" alt="post-thumb" width="60%" >
+						<img src="{{ .Params.Icon | relURL}}" class="img-fluid" alt="post-thumb" width="75%" >
 						<a class="post-title" href="{{ .Permalink | safeURL }}">{{ .Title }}</a>
 						<p>{{ .Description }}</p>
 						<a href="{{ .Permalink | safeURL}}" class="btn btn-main">{{ i18n "read_more"}}</a>						
@@ -33,3 +33,18 @@
 
 </body>
 </html>
+
+<!-- {{ range (.Paginator 12).Pages }} -->
+	<!-- <div class="col-md-6"> -->
+		<!-- <article class="blog-post"> -->
+			<!-- <img src="{{ .Params.Icon | relURL}}" class="img-fluid" alt="post-thumb" width="60%" > -->
+			<!-- <a class="post-title" href="{{ .Permalink | safeURL }}">{{ .Title }}</a> -->
+			<!-- <p>{{ .Description }}</p> -->
+			<!-- <a href="{{ .Permalink | safeURL}}" class="btn btn-main">{{ i18n "read_more"}}</a>						 -->
+		<!-- </article> -->
+	<!-- </div> -->
+<!-- {{ end }}			 -->
+<!-- </div> -->
+<!-- <div class="col-12 text-center"> -->
+	<!-- {{ template "_internal/pagination.html" . }} -->
+<!-- </div> -->
