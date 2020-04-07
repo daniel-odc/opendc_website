@@ -3,7 +3,7 @@ title = "Mapeamento e Visualização"
 weight = 2
 type = "services"
 description = "Construímos mapas comunicativos e usamos o sistema GIS para obter novas visões."
-icon = "/img/services/icon_s02.png"
+icon = "/img/services/icon_s02.svg"
 image = "/img/services/image_s02.svg"
 translationKey = "service_02"
 +++

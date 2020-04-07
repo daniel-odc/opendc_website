@@ -3,7 +3,7 @@ title = "Études de mobilité"
 weight = 5
 type = "services"
 description = "OpenDC vous assiste dans vos études de mobilité et projets de modélisation de flux piétons, véhicules particuliers et transports en commun."
-icon = "/img/services/icon_s05.png"
+icon = "/img/services/icon_s05.svg"
 image = "/img/services/image_s05.svg"
 translationKey = "service_05"
 +++

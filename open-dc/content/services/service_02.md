@@ -3,7 +3,7 @@ title = "Mapping and other visualisation"
 weight = 2
 type = "services"
 description = "We build communicative maps and use GIS features to get new insights."
-icon = "/img/services/icon_s02.png"
+icon = "/img/services/icon_s02.svg"
 image = "/img/services/image_s02.svg"
 translationKey = "service_02"
 +++

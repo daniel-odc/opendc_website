@@ -3,7 +3,7 @@ title = "Assistência em Estudos de Mobilidade"
 weight = 5
 type = "services"
 description = "OpenDC dá suporte à sua equipa em estudos de mobilidade avançados ou projetos de modelação pedestre e de transportes."
-icon = "/img/services/icon_s05.png"
+icon = "/img/services/icon_s05.svg"
 image = "/img/services/image_s05.svg"
 translationKey = "service_05"
 +++

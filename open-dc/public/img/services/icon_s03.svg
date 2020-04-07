@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="Calque_1"
+   data-name="Calque 1"
+   viewBox="0 0 43.79 43.95"
+   version="1.1"
+   sodipodi:docname="ODC_service_QGIS.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata1486">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>icons-ODC</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs1484" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="3840"
+     inkscape:window-height="2104"
+     id="namedview1482"
+     showgrid="false"
+     inkscape:zoom="5.3697382"
+     inkscape:cx="-73.640383"
+     inkscape:cy="21.975"
+     inkscape:window-x="-16"
+     inkscape:window-y="-16"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Calque_1" />
+  <title
+     id="title1471">icons-ODC</title>
+  <path
+     d="M31.81,2.37A21.7,21.7,0,0,0,21.9,0,21.9,21.9,0,0,0,1.4,29.61a.48.48,0,0,0,.46.32.57.57,0,0,0,.18,0,.5.5,0,0,0,.29-.64A20.92,20.92,0,0,1,21.9,1,20.88,20.88,0,0,1,42.79,21.9c0,.32,0,.64,0,1a.5.5,0,0,0,.48.52.47.47,0,0,0,.52-.47c0-.34,0-.67,0-1A21.81,21.81,0,0,0,31.81,2.37Z"
+     id="path1473" />
+  <path
+     d="M36.8,24.77a.5.5,0,0,0,.57-.41A15.67,15.67,0,1,0,6.23,21.9,15.75,15.75,0,0,0,20.51,37.5h0a.5.5,0,0,0,0-1A14.67,14.67,0,0,1,21.9,7.23a14.68,14.68,0,0,1,14.48,17A.51.51,0,0,0,36.8,24.77Z"
+     id="path1475" />
+  <path
+     d="M41.25,33.18a.5.5,0,0,0-.5.5v5.67H35.29l-9.21-9.21V24.68h5.46l7.09,7.09a.5.5,0,0,0,.71,0,.5.5,0,0,0,0-.7L32.1,23.83a.49.49,0,0,0-.36-.15H25.58a.5.5,0,0,0-.5.5v5l-6.27-6.27V17.42h5.46L28.88,22a.5.5,0,0,0,.7,0,.5.5,0,0,0,0-.71l-4.75-4.75a.5.5,0,0,0-.35-.14H18.31a.5.5,0,0,0-.5.5v6.16a.51.51,0,0,0,.15.35l7.26,7.27,9.51,9.5a.51.51,0,0,0,.35.15h6.17a.51.51,0,0,0,.5-.5V33.68A.51.51,0,0,0,41.25,33.18Z"
+     id="path1477" />
+  <path
+     d="M30.91,40.77A20.68,20.68,0,0,1,5.37,35a.49.49,0,0,0-.7-.08.51.51,0,0,0-.09.7,21.69,21.69,0,0,0,26.77,6.05.5.5,0,0,0-.44-.9Z"
+     id="path1479" />
+</svg>

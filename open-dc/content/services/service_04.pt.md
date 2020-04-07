@@ -3,7 +3,7 @@ title = "Automação de Projetos"
 weight = 4
 type = "services"
 description = "A OpenDC ajuda-o a desenvolver ferramentas para automatizar tarefas repetitivas."
-icon = "/img/services/icon_s04.png"
+icon = "/img/services/icon_s04.svg"
 image = "/img/services/image_s04.svg"
 translationKey = "service_04"
 +++

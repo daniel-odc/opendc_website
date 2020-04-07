@@ -15,7 +15,8 @@
 				{{ range first 3 (.Paginator 6).Pages }}
 				<div class="col-md-4">
 					<article class="blog-post">
-						<img src="{{ .Params.Icon | relURL}}" class="img-responsive" alt="post-thumb">
+						<!-- <img src="{{ .Params.Icon | relURL}}" class="img-responsive" alt="post-thumb"> -->
+						<img src="{{ .Params.Icon | relURL}}" class="img-fluid" height="100px" alt="post-thumb">
 						<a class="post-title" href="{{ .Permalink | safeURL }}">{{ .Title }}</a>
 						<p>{{ .Description }}</p>
 						<a href="{{ .Permalink | safeURL}}" class="btn btn-main">{{ i18n "read_more"}}</a>						
@@ -28,7 +29,8 @@
 				{{ range last 3 (.Paginator 6).Pages }}
 				<div class="col-md-4">
 					<article class="blog-post">
-						<img src="{{ .Params.Icon | relURL}}" class="img-responsive" alt="post-thumb">
+						<!-- <img src="{{ .Params.Icon | relURL}}" class="img-responsive" alt="post-thumb"> -->
+						<img src="{{ .Params.Icon | relURL}}" class="img-fluid" height="100px" alt="post-thumb">
 						<a class="post-title" href="{{ .Permalink | safeURL }}">{{ .Title }}</a>
 						<p>{{ .Description }}</p>
 						<a href="{{ .Permalink | safeURL}}" class="btn btn-main">{{ i18n "read_more"}}</a>						

@@ -3,7 +3,7 @@ title = "Assistance on mobility studies"
 weight = 5
 type = "services"
 description = "OpenDC supports your team on advanced mobility studies, pedestrian and transport modelling projects."
-icon = "/img/services/icon_s05.png"
+icon = "/img/services/icon_s05.svg"
 image = "/img/services/image_s05.svg"
 translationKey = "service_05"
 +++

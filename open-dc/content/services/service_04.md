@@ -3,7 +3,7 @@ title = "Process automation"
 weight = 4
 type = "services"
 description = "OpenDC helps you develop tools to automate your repeated tasks."
-icon = "/img/services/icon_s04.png"
+icon = "/img/services/icon_s04.svg"
 image = "/img/services/image_s04.svg"
 translationKey = "service_04"
 +++

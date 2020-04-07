@@ -26,7 +26,7 @@
 				{{ range first 3 $paginator.Pages}}
 					<div class="col-12 col-sm-4 col-md-4">
 						<div class="service-item">
-							<a href="{{ .Permalink}}" ><img src="{{ .Params.Icon | relURL}}" ></a>
+							<a href="{{ .Permalink}}" ><img src="{{ .Params.Icon | relURL}}" height="100px"></a>
 							<a href="{{ .Permalink}}" ><h4>{{ .Title }}</h4></a>						
 							<p>{{ .Description }}</p>
 						</div>
@@ -39,7 +39,7 @@
 				{{ range last 3 $paginator.Pages}}
 					<div class="col-12 col-sm-4 col-md-4">
 						<div class="service-item">
-							<a href="{{ .Permalink}}" ><img src="{{ .Params.Icon | relURL}}" ></a>
+							<a href="{{ .Permalink}}" ><img src="{{ .Params.Icon | relURL}}" height="100px" ></a>
 							<a href="{{ .Permalink}}" ><h4>{{ .Title }}</h4></a>						
 							<p>{{ .Description }}</p>
 						</div>

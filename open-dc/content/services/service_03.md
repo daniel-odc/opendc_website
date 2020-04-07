@@ -3,7 +3,7 @@ title = "QGIS Plugin Development"
 weight = 3
 type = "services"
 description = "We develop custom advanced GIS plugins under the QGIS API."
-icon = "/img/services/icon_s03.png"
+icon = "/img/services/icon_s03.svg"
 image = "/img/services/image_s03.svg"
 translationKey = "service_03"
 +++

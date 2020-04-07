@@ -3,7 +3,7 @@ title = "Automatisation de process"
 weight = 4
 type = "services"
 description = "Nous vous aidons à automatiser vos tâches répétitives."
-icon = "/img/services/icon_s04.png"
+icon = "/img/services/icon_s04.svg"
 image = "/img/services/image_s04.svg"
 translationKey = "service_04"
 +++

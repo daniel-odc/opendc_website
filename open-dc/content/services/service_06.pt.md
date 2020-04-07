@@ -3,7 +3,7 @@ title = "Conselhos acerca do uso de dados telefónicos ou de GPS"
 weight = 6
 type = "services"
 description = "Podemos ajudá-lo a entender as vantagens e limitações no uso de tecnologias de telemóvel para a análise dos padrões de movimento das pessoas."
-icon = "/img/services/icon_s06.png"
+icon = "/img/services/icon_s06.svg"
 image = "/img/services/image_s06.svg"
 translationKey = "service_06"
 +++

@@ -3,7 +3,7 @@ title = "Análise de Open Datasets"
 weight = 1
 type = "services"
 description = "A OpenDC ajuda-o a encontrar, descarregar, analisar e visualizar conjuntos de dados em formato open data."
-icon = "/img/services/icon_s01.png"
+icon = "/img/services/icon_s01.svg"
 image = "/img/services/image_s01.svg"
 translationKey = "service_01"
 +++

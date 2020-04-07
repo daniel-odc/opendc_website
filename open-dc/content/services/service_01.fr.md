@@ -3,7 +3,7 @@ title = "Analyse de jeux de données ouvertes"
 weight = 1
 type = "services"
 description = "OpenDC vous aide à trouver, charger, analyser et visualiser des jeux de données ouvertes."
-icon = "/img/services/icon_s01.png"
+icon = "/img/services/icon_s01.svg"
 image = "/img/services/image_s01.svg"
 translationKey = "service_01"
 +++

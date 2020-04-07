@@ -3,7 +3,7 @@ title = "Advice on the use of mobile phone and GPS data"
 weight = 6
 type = "services"
 description = "We can help you understand the strengths and limitations of the use of mobile phone technologies in the analysis of the patterns of people movement."
-icon = "/img/services/icon_s06.png"
+icon = "/img/services/icon_s06.svg"
 image = "/img/services/image_s06.svg"
 translationKey = "service_06"
 +++

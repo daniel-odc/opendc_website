@@ -3,7 +3,7 @@ title = "Cartographie et autres visualisations"
 weight = 2
 type = "services"
 description = "Nous produisons des cartes communicatives et utilisons des outils SIG afin de mieux comprendre la donnée."
-icon = "/img/services/icon_s02.png"
+icon = "/img/services/icon_s02.svg"
 image = "/img/services/image_s02.svg"
 translationKey = "service_02"
 +++
