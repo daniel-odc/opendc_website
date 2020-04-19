@@ -311,13 +311,13 @@
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="/fr/categories/"
+                hreflang="en"
+                href="/categories/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="/categories/"
+                hreflang="fr"
+                href="/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -464,13 +464,13 @@
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="/fr/tags/"
+                hreflang="en"
+                href="/tags/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="/tags/"
+                hreflang="fr"
+                href="/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
