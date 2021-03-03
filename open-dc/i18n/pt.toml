@@ -75,7 +75,7 @@ other = "Ver todos os serviços"
 
 # Company registration
 [is_registered]			
-other = " é uma companhia limitada registada em "
+other = " é uma empresa privada registada em "
 
 [with_company_number]
 other = " com número de companhia"

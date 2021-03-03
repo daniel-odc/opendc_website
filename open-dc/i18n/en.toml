@@ -76,7 +76,7 @@ other = "View all services"
 
 # Company registration
 [is_registered]			
-other = " is a limited company registered in "
+other = " is a company registered in "
 
 [with_company_number]
 other = " with company number "

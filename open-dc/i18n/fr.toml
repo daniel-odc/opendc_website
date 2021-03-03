@@ -75,7 +75,7 @@ other = "Services détaillés"
 			
 # Company registration
 [is_registered]			
-other = " est une Limited Company de droit anglais déclarée au  "
+other = " est une SAS déclarée en  "
 
 [with_company_number]
 other = " avec numéro d'inscription "
