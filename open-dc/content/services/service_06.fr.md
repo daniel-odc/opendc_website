@@ -1,5 +1,5 @@
 +++
-title = "Conseil sur l'utilisation de données mobiles, GSM et GPS"
+title = "Analyses de données mobiles, GSM et GPS"
 weight = 6
 type = "services"
 description = "Nous vous aidons à comprendre les atouts et faiblesses de l'usage des données mobiles pour l'analyse des flux de déplacements."

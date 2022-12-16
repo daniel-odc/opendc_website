@@ -1,6 +1,6 @@
 +++
 title = "Données de téléphonie mobiles"
-weight = 86
+weight = 84
 description = "Utilisation de données mobiles pour l'analyse de la mobilité en Région Sud Provence Alpes Côte d'Azur"
 icon = "/img/work/icon_w86.png"
 # image = "/img/work/image_w86.png"
@@ -24,7 +24,7 @@ translationKey = "work_86"
 	<div class="col-sm-3"><h5>Partenaires :</h4></div>
 	<!--  <div class="col-sm-3"> <h5><a href = "http://www.cdvia.fr/" target="_blank">CDVIA</a> </h4> </div>-->
 	<div class="col-sm-3"><a href = "https://www.orange-business.com/en" target="_blank"/> <img src="/img/clients/icon_orange.svg" width="96px"/></a></div>
-	<div class="col-sm-3"><a href = "http://www.cdvia.fr/" target="_blank"/> <img src="/img/clients/icon_cdvia.svg" width="48px"/></a></div>
+	<div class="col-sm-3"><a href = "http://www.cdvia.fr/" target="_blank"/> <img src="/img/clients/icon_cdvia.svg" height="50px"/></a></div>
 </div>	
 
 <!-- Sector -->

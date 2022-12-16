@@ -1,5 +1,5 @@
 +++
-title = "Conselhos acerca do uso de dados telefónicos ou de GPS"
+title = "Análisa de dados telefónicos ou de GPS"
 weight = 6
 type = "services"
 description = "Podemos ajudá-lo a entender as vantagens e limitações no uso de tecnologias de telemóvel para a análise dos padrões de movimento das pessoas."

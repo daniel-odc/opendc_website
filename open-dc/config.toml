@@ -135,16 +135,16 @@ theme = "airspace"
 				title = "Tools title in config.toml."
 				subtitle = "Tools sub in config.toml"
 				tool_01_name = "QGIS"
-				tool_01_icon = "/img/tools/icon_t01.png" 
+				tool_01_icon = "/img/tools/icon_t01.svg"
 				tool_01_url = "https://qgis.org/en/site/"
 
 				tool_02_name = "Python"
-				tool_02_icon = "/img/tools/icon_t02.png" 
+				tool_02_icon = "/img/tools/icon_t02.svg"
 				tool_02_url = "https://www.python.org/"
 
-				tool_03_name = "Postgres"
-				tool_03_icon = "/img/tools/icon_t03.png" 
-				tool_03_url = "https://www.postgresql.org/"
+				tool_03_name = "React"
+				tool_03_icon = "/img/tools/icon_t03.svg"
+				tool_03_url = "https://reactjs.org/"
 
 				[Languages.en.params.contact]
 				enable = true #true
@@ -279,16 +279,16 @@ theme = "airspace"
 				title = "Tools title in config.toml."
 				subtitle = "Tools sub in config.toml"
 				tool_01_name = "QGIS"
-				tool_01_icon = "/img/tools/icon_t01.png" 
+				tool_01_icon = "/img/tools/icon_t01.svg"
 				tool_01_url = "https://qgis.org/en/site/"
 
 				tool_02_name = "Python"
-				tool_02_icon = "/img/tools/icon_t02.png" 
+				tool_02_icon = "/img/tools/icon_t02.svg"
 				tool_02_url = "https://www.python.org/"
 
-				tool_03_name = "Postgres"
-				tool_03_icon = "/img/tools/icon_t03.png" 
-				tool_03_url = "https://www.postgresql.org/"
+				tool_03_name = "React"
+				tool_03_icon = "/img/tools/icon_t03.svg"
+				tool_03_url = "https://reactjs.org/"
 
 				[Languages.fr.params.contact]
 				enable = true #true
@@ -412,16 +412,16 @@ theme = "airspace"
 				title = "Tools title in config.toml."
 				subtitle = "Tools sub in config.toml"
 				tool_01_name = "QGIS"
-				tool_01_icon = "/img/tools/icon_t01.png" 
+				tool_01_icon = "/img/tools/icon_t01.svg"
 				tool_01_url = "https://qgis.org/en/site/"
 
 				tool_02_name = "Python"
-				tool_02_icon = "/img/tools/icon_t02.png" 
+				tool_02_icon = "/img/tools/icon_t02.svg"
 				tool_02_url = "https://www.python.org/"
 
-				tool_03_name = "Postgres"
-				tool_03_icon = "/img/tools/icon_t03.png" 
-				tool_03_url = "https://www.postgresql.org/"
+				tool_03_name = "React"
+				tool_03_icon = "/img/tools/icon_t03.svg"
+				tool_03_url = "https://reactjs.org/"
 
 				[Languages.pt.params.contact]
 				enable = true #true

@@ -1,6 +1,6 @@
 +++
 title = "Mobility analysis with mobile phone data"
-weight = 86
+weight = 84
 description = "Mobility analysis with mobile phone data in the South-East region of France"
 icon = "/img/work/icon_w86.png"
 image = "/img/work/image_w86.jpeg"
@@ -20,15 +20,15 @@ translationKey = "work_86"
 
 <!-- Partner -->
 <div class="row">
-	<div class="col-sm-3"><h5>Partners:</h4></div>
+	<div class="col-sm-3"><h4>Partners:</h4></div>
 	<!--  <div class="col-sm-3"> <h5><a href = "http://www.cdvia.fr/" target="_blank">CDVIA</a> </h4> </div>-->
 	<div class="col-sm-3"><a href = "https://www.orange-business.com/en" target="_blank"/> <img src="/img/clients/icon_orange.svg" width="96px"/></a></div>
-	<div class="col-sm-3"><a href = "http://www.cdvia.fr/" target="_blank"/> <img src="/img/clients/icon_cdvia.svg" width="48px"/></a></div>
+	<div class="col-sm-3"><a href = "http://www.cdvia.fr/" target="_blank"/> <img src="/img/clients/icon_cdvia.svg" height="50px"/></a></div>
 </div>	
 
 <!-- Sector -->
 <div class="row">
-	<div class="col-sm-3"><h5>Sector:</h4></div>
+	<div class="col-sm-3"><h4>Sector:</h4></div>
 	<div class="col-sm-3"> <h5>Mobile data analysis</div>
 	<div class="col-sm-3"></div>
 </div>	

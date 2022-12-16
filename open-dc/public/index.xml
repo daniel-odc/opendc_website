@@ -72,6 +72,15 @@ How this service can help your organisation OpenDC can assist you with GPS and m
     </item>
     
     <item>
+      <title>Data collection web app</title>
+      <link>/work/work_85/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/work/work_85/</guid>
+      <description>Client: Eiffage  --   --  Webapp link: my-places.app   Sector: Web development   The context:  The need for centralised on-site data collection is found in every sector. Tools such as Google Maps or Mapstr can help but they do not provide a dedicate database for your organisation and team. This tool is a free web app, mobile friendly and password protected that enable you to store and comment all your favourite places, without sharing them widely on the web.</description>
+    </item>
+    
+    <item>
       <title>Mobile phone data analysis</title>
       <link>/work/work_86/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -158,7 +167,7 @@ How this service can help your organisation OpenDC can assist you with GPS and m
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/about/about/</guid>
-      <description>OpenDC has been founded in 2019 by Daniel Marin, engineer from ENSTA ParisTech (France) and INSTN CEA Saclay.  Daniel has over 10 years experience in mathematical modelling for transportation, mobility and pedestrian studies and data analysis, and can work with full proficiency in an English, French or Portuguese speaking environment.  Currently, OpenDC is a company providing contracting work for consultancies and public bodies. OpenDC has also a network of companies specialized in pedestrian and transport modelling and ready to partner if a project requires large teams.</description>
+      <description>OpenDC has been founded in 2019 by Daniel Marin, engineer from ENSTA ParisTech (France) and INSTN CEA Saclay.  Daniel has over 10 years experience in mathematical modelling for transportation, mobility and pedestrian studies and data analysis, and can work with full proficiency in an English, French or Portuguese speaking environment.  Currently, OpenDC is a company providing contracting work for consultancies and public bodies. OpenDC has also a network of companies specialized in data analysis, pedestrian and transport modelling and ready to partner if a project requires large teams.</description>
     </item>
     
   </channel>

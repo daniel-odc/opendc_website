@@ -117,6 +117,25 @@
   </url>
   
   <url>
+    <loc>/fr/work/work_85/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/work/work_85/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="/pt/work/work_85/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/work/work_85/"
+                />
+  </url>
+  
+  <url>
     <loc>/fr/work/work_86/</loc>
     <xhtml:link
                 rel="alternate"
@@ -292,13 +311,13 @@
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="pt"
-                href="/pt/categories/"
+                hreflang="en"
+                href="/categories/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="/categories/"
+                hreflang="pt"
+                href="/pt/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -445,13 +464,13 @@
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="pt"
-                href="/pt/tags/"
+                hreflang="en"
+                href="/tags/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="/tags/"
+                hreflang="pt"
+                href="/pt/tags/"
                 />
     <xhtml:link
                 rel="alternate"

@@ -1,7 +1,7 @@
 +++
 title = "Accessibilité multimodale"
 weight = 88
-description = "Accessibilité multimode à un site de 800 employés"
+description = "Accessibilité multimode à un site de 1000 employés"
 icon = "/img/work/icon_w88.png"
 image = "/img/work/image_w88.png"
 logo_client = "/img/clients/icon_cd94.png"
@@ -18,21 +18,21 @@ translationKey = "work_88"
 
 <!-- Partner -->
 <div class="row">
-	<div class="col-sm-3"><h5>Partenaire :</h4></div>
+	<div class="col-sm-3"><h4>Partenaire :</h4></div>
 	<!--  <div class="col-sm-3"> <h5><a href = "http://www.cdvia.fr/" target="_blank">CDVIA</a> </h4> </div>-->
-	<div class="col-sm-3"><a href = "http://www.cdvia.fr/" target="_blank"/> <img src="/img/clients/icon_cdvia.svg" width="48px"/></a></div>
+	<div class="col-sm-3"><a href = "http://www.cdvia.fr/" target="_blank"/> <img src="/img/clients/icon_cdvia.svg" height="50px"/></a></div>
 </div>	
 
 <!-- Sector -->
 <div class="row">
-	<div class="col-sm-3"><h5>Secteur:</h4></div>
+	<div class="col-sm-3"><h4>Secteur:</h4></div>
 	<div class="col-sm-3"> <h5>Études de mobilité</div>
 	<div class="col-sm-3"></div>
 </div>	
 
 <h4>Le contexte :</h4> 
 <p>
-800 employés de notre client travaillent sur différents sites de la région parisienne. La plupart d’entre eux se rendent sur leur lieu de travail en voiture. Notre client s’interroge sur la pertinence de centraliser les différents sites en un seul. Ils souhaitent connaitre l’impact de ce changement sur les temps de parcours des trajets domicile-travail de leurs employés, ainsi que les potentiels basculements modaux qui pourraient en découler.
+1000 employés de notre client travaillent sur différents sites de la région parisienne. La plupart d’entre eux se rendent sur leur lieu de travail en voiture. Notre client s’interroge sur la pertinence de centraliser les différents sites en un seul. Ils souhaitent connaitre l’impact de ce changement sur les temps de parcours des trajets domicile-travail de leurs employés, ainsi que les potentiels basculements modaux qui pourraient en découler.
 </p>
 
 <h4>Notre apport :</h4>

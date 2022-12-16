@@ -20,9 +20,9 @@ translationKey = "work_90"
 
 <!-- Partner -->
 <div class="row">
-	<div class="col-sm-3"><h5>Partenaire :</h4></div>
+	<div class="col-sm-3"><h4>Partenaire :</h4></div>
 	<!--  <div class="col-sm-3"> <h5><a href = "http://www.cdvia.fr/" target="_blank">CDVIA</a> </h4> </div>-->
-	<div class="col-sm-3"><a href = "http://www.cdvia.fr/" target="_blank"/> <img src="/img/clients/icon_cdvia.svg" width="48px"/></a></div>
+	<div class="col-sm-3"><a href = "http://www.cdvia.fr/" target="_blank"/> <img src="/img/clients/icon_cdvia.svg" height="50px"/></a></div>
 </div>	
 
 <!-- Sector -->

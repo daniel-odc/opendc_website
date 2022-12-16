@@ -27,14 +27,14 @@ translationKey = "work_85"
 
 <!-- Sector -->
 <div class="row">
-	<div class="col-sm-3"><h5>Secteur:</h4></div>
+	<div class="col-sm-3"><h4>Secteur:</h4></div>
 	<div class="col-sm-3"> <h5>Développement Web</div>
 	<div class="col-sm-3"></div>
 </div>	
 
 <h4>Le contexte:</h4> 
 <p>
-Le besoin de collecte de données terrain géolocalisées se trouve dans tous les secteurs. Des outils gratuits tels que Google Maps ou Mapstr permettent cette collecte dans une certaine mesure mais ne fournissent pas de base de donnée dédiée à leurs clients et utilisateurs. Cet outil OpenDC est une application web gratuite vous permettant de recenser et commenter vos endroits favoris, sans avoir à les partager de manière incontrôlée sur le web.
+Le besoin de collecte de données terrain géolocalisées se trouve dans tous les secteurs. Des outils gratuits tels que Google Maps ou Mapstr permettent cette collecte dans une certaine mesure mais ne fournissent pas de base de données dédiée à leurs clients et utilisateurs. Cet outil OpenDC est une application web gratuite vous permettant de recenser et commenter vos endroits favoris, sans avoir à les partager de manière incontrôlée sur le web.
 </p>
 
 <h4>Notre apport:</h4>
@@ -45,4 +45,5 @@ Nous avons développé la partie backend en utilisant Python et Flask, le front 
 <h4>Les bénéfices pour nos clients:</h4>
 <p>
 Cette application web gratuite permet à nos clients de s'inspirer de façon ludique pour éventuellement créer des applications similaires adaptées à leurs besoins.
+Elle est disponible ici: <a href = "https://my-places.app" target="_blank"/>my-places.app</a>
 </p>

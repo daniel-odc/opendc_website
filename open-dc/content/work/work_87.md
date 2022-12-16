@@ -20,7 +20,7 @@ translationKey = "work_87"
 
 <!-- Partner -->
 <div class="row">
-	<div class="col-sm-3"><h5>Partners:</h4></div>
+	<div class="col-sm-3"><h4>Partners:</h4></div>
 	<!--  <div class="col-sm-3"> <h5><a href = "http://www.cdvia.fr/" target="_blank">CDVIA</a> </h4> </div>-->
 	<div class="col-sm-3"><a href = "http://www.cpmsgroup.com/" target="_blank"/> <img src="/img/clients/icon_cpms.svg" width="96px"/></a></div>
 	<div class="col-sm-3"><a href = "https://www.ey.com/en_uk" target="_blank"/> <img src="/img/clients/icon_ey.svg" width="96px"/></a></div>
@@ -28,7 +28,7 @@ translationKey = "work_87"
 
 <!-- Sector -->
 <div class="row">
-	<div class="col-sm-3"><h5>Sector:</h4></div>
+	<div class="col-sm-3"><h4>Sector:</h4></div>
 	<div class="col-sm-3"> <h5>GIS processing and data analysis</div>
 	<div class="col-sm-3"></div>
 </div>	

@@ -18,7 +18,7 @@
 						<img src="{{ .Params.Icon | relURL}}" class="img-fluid" alt="post-thumb" width="75%" >
 						<a class="post-title" href="{{ .Permalink | safeURL }}">{{ .Title }}</a>
 						<p>{{ .Description }}</p>
-						<a href="{{ .Permalink | safeURL}}" class="btn btn-main">{{ i18n "read_more"}}</a>						
+						<a href="{{ .Permalink | safeURL}}" class="btn btn-main">{{ i18n "read_more"}}</a>
 					</article>
 				</div>
 				{{ end }}			

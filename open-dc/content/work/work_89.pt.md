@@ -27,7 +27,7 @@ translationKey = "work_89"
 
 <!-- Sector -->
 <div class="row">
-	<div class="col-sm-3"><h5>Sector:</h4></div>
+	<div class="col-sm-3"><h4>Sector:</h4></div>
 	<div class="col-sm-3"> <h5>Data visualisation and process automation.</div>
 	<div class="col-sm-3"></div>
 </div>	

@@ -1,5 +1,5 @@
 +++
-title = "Advice on the use of mobile phone and GPS data"
+title = "Mobile phone and GPS data analysis"
 weight = 6
 type = "services"
 description = "We can help you understand the strengths and limitations of the use of mobile phone technologies in the analysis of the patterns of people movement."
