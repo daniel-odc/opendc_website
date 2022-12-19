@@ -101,13 +101,13 @@
     <loc>/pt/services/service_06/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="/services/service_06/"
+                hreflang="fr"
+                href="/fr/services/service_06/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="/fr/services/service_06/"
+                hreflang="en"
+                href="/services/service_06/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -117,21 +117,59 @@
   </url>
   
   <url>
-    <loc>/pt/work/work_85/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/work/work_85/"
-                />
+    <loc>/pt/work/work_79/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/work/work_85/"
+                href="/fr/work/work_79/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/work/work_79/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="/pt/work/work_85/"
+                href="/pt/work/work_79/"
+                />
+  </url>
+  
+  <url>
+    <loc>/pt/work/work_80/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/work/work_80/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/work/work_80/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="/pt/work/work_80/"
+                />
+  </url>
+  
+  <url>
+    <loc>/pt/work/work_83/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/work/work_83/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/work/work_83/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="/pt/work/work_83/"
                 />
   </url>
   
@@ -151,6 +189,25 @@
                 rel="alternate"
                 hreflang="pt"
                 href="/pt/work/work_86/"
+                />
+  </url>
+  
+  <url>
+    <loc>/pt/work/work_85/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/work/work_85/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/work/work_85/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="/pt/work/work_85/"
                 />
   </url>
   
@@ -231,78 +288,21 @@
   </url>
   
   <url>
-    <loc>/pt/work/work_91/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/work/work_91/"
-                />
+    <loc>/pt/work/work_84/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/work/work_91/"
+                href="/work/work_84/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/work/work_84/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="/pt/work/work_91/"
-                />
-  </url>
-  
-  <url>
-    <loc>/pt/work/work_92/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/work/work_92/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/work/work_92/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="/pt/work/work_92/"
-                />
-  </url>
-  
-  <url>
-    <loc>/pt/work/work_93/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/work/work_93/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/work/work_93/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="/pt/work/work_93/"
-                />
-  </url>
-  
-  <url>
-    <loc>/pt/work/work_94/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/work/work_94/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/work/work_94/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="/pt/work/work_94/"
+                href="/pt/work/work_84/"
                 />
   </url>
   

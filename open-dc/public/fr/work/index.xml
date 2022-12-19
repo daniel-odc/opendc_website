@@ -11,12 +11,33 @@
     
     
     <item>
-      <title>Web app de collecte de données</title>
-      <link>/fr/work/work_85/</link>
+      <title>Bilan carbone mobilités professionnelles</title>
+      <link>/fr/work/work_79/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/fr/work/work_85/</guid>
-      <description>Client: Eiffage  --   --  Webapp link: my-places.app   Secteur: Développement Web   Le contexte:  Le besoin de collecte de données terrain géolocalisées se trouve dans tous les secteurs. Des outils gratuits tels que Google Maps ou Mapstr permettent cette collecte dans une certaine mesure mais ne fournissent pas de base de donnée dédiée à leurs clients et utilisateurs. Cet outil OpenDC est une application web gratuite vous permettant de recenser et commenter vos endroits favoris, sans avoir à les partager de manière incontrôlée sur le web.</description>
+      <guid>/fr/work/work_79/</guid>
+      <description>Client:   Partenaires: -  Secteur: Développement web   Le contexte : 
+Les émissions de gaz à effet de serre liées aux transports représentaient 31% des émissions en France en 2019, dont la quasi-totalité provient du transport routier. Comprendre ces déplacements (origine et destination du trajet de bout en bout, mode de transport (voiture, métro etc.) emprunté, régularité, motif etc.) permettrait d’aider à prendre les mesures nécessaires afin de baisser ces émissions sur un territoire donné.</description>
+    </item>
+    
+    <item>
+      <title>Analyse de données GPS</title>
+      <link>/fr/work/work_80/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/fr/work/work_80/</guid>
+      <description>Client:   Partenaires:   Secteur: Analyse de données mobiles   Le contexte : 
+La donnée GPS est aujourd’hui disponible à quiconque souhaitant l’acheter, via des revendeurs de données. Cette donnée est extraite de centaines d’applications mobiles partenaires, avec différents types de population cible : achats en ligne, jeux, navigation, réseaux sociaux, météo etc. Notre partenaire et nous étions intéressés de comprendre le potentiel de cette donnée et ses limitations pour son usage dans le contexte d’études de mobilités.</description>
+    </item>
+    
+    <item>
+      <title>Diagnostic des mobilités en Seine-et-Marne</title>
+      <link>/fr/work/work_83/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/fr/work/work_83/</guid>
+      <description>Client:   Partenaires:   Secteur: Analyse de données   Le contexte : 
+Le département de Seine-et-Marne (77) est le plus vaste de la région Île de France, occupant près de la moitié de celle-ci. Son territoire est très hétérogène avec une alternance de zones rurales et zones denses, ainsi que de nombreuses zones connaissant un développement rapide et important (secteurs de Marne-la-Vallée, dont Disney etc.). Les services techniques du Conseil Départemental souhaitent avoir une vision globale des comportements de mobilité sur leur territoire hétérogène ainsi qu’une identification des secteurs ayant des lacunes de transports en commun, tout cela sans avoir à lancer une enquête longue et coûteuse.</description>
     </item>
     
     <item>
@@ -26,6 +47,25 @@
       
       <guid>/fr/work/work_86/</guid>
       <description>Client : Eiffage  --   --  Partenaires : CDVIA  --    Secteur : Analyse de données mobiles   Le contexte :  La Région Sud (Provence Alpes Côte d’Azur), en charge entre autres de l’offre de transport public sur son territoire, souhaite étudier la possibilité d’utiliser des données d’opérateur de téléphonie mobile pour analyser les déplacements de personnes dans le sud-est de la France.</description>
+    </item>
+    
+    <item>
+      <title>Outil de planning NRHS </title>
+      <link>/fr/work/work_84/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/fr/work/work_84/</guid>
+      <description>Client:   Partenaires:   Secteur: Automatisation de process   Le contexte : 
+Notre client (Network Rail High Speed) utilise quotidiennement un outil de planning sur Excel, qui est transformé chaque semaine en fichier PDF et envoyé aux employés sur le terrain pour leur présenter les tâches de la semaine. Le remplissage du fichier de planning et la transformation des informations est un process entièrement manuel, source d’erreurs et chronophage.</description>
+    </item>
+    
+    <item>
+      <title>Web app de collecte de données</title>
+      <link>/fr/work/work_85/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/fr/work/work_85/</guid>
+      <description>Client: Eiffage  --   --  Webapp link: my-places.app   Secteur: Développement Web   Le contexte:  Le besoin de collecte de données terrain géolocalisées se trouve dans tous les secteurs. Des outils gratuits tels que Google Maps ou Mapstr permettent cette collecte dans une certaine mesure mais ne fournissent pas de base de données dédiée à leurs clients et utilisateurs. Cet outil OpenDC est une application web gratuite vous permettant de recenser et commenter vos endroits favoris, sans avoir à les partager de manière incontrôlée sur le web.</description>
     </item>
     
     <item>
@@ -43,7 +83,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/fr/work/work_88/</guid>
-      <description>Client: Confidentiel   --  --  Partenaire : CDVIA  --   Secteur: Études de mobilité   Le contexte :  800 employés de notre client travaillent sur différents sites de la région parisienne. La plupart d’entre eux se rendent sur leur lieu de travail en voiture. Notre client s’interroge sur la pertinence de centraliser les différents sites en un seul. Ils souhaitent connaitre l’impact de ce changement sur les temps de parcours des trajets domicile-travail de leurs employés, ainsi que les potentiels basculements modaux qui pourraient en découler.</description>
+      <description>Client: Confidentiel   --  --  Partenaire : CDVIA  --   Secteur: Études de mobilité   Le contexte :  1000 employés de notre client travaillent sur différents sites de la région parisienne. La plupart d’entre eux se rendent sur leur lieu de travail en voiture. Notre client s’interroge sur la pertinence de centraliser les différents sites en un seul. Ils souhaitent connaitre l’impact de ce changement sur les temps de parcours des trajets domicile-travail de leurs employés, ainsi que les potentiels basculements modaux qui pourraient en découler.</description>
     </item>
     
     <item>
@@ -62,47 +102,6 @@
       
       <guid>/fr/work/work_90/</guid>
       <description>Client: Eiffage  --   --  Partenaire : CDVIA  --   Secteur : Cartographie et automatisation de process   Le contexte :  Notre client Eiffage est en charge des chantiers de construction des stations de la ligne 16 du réseau du Grand Paris Express. Eiffage doit communiquer à son client – Société du Grand Paris (SGP) – le nombre de poids lourds (PL) générés par le projet et empruntant la voirie publique.</description>
-    </item>
-    
-    <item>
-      <title>Logiciel de simulation piétons</title>
-      <link>/fr/work/work_91/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/fr/work/work_91/</guid>
-      <description>Entreprise: Movement Strategies Ltd     Client: Projet interne  --  Secteur: Modélisation de flux piétons   
- Ce que nous avons fait:  Nous avons développé un outil d&amp;rsquo;affectation dynamique de piétons, avec un algorithme issu de la mécanique des fluides. L&amp;rsquo;outil peut affecter un nombre illimité de piétons à n&amp;rsquo;importe quelle échelle et des lois fondamentales de relation flux-densité peuvent y être librement adaptées.</description>
-    </item>
-    
-    <item>
-      <title>Les Bassins de vie du Grand Paris</title>
-      <link>/fr/work/work_92/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/fr/work/work_92/</guid>
-      <description>Entreprise: CDVIA     Client: Agence D&amp;A     Secteur: Urbanisme   
- Ce que nous avons fait:  Nous avons analysé des données de déplacements domicile-travail issues de la base INSEE afin d&amp;rsquo;aider notre client à comprendre comment ces données de mobilité pouvaient faire ressortir des enseignements sur la façon dont les communes franciliennes limitrophes interagissent. Notre client a pu ainsi démontrer que ces interactions peuvent former des périmètres parfois bien différents de ceux constituant la communauté d&amp;rsquo;agglomérations à laquelle les communes étudiées appartiennent.</description>
-    </item>
-    
-    <item>
-      <title>Calculateur de choix modal</title>
-      <link>/fr/work/work_93/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/fr/work/work_93/</guid>
-      <description>Entreprise: CDVIA     Client: Projet interne  --  Secteur: Modélisation des transports   
- Ce que nous avons fait:  Nous avons aidé notre client à développer un outil d&amp;rsquo;affectation en transport en commun (TC), pouvant s&amp;rsquo;interfacer avec leur outil maison d&amp;rsquo;affectation en véhicules particuliers (VP). Nous avons ensuite collecté des données de choix modal agrégées pour des déplacements domicile travail (données INSEE). En utilisant les temps de parcours issus des outils d&amp;rsquo;affectation VP et TC, nous avons développé un modèle simple permettant de déduire une probabilité d&amp;rsquo;utilisation d&amp;rsquo;un mode de transport en fonction de la simple différence de temps de parcours.</description>
-    </item>
-    
-    <item>
-      <title>Analyse de données mobiles</title>
-      <link>/fr/work/work_94/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/fr/work/work_94/</guid>
-      <description>Entreprise: Confidentiel  Client: Confidentiel  Secteur: Analyse de données   
- Ce que nous avons fait:  Notre projet avait pour but de créer des matrices Origines Destinations (OD) à une échelle nationale avec un focus sur la région étudiée en utilisant des données mobiles couplées à des jeux de données externes.
-En temps que membre de l&amp;rsquo;équipe issue d&amp;rsquo;un opérateur de téléphonie mobile dans un projet commun impliquant deux bureaux d&amp;rsquo;études spécialisés en modèles de transports, nous avons encadré l&amp;rsquo;équipe d&amp;rsquo;analystes en charge de la collecte, du filtrage, du redressement et de l&amp;rsquo;analyse de la donnée mobile.</description>
     </item>
     
   </channel>

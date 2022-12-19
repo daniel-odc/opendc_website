@@ -62,7 +62,7 @@ Local council and want to be advised on a mobility study you would like to launc
     </item>
     
     <item>
-      <title>Advice on the use of mobile phone and GPS data</title>
+      <title>Mobile phone and GPS data analysis</title>
       <link>/services/service_06/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -72,12 +72,33 @@ How this service can help your organisation OpenDC can assist you with GPS and m
     </item>
     
     <item>
-      <title>Data collection web app</title>
-      <link>/work/work_85/</link>
+      <title>Commuters carbon emissions</title>
+      <link>/work/work_79/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/work/work_85/</guid>
-      <description>Client: Eiffage  --   --  Webapp link: my-places.app   Sector: Web development   The context:  The need for centralised on-site data collection is found in every sector. Tools such as Google Maps or Mapstr can help but they do not provide a dedicate database for your organisation and team. This tool is a free web app, mobile friendly and password protected that enable you to store and comment all your favourite places, without sharing them widely on the web.</description>
+      <guid>/work/work_79/</guid>
+      <description>Client:   Partners: -  Sector: Web development   The context: 
+The world global warming and current energy crisis are pushing us, people, companies and public bodies to limit our carbon emissions. To do so, we first need to understand their sources before being able to reduce them. In France, 30% of the carbon emissions come from the transport industry. The transport in France has many purposes, the commute being a significant one in terms of volume.</description>
+    </item>
+    
+    <item>
+      <title>GPS data processing</title>
+      <link>/work/work_80/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/work/work_80/</guid>
+      <description>Client:   Partners:   Sector: Mobile data analysis   The context: 
+GPS data is available to any business willing to purchase it through data brokers. This data is collated from hundreds of mobile applications with different attendance types: news, online shopping, socials medias, games, sports etc. Our partner and us were curious to fully understand this data strengths and limitations in the context of mobility studies.</description>
+    </item>
+    
+    <item>
+      <title>Mobility diagnosis in Seine-et-Marne</title>
+      <link>/work/work_83/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/work/work_83/</guid>
+      <description>Client:   Partners:   Sector: Data analysis   The context: 
+The Seine-et-Marne department (77) is the largest department in the Paris region, occupying almost half the area of the full region. It is made of a mix of rural areas as well as dense areas or under heavy development (Marne la Vallée sectors including Disneyland, etc.). The local authority stakeholders wanted to get a global vision of the mobility patterns in this inhomogeneous territory as well as an understanding of its public transportation gaps, without having to run a long and expensive survey.</description>
     </item>
     
     <item>
@@ -87,6 +108,15 @@ How this service can help your organisation OpenDC can assist you with GPS and m
       
       <guid>/work/work_86/</guid>
       <description>Client: Eiffage  --   --  Partners: CDVIA  --    Sector: Mobile data analysis   The context:  The Région Sud, a French public administration in charge (not only) of the public transportation service, wants to investigate the use of mobile network data (MND) to understand the transportation needs and behaviours across the South-East region of France. They launched a public tender in May 2019 on this topic.</description>
+    </item>
+    
+    <item>
+      <title>Data collection web app</title>
+      <link>/work/work_85/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/work/work_85/</guid>
+      <description>Client: Eiffage  --   --  Webapp link: my-places.app   Sector: Web development   The context:  The need for centralised on-site data collection is found in every sector. Tools such as Google Maps or Mapstr can help but they do not provide a dedicate database for your organisation and team. This tool is a free web app, mobile friendly and password protected that enable you to store and comment all your favourite places, without sharing them widely on the web.</description>
     </item>
     
     <item>
@@ -104,7 +134,7 @@ How this service can help your organisation OpenDC can assist you with GPS and m
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/work/work_88/</guid>
-      <description>Client: Confidential   --  --  Partner: CDVIA  --   Sector: Mobility studies   The context:  Our client (a French public administration) has 800 employees working on different sites located in the region of Paris. Most of the employees commute by private vehicle. Our client is looking at the opportunity of using a new single site for all employees. They want to understand the impact of the new site on the employees’ individual travel time and mode share evolution.</description>
+      <description>Client: Confidential   --  --  Partner: CDVIA  --   Sector: Mobility studies   The context:  Our client (a French public administration) has 1000 employees working on different sites located in the region of Paris. Most of the employees commute by private vehicle. Our client is looking at the opportunity of using a new single site for all employees. They want to understand the impact of the new site on the employees’ individual travel time and mode share evolution.</description>
     </item>
     
     <item>
@@ -126,39 +156,13 @@ How this service can help your organisation OpenDC can assist you with GPS and m
     </item>
     
     <item>
-      <title>Pedestrian Modelling Software</title>
-      <link>/work/work_91/</link>
+      <title>NRHS Planning Tool</title>
+      <link>/work/work_84/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/work/work_91/</guid>
-      <description>Company: Movement Strategies Ltd     Client: Internal project   --  Sector: Pedestrian modelling   What we did:  We developed a pedestrian dynamic assignment software, with an assignment algorithm based on fluid mechanics principles. The tool can assign an unlimited number of pedestrians, at any scale and custom flow density relationship can be implemented. How we use open data or software:  The tool was computed as a QGIS plugin, open source software providing an open source API.</description>
-    </item>
-    
-    <item>
-      <title>Life territories analysis</title>
-      <link>/work/work_92/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/work/work_92/</guid>
-      <description>Company: CDVIA     Client: Agence D&amp;A     Sector: Urban planning   What we did:  We created a tool analysing commuting data from the French National Institute of Statistics (INSEE) to help our client understand how commuting data can give insights on how neighbouring cities bound together and define perimeters that can sometimes be at odds with the official administration boundaries. How we use open data or software:  We used French national ordnance survey data from INSEE before it was called open data.</description>
-    </item>
-    
-    <item>
-      <title>Mode Choice Estimator</title>
-      <link>/work/work_93/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/work/work_93/</guid>
-      <description>Company: CDVIA     Client: Internal project   --  Sector: Transport modelling   What we did:  We helped our client build a public transport assignment tool plugged into their in-house private transport assignment tool. We then collected open data of observed mode choice for commute at an aggregate level. Using private and public transportation travel times derived from the assignment tools, we have inferred a simple model giving a mode probability as a function of the difference of travel time between public and private transportation options.</description>
-    </item>
-    
-    <item>
-      <title>Mobile Network Data project</title>
-      <link>/work/work_94/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/work/work_94/</guid>
-      <description>Company: Telefónica UK   -- Confidential  --  Client: Confidential Transport for London (TfL)   --  --  Sector: Data analytics in transport   What we did:  Our project aimed to build Origin-Destination (OD) matrices split by modes in a dense and populated region using mobile network data fused with external datasets. As part of a major telco company, in a joint project involving two transport consultancies, we managed the team of analysts in charge of collecting, cleaning, filtering, scaling and analysing the mobile network data.</description>
+      <guid>/work/work_84/</guid>
+      <description>Client:   Partners:   Sector: Process automation   The context: 
+Our client (Network Rail High Speed) uses on a daily basis a planning Excel spreadsheet that is transformed every week into a PDF tasks schedule file sent to each member of their staff working on field operations. The data input and transformation processes are all manual, error-prone and time consuming. Many hours are lost every week setting up this planning file.</description>
     </item>
     
     <item>

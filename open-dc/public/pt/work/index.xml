@@ -11,12 +11,33 @@
     
     
     <item>
-      <title>Data collection web app</title>
-      <link>/pt/work/work_85/</link>
+      <title>Commuters carbon emissions</title>
+      <link>/pt/work/work_79/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/pt/work/work_85/</guid>
-      <description>Client: Eiffage  --   --  Webapp link: my-places.app   Sector: Web development   The context:  The need for centralised on-site data collection is found in every sector. Tools such as Google Maps or Mapstr can help but they do not provide a dedicate database for your organisation and team. This tool is a free web app, mobile friendly and password protected that enable you to store and comment all your favourite places, without sharing them widely on the web.</description>
+      <guid>/pt/work/work_79/</guid>
+      <description>Client:   Partners: -  Sector: Web development   The context: 
+The world global warming and current energy crisis are pushing us, people, companies and public bodies to limit our carbon emissions. To do so, we first need to understand their sources before being able to reduce them. In France, 30% of the carbon emissions come from the transport industry. The transport in France has many purposes, the commute being a significant one in terms of volume.</description>
+    </item>
+    
+    <item>
+      <title>GPS data processing</title>
+      <link>/pt/work/work_80/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pt/work/work_80/</guid>
+      <description>Client:   Partners:   Sector: Mobile data analysis   The context: 
+GPS data is available to any business willing to purchase it through data brokers. This data is collated from hundreds of mobile applications with different attendance types: news, online shopping, socials medias, games, sports etc. Our partner and us were curious to fully understand this data strengths and limitations in the context of mobility studies.</description>
+    </item>
+    
+    <item>
+      <title>Mobility diagnosis in Seine-et-Marne</title>
+      <link>/pt/work/work_83/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pt/work/work_83/</guid>
+      <description>Client:   Partners:   Sector: Data analysis   The context: 
+The Seine-et-Marne department (77) is the largest department in the Paris region, occupying almost half the area of the full region. It is made of a mix of rural areas as well as dense areas or under heavy development (Marne la Vallée sectors including Disneyland, etc.). The local authority stakeholders wanted to get a global vision of the mobility patterns in this inhomogeneous territory as well as an understanding of its public transportation gaps, without having to run a long and expensive survey.</description>
     </item>
     
     <item>
@@ -29,6 +50,15 @@
     </item>
     
     <item>
+      <title>Data collection web app</title>
+      <link>/pt/work/work_85/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pt/work/work_85/</guid>
+      <description>Client: Eiffage  --   --  Webapp link: my-places.app   Sector: Web development   The context:  The need for centralised on-site data collection is found in every sector. Tools such as Google Maps or Mapstr can help but they do not provide a dedicate database for your organisation and team. This tool is a free web app, mobile friendly and password protected that enable you to store and comment all your favourite places, without sharing them widely on the web.</description>
+    </item>
+    
+    <item>
       <title>Network Rail Data lake</title>
       <link>/pt/work/work_87/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -38,12 +68,12 @@
     </item>
     
     <item>
-      <title>Multimode workplace accessibility</title>
+      <title>Multimode accessibility</title>
       <link>/pt/work/work_88/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/pt/work/work_88/</guid>
-      <description>Client: Confidential    --  --  Partner: CDVIA  --   Sector: Mobility studies   The context:  Our client (a French public administration) has 800 employees working on different sites located in the region of Paris. Most of the employees commute by private vehicle. Our client is looking at the opportunity of using a new single site for all employees. They want to understand the impact of the new site on the employees’ individual travel time and mode share evolution.</description>
+      <description>Client: Confidential   --  --  Partner: CDVIA  --   Sector: Mobility studies   The context:  Our client (a French public administration) has 1000 employees working on different sites located in the region of Paris. Most of the employees commute by private vehicle. Our client is looking at the opportunity of using a new single site for all employees. They want to understand the impact of the new site on the employees’ individual travel time and mode share evolution.</description>
     </item>
     
     <item>
@@ -65,39 +95,13 @@
     </item>
     
     <item>
-      <title>Software de atribuição pedestre SENSE</title>
-      <link>/pt/work/work_91/</link>
+      <title>NRHS Planning Tool</title>
+      <link>/pt/work/work_84/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/pt/work/work_91/</guid>
-      <description>Companhia: Movement Strategies Ltd     Cliente: Projecto Interno   --  Sector: Modelação pedestre   O que fizemos:  Desenvolvemos um software de atribuição dinâmica pedestre, com um algoritmo de atribuição baseado em princípios de Mecânica de Fluidos. A ferramenta pode atribuir um número ilimitado de pedestres, a qualquer escala e é possível implementar uma relação fluxo-densidade personalizada. Como usamos open data e o software:  A ferramenta foi desenvolvida como um QGIS plugin, software open source que providencia uma API open source.</description>
-    </item>
-    
-    <item>
-      <title>Territórios de vida dentro da Grande Paris</title>
-      <link>/pt/work/work_92/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/pt/work/work_92/</guid>
-      <description>Companhia: CDVIA     Cliente: Agence D&amp;A     Sector: Planeamento Urbano   O que fizemos:  Desenvolvemos uma ferramenta analisando dados pendulares do Instituto Nacional de Estatística Francês (INSEE) para ajudar o cliente a entender como é que dados pendulares podem fornecer ideias à cerca da forma como cidades vizinhas estão conectadas e definem perímetros que muitas vezes estão em contradição com as fronteiras oficiais de administração.</description>
-    </item>
-    
-    <item>
-      <title>Estimador de escolha de modos de transporte</title>
-      <link>/pt/work/work_93/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/pt/work/work_93/</guid>
-      <description>Companhia: CDVIA     Cliente: Projecto interno   --  Sector: Modelação de transporte   O que fizemos:  Ajudámos o nosso cliente a desenvolver uma ferramenta pública de atribuição de transportes com conexão à sua pŕopria ferramenta de atribuição privada e in-house. Prosseguimos à recolha de open data do modelo de escolha observado para comutar a um nível agregado. Usando tempos de viagem de transportes públicos e privados deduzidos das ferramentas de atribuição, inferimos um modelo simples que dá a probabilidade de um modo em função da diferença no tempo de viagem entre opções de transporte público e privado.</description>
-    </item>
-    
-    <item>
-      <title>Projecto de Dados de Rede Móvel</title>
-      <link>/pt/work/work_94/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/pt/work/work_94/</guid>
-      <description>Companhia: Telefónica UK   -- Confidencial  --  Cliente: Confidencial Transport for London (TfL)   --  --  Sector: Análise de dados em transporte   O que fizemos:  O nosso projecto visou desenvolver matrizes Origem-Destino (OD) divididas por modos numa região densa e populosa usando dados de redes telefónicas em conjunção com conjuntos de dados externos. Como parte de uma grande empresa de telecomunicações, num projecto conjunto envolvendo duas consultadorias de transporte, gerimos a equipa de analistas responsável pela recolha, limpeza, filtração, escalamento e análise dos dados da rede móvel.</description>
+      <guid>/pt/work/work_84/</guid>
+      <description>Client:   Partners:   Sector: Process automation   The context: 
+Our client (Network Rail High Speed) uses on a daily basis a planning Excel spreadsheet that is transformed every week into a PDF tasks schedule file sent to each member of their staff working on field operations. The data input and transformation processes are all manual, error-prone and time consuming. Many hours are lost every week setting up this planning file.</description>
     </item>
     
   </channel>

@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="description" content="">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+
+
+
+
+
+<link rel="shortcut icon" href="img/favicon.png" type="image/x-icon" />
+
+
+
+<title>Commuters carbon emissions</title>
+
+<meta name="generator" content="Hugo 0.53" />
+
+
+<link rel="stylesheet" href="/css/owl.carousel.css" />
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/font-awesome.min.css" />
+<link rel="stylesheet" href="/css/airspace-local-fonts.css" />
+<link rel="stylesheet" href="/css/airspace.css" />
+<link rel="stylesheet" href="/css/style.css" />
+<link rel="stylesheet" href="/css/ionicons.min.css" />
+<link rel="stylesheet" href="/css/animate.css" />
+<link rel="stylesheet" href="/css/responsive.css" />
+<link rel="stylesheet" href="/css/syntax.css" />
+
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="js/vendor/jquery-1.10.2.min.js"><\/script>')</script>
+<script src="/js/bootstrap.min.js"></script>
+<script src="/js/owl.carousel.min.js"></script>
+<script src="/js/plugins.js"></script>
+<script src="/js/min/waypoints.min.js"></script>
+<script src="/js/jquery.counterup.js"></script>
+
+<script src="js/main.js"></script>
+
+
+
+
+
+</head>
+<body>
+
+	
+<header>
+<div class="container">
+  <div class="row">
+    <div class="col-md-12">
+      
+      <nav class="navbar navbar-default">
+        <div class="container-fluid">
+          
+          <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            </button>
+            
+			<div class="row">
+			
+				<a class="logo" href=""> 
+				  <img src="/img/ODClogo-full.svg" alt="OpenDC Ltd - UK Logo" width="100px"/>
+				</a>
+				
+				
+				  
+				
+				
+				  
+				
+			</div>
+          </div>
+            
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+              <ul class="nav navbar-nav navbar-right">
+                
+				<li><a href="/index.html"><font size="4">Home</font></a></li>
+              
+                <li><a href="/services/index.html"><font size="4">Services</font></a></li>
+              
+                <li><a href="/work/index.html"><font size="4">Work</font></a></li>
+              
+                <li><a href="/about/index.html"><font size="4">About</font></a></li>
+              
+                <li><a href="/contact/index.html"><font size="4">Contact</font></a></li>
+              
+			  
+			  
+			  <span class="text-nowrap"><li style="padding-top:5px;"><i>
+				<a href="/"><font size="4">En</font></a>/<a href="/fr/"><font size="4">Fr</font></a>/<a href="/pt/"><font size="4">Pt</font></a>
+				
+			  </i></li></span>
+			  
+              </ul>
+            </div>
+          </div>
+        </nav>
+      </div>
+    </div>
+  </div>
+</header>
+
+	
+	<div class="post">
+	  
+	  <section class="section" style="border: 1px dotted #ddd;">
+	    <div class="container">
+	      
+		  
+			  <div class="block">
+							<img class="img-fluid" src="/img/work/image_w79.png" width="512px" style="max-width: 90%" alt="post-image"> 
+				<h1>Commuters carbon emissions</h1>
+				<div class="post-info-wrapper">
+				  
+				</div>
+				<hr />
+				<p><!-- Client -->
+
+<div class="row">
+    <div class="col-sm-3"><h4>Client:</h4></div>
+    <div class="col-sm-3"><a href = "https://www.open-dc.com" target="_blank"> <img src="/img/clients/icon_odc_stormy.svg" width="150px"/></a></div>    
+</div>  
+
+<!-- Partner -->
+
+<div class="row">
+    <div class="col-sm-3"><h4>Partners:</h4></div>
+    <div class="col-sm-3">-</div>   
+</div>  
+
+<!-- Sector -->
+
+<div class="row">
+    <div class="col-sm-3"><h4>Sector:</h4></div>
+    <div class="col-sm-3"> <h4>Web development</h4></div>
+    <div class="col-sm-3"></div>
+</div>  
+
+<p><h4>The context:</h4>
+<p></p>
+
+<p>The world global warming and current energy crisis are pushing us, people, companies and public bodies to limit our carbon emissions. To do so, we first need to understand their sources before being able to reduce them. In France, 30% of the carbon emissions come from the transport industry. The transport in France has many purposes, the commute being a significant one in terms of volume. Our chance is that quality data about commuting flows is available as open data. A fusion between commute volume and mode choice data, distance data and average carbon emission per transport mode data would enable us to estimate the carbon emissions of each commute trip in the Paris region and hence of each city.</p>
+
+<p></p></p>
+
+<p><h4>What we did:</h4>
+<p></p>
+
+<p>We have collated and merged three data sources, commuters data from <a href="https://www.insee.fr/fr/statistiques/5395749?sommaire=5395764#consulter" target="_blank" >INSEE</a> and average carbon data from <a href="https://avenirclimatique.org/calculer-empreinte-carbone-trajet/" target="_blank" >ADEME</a> (both open data), and distance data from the <a href="https://developers.google.com/maps/documentation/directions/" target="_blank" >Google Maps Direction API</a>. This merge enabled the (simplified!) calculation of the carbon emission of any city origin-destination couple in the Paris region. Then for each city, we have computed the global average, whether the carbon emissions were made by the city residents or employees (interesting differences show up!).
+We have then developed a React application, available to anyone at <a href="https://mobpro-carbone.com" target="_blank" >mobpro-carbone.com</a> that offers a user-friendly interface enabling the access to all insights from the full dataset.</p>
+
+<p></p></p>
+
+<p><h4>The value for our client:</h4>
+<p>
+The React application has been made freely available to anyone and the methodology is fully documented in the application. This application enables any city of the Paris region to benchmark against other cities in terms of carbon emissions, but also gives the keys to understand the reasons behind a high carbon emission (travel times, number of commuters, mode shares).</p>
+
+<p>More info at <a href="https://mobpro-carbone.com" target="_blank" >mobpro-carbone.com</a>.</p>
+
+<p></p></p>
+</p>
+			  </div>
+	          
+		 
+		
+			<p class="center-text" style="padding: 30px;">
+				
+					<div class="row">
+						
+							<div class="col-xs-6"></div>
+						
+						
+							<div class="col-xs-6"><a class="btn btn-main" href="/work/work_80/">Next</a></div>
+											  
+					</div>
+			</p>
+		</div>
+	  </section>
+	</div>
+
+	
+
+	
+<footer>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="footer-manu">
+          <ul>
+            
+            <li><a href="/index.html">Home</a></li>
+            
+            <li><a href="/about/index.html">About us</a></li>
+            
+            <li><a href="/contact/index.html">Contact us</a></li>
+            
+            <li><a href="/index.html">En</a></li>
+            
+            <li><a href="/fr/index.html">Fr</a></li>
+            
+            <li><a href="/pt/index.html">Pt</a></li>
+            
+          </ul>
+        </div>
+        
+		
+		<p><font size ="1"><i>
+			OpenDC is a company registered in 
+			FRANCE with company number 
+			SIRET 890 110 281 00015. VAT No 
+			FR07890110281
+		</i></p>
+		
+		<p><font size ="1">Copyright - Website created by OpenDC with Hugo static site generator	 and Theme Developed by Themefisher. All rights reserved.</p>
+      </div>
+    </div>
+  </div>
+</footer>
+
+</body>
+</html>

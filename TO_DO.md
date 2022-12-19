@@ -1,0 +1,2 @@
+- Add Skeyes (81) once validated by Andrej
+- fix favicon issue on sub pages
