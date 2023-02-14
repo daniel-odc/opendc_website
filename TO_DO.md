@@ -1,2 +1,2 @@
-- Add Skeyes (81) once validated by Andrej
+- Add Skeyes (81) once validated by Andrej - NO: NOT ALLOWED TO PUBLISH
 - fix favicon issue on sub pages
