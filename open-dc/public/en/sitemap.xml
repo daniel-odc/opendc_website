@@ -155,6 +155,25 @@
   </url>
   
   <url>
+    <loc>/work/work_91/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/work/work_91/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="/pt/work/work_91/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/work/work_91/"
+                />
+  </url>
+  
+  <url>
     <loc>/work/work_83/</loc>
     <xhtml:link
                 rel="alternate"
