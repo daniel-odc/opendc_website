@@ -16,7 +16,7 @@
 
 
 
-<title>Bilan carbone mobilités professionnelles</title>
+<title>Network Rail Intelligent Infrastructure</title>
 
 <meta name="generator" content="Hugo 0.53" />
 
@@ -122,8 +122,8 @@
 	      
 		  
 			  <div class="block">
-							<img class="img-fluid" src="/img/work/image_w79.png" width="512px" style="max-width: 90%" alt="post-image"> 
-				<h1>Bilan carbone mobilités professionnelles</h1>
+							<img class="img-fluid" src="/img/work/image_w78.png" width="512px" style="max-width: 90%" alt="post-image"> 
+				<h1>Network Rail Intelligent Infrastructure</h1>
 				<div class="post-info-wrapper">
 				  
 				</div>
@@ -132,46 +132,45 @@
 
 <div class="row">
     <div class="col-sm-3"><h4>Client:</h4></div>
-    <div class="col-sm-3"><a href = "https://www.open-dc.com" target="_blank"> <img src="/img/clients/icon_odc_stormy.svg" width="150px"/></a></div>    
+    <div class="col-sm-3"><a href = "https://www.networkrail.co.uk/running-the-railway/intelligent-infrastructure/" target="_blank"> <img src="/img/clients/icon_network_rail.svg" width="150px"/></a></div>    
 </div>  
 
 <!-- Partner -->
 
 <div class="row">
     <div class="col-sm-3"><h4>Partenaires:</h4></div>
-    <div class="col-sm-3">-</div>   
-</div>  
+    <div class="col-sm-3"><a href = "https://www.cognizant.com/us/en" target="_blank"/> <img src="/img/clients/icon_cognizant.svg" width="96px"/></a></div> 
+    <div class="col-sm-3"><a href = "https://www.egis-group.com/" target="_blank"/> <img src="/img/clients/icon_egis.svg" width="96px"/></a></div>  
+    
 
+<p></div><br />
 <!-- Sector -->
-
 <div class="row">
     <div class="col-sm-3"><h4>Secteur:</h4></div>
-    <div class="col-sm-3"> <h4>Développement web</h4></div>
+    <div class="col-sm-3"> <h4>Management de la donnée</h4></div>
     <div class="col-sm-3"></div>
-</div>  
+</div></p>
 
-<p><h4>Le contexte :</h4>
+<p><h4>Le contexte:</h4>
 <p></p>
 
-<p>Les émissions de gaz à effet de serre liées aux transports représentaient 31% des émissions en France en 2019, dont la quasi-totalité provient du transport routier. Comprendre ces déplacements (origine et destination du trajet de bout en bout, mode de transport (voiture, métro etc.) emprunté, régularité, motif etc.) permettrait d’aider à prendre les mesures nécessaires afin de baisser ces émissions sur un territoire donné. Le secteur des transport présente de nombreux motifs de déplacements. Parmi eux, le motif domicile-travail (DT) est significatif en termes de volume. Surtout, c’est un type de déplacements pour lequel des données de qualité sont disponibles.
-Une fusion entre les données de déplacements DT par mode de transport, des données de distances de déplacements et des données d’émissions carbone moyennes par km et type de véhicule nous permettrait de calculer le bilan carbone généré par chaque déplacement DT et donc le bilan carbone global de chaque commune, lié aux déplacements DT de ses résidents ou de ses employés.</p>
+<p>Le programme <a href= "https://www.networkrail.co.uk/running-the-railway/intelligent-infrastructure/">Intelligent Infrastructure (II)</a> de Network Rail vise à transformer les données collectées par leurs milliers de capteurs en information pertinente pour aider leurs équipes à évoluer vers une approche pro-active de gestion du réseau ferré. La branche E&amp;P (Electrification and Plant) a réuni notre équipe afin de les aider à construire un outil robuste d’aide à la décision, permettant à leurs équipes d’accéder à la bonne information au bon moment et de fournir ainsi un service de qualité à l’ensemble des usagers du réseau ferré britannique.</p>
 
 <p></p></p>
 
-<p><h4>Notre apport :</h4>
+<p><h4>Notre apport:</h4>
 <p></p>
 
-<p>Nous avons collecté et fusionné trois sources de données : les données de déplacements domicile-travail de l’<a href="https://www.insee.fr/fr/statistiques/5395749?sommaire=5395764#consulter" target="_blank" >INSEE 2018</a>, les données d’émissions carbone moyennes par mode de transport issues de l’<a href="https://avenirclimatique.org/calculer-empreinte-carbone-trajet/" target="_blank" >ADEME</a> (toutes deux en open data), ainsi que les données de distances entre villes issues de l’<a href="https://developers.google.com/maps/documentation/directions/" target="_blank" >API Direction de Google Maps</a>. Cette fusion a permis le calcul (simplifié !) du bilan carbone de chaque couple origine-destination (OD) en région parisienne. L’agrégation des OD a permis le calcul du bilan carbone moyen de chaque ville, qu’il soit lié au déplacement de ses résidents ou de ses employés (les différences sont intéressantes !).
-Nous avons ensuite développé une application web en React (<a href="https://mobpro-carbone.com" target="_blank" >mobpro-carbone.com</a>), permettant à tout utilisateur d’extraire un maximum d’information de ces données fusionnées de façon simple et ergonomique.</p>
+<p>Nous nous sommes familiarisés avec la gestion complexe des bases de données de Network Rail afin de comprendre les sources de données disponibles dans leurs centaines de tables. Nous avons ensuite effectué une analyse rigoureuse de la donnée, en termes de complétion et de qualité.
+En parallèle, nous avons collecté des milliards de mesures de l’état du réseau (rails, caténaires et circuits électriques) et avons implémenté une méthodologie de liaison de cette donnée de mesures aux assets présents dans les bases.
+Nous avons finalement travaillé conjointement avec les équipes de développement de Cognizant pour intégrer cette méthodologie au flux de données de l’outil final d’aide à la décision.</p>
 
 <p></p></p>
 
 <p><h4>Les bénéfices pour notre client :</h4>
 <p></p>
 
-<p>L’application web est accessible gratuitement et la méthodologie de calcul y est documentée de façon exhaustive. Cette application permet à toute ville de région parisienne de voir où elle se situe en comparaison avec les autres villes en termes d’émissions carbone liées à ses déplacements DT. Cette application met également à disposition les données sources de flux, temps de parcours et distances.</p>
-
-<p>Lien vers l’application : <a href="https://mobpro-carbone.com" target="_blank" >mobpro-carbone.com</a>.</p>
+<p>Les compétences techniques de notre équipe et notre façon agile de travailler, avec des réunions quotidiennes de 30 minutes ont permis une compréhension rapide de l’environnement complexe, notamment ses forces, limitations et son plein potentiel. En quelques mois de développement, notre client a pu voir les principales fonctionnalités de l’outil d’aide à la décision et communiquer avec leurs équipe de manière simple et ergonomique, les années de mesures de l’état de leur infrastructure.</p>
 
 <p></p></p>
 </p>
@@ -183,10 +182,10 @@ Nous avons ensuite développé une application web en React (<a href="https://mo
 				
 					<div class="row">
 						
-							<div class="col-xs-6"><a class="btn btn-main" href="/fr/work/work_78/">Précédent</a></div>
+							<div class="col-xs-6"></div>
 						
 						
-							<div class="col-xs-6"><a class="btn btn-main" href="/fr/work/work_80/">Suivant</a></div>
+							<div class="col-xs-6"><a class="btn btn-main" href="/fr/work/work_79/">Suivant</a></div>
 											  
 					</div>
 			</p>
