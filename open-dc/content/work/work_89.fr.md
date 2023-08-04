@@ -2,9 +2,9 @@
 title = "Tableau de bord KPI"
 weight = 89
 description = "Tableau de bord d'accès aux KPI d'une entreprise de l'industrie ferroviaire."
-icon = "/img/work/icon_w89.png"
-image = "/img/work/image_w89.png"
-logo_client = "/img/clients/icon_cpms.png"
+icon = "/img/work/icon_w89.jpg"
+image = "/img/work/image_w89.jpg"
+logo_client = "/img/clients/icon_cpms.jpg"
 # next_page = "/work/work_02.html"
 # prev_page = "/work/work_94.html"
 translationKey = "work_89"
@@ -14,7 +14,7 @@ translationKey = "work_89"
 <div class="row">
 	<div class="col-sm-3"><h4>Client:</h4></div>
 	<!--  <div class="col-sm-3"> <h3><a href = "https://www.eiffage.com/" target="_blank">Eiffage</a> </h3> </div>-->
-	<div class="col-sm-3"><a href = "http://www.cpmsgroup.com/" target="_blank"/> <img src="/img/clients/icon_cpms.svg" width="150px"/></a></div>
+	<div class="col-sm-3"><a href = "http://www.cpmsgroup.com/" target="_blank"> <img src="/img/clients/icon_cpms.svg" width="150px"/></a></div>
 	<!-- <div class="col-sm-3"></div> -->
 </div>	
 
@@ -27,8 +27,8 @@ translationKey = "work_89"
 
 <!-- Sector -->
 <div class="row">
-	<div class="col-sm-3"><h5>Secteur :</h4></div>
-	<div class="col-sm-4"> <h5>Visualisation de données et automatisation de process.</div>
+	<div class="col-sm-3"><h4>Secteur :</h4></div>
+	<div class="col-sm-4"> <h4>Visualisation de données et automatisation de process.</h4></div>
 	<div class="col-sm-3"></div>
 </div>	
 

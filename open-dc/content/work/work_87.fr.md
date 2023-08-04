@@ -1,10 +1,10 @@
 +++
 title = "Data Lake Network Rail"
 weight = 87
-description = "Analyse SIG pour déduire des géolocalisations d'infrastructure ferroviaire"
-icon = "/img/work/icon_w87.png"
-image = "/img/work/image_w87.svg"
-logo_client = "/img/clients/icon_network_rail.png"
+description = "Analyse SIG pour déduire des géolocalisations d'infrastructure ferroviaire."
+icon = "/img/work/icon_w87.jpg"
+image = "/img/work/image_w87.jpg"
+#logo_client = "/img/clients/icon_network_rail.jpg"
 # next_page = "/work/work_02.html"
 # prev_page = "/work/work_94.html"
 translationKey = "work_87"
@@ -13,22 +13,22 @@ translationKey = "work_87"
 <!-- Client -->
 <div class="row">
 	<div class="col-sm-3"><h4>Client:</h4></div>
-	<div class="col-sm-3"><a href = "https://www.networkrail.co.uk/" target="_blank"/> <img src="/img/clients/icon_network_rail.svg" width="150px"/></a></div>
+	<div class="col-sm-3"><a href = "https://www.networkrail.co.uk/" target="_blank"> <img src="/img/clients/icon_network_rail.svg" width="150px"/></a></div>
 	<!-- <div class="col-sm-3"></div> -->
 </div>	
 
 <!-- Partner -->
 <div class="row">
-	<div class="col-sm-3"><h5>Partenaires:</h4></div>
+	<div class="col-sm-3"><h4>Partenaires:</h4></div>
 	<!--  <div class="col-sm-3"> <h5><a href = "http://www.cdvia.fr/" target="_blank">CDVIA</a> </h4> </div>-->
-	<div class="col-sm-3"><a href = "http://www.cpmsgroup.com/" target="_blank"/> <img src="/img/clients/icon_cpms.svg" width="96px"/></a></div>
-	<div class="col-sm-3"><a href = "https://www.ey.com/en_uk" target="_blank"/> <img src="/img/clients/icon_ey.svg" width="96px"/></a></div>
+	<div class="col-sm-3"><a href = "http://www.cpmsgroup.com/" target="_blank"> <img src="/img/clients/icon_cpms.svg" width="96px"/></a></div>
+	<div class="col-sm-3"><a href = "https://www.ey.com/en_uk" target="_blank"> <img src="/img/clients/icon_ey.svg" width="96px"/></a></div>
 </div>	
 
 <!-- Sector -->
 <div class="row">
-	<div class="col-sm-3"><h5>Secteur :</h4></div>
-	<div class="col-sm-3"> <h5>Géoprocessing et analyse de données</div>
+	<div class="col-sm-3"><h4>Secteur :</h4></div>
+	<div class="col-sm-3"> <h4>Géoprocessing et analyse de données</h4></div>
 	<div class="col-sm-3"></div>
 </div>	
 

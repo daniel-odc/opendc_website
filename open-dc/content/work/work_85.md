@@ -1,10 +1,10 @@
 +++
 title = "Data collection web app"
 weight = 85
-description = "Web app for on-site surveys and data collection"
-icon = "/img/work/icon_w85.png"
-image = "/img/work/image_w85.png"
-logo_client = "/img/clients/icon_odc.png"
+description = "Web app for on-site surveys and data collection."
+icon = "/img/work/icon_w85.jpg"
+image = "/img/work/image_w85.jpg"
+logo_client = "/img/clients/icon_odc.jpg"
 # next_page = "/work/work_02.html"
 # prev_page = "/work/work_94.html"
 translationKey = "work_85"
@@ -14,21 +14,20 @@ translationKey = "work_85"
 <div class="row">
 	<div class="col-sm-3"><h4>Client:</h4></div>
 	<!--  <div class="col-sm-3"> <h3><a href = "https://www.eiffage.com/" target="_blank">Eiffage</a> </h3> </div>-->
-	<div class="col-sm-3"><a href = "https://my-places.app" target="_blank"/> <img src="/img/clients/icon_odc.svg" width="150px"/></a></div>
+	<div class="col-sm-3"><a href = "https://my-places.app" target="_blank"> <img src="/img/clients/icon_odc.svg" width="150px"/></a></div>
 	<!-- <div class="col-sm-3"></div> -->
 </div>	
 
 <!-- Link -->
 <div class="row">
-	<div class="col-sm-3"><h5>Webapp link:</h4></div>
-	<div class="col-sm-3"><a href = "https://my-places.app" target="_blank"/>my-places.app</a></div>
-	<div class="col-sm-3"></a></div>
+	<div class="col-sm-3"><h4>Webapp link:</h4></div>
+	<div class="col-sm-3"><a href = "https://my-places.app" target="_blank">my-places.app</a></div>	
 </div>	
 
 <!-- Sector -->
 <div class="row">
 	<div class="col-sm-3"><h4>Sector:</h4></div>
-	<div class="col-sm-3"> <h5>Web development</div>
+	<div class="col-sm-3"> <h4>Web development</h4></div>
 	<div class="col-sm-3"></div>
 </div>	
 

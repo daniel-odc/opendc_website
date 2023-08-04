@@ -2,9 +2,9 @@
 title = "Cartographie Web de flux PL"
 weight = 90
 description = "Cartographie Web de flux poids lourds sur le réseau francilien."
-icon = "/img/work/icon_w90.png"
-image = "/img/work/image_w90.png"
-logo_client = "/img/clients/icon_eiffage.png"
+icon = "/img/work/icon_w90.jpg"
+image = "/img/work/image_w90.jpg"
+logo_client = "/img/clients/icon_eiffage.jpg"
 # next_page = "/work/work_02.html"
 # prev_page = "/work/work_94.html"
 translationKey = "work_90"
@@ -14,7 +14,7 @@ translationKey = "work_90"
 <div class="row">
 	<div class="col-sm-3"><h4>Client:</h4></div>
 	<!--  <div class="col-sm-3"> <h3><a href = "https://www.eiffage.com/" target="_blank">Eiffage</a> </h3> </div>-->
-	<div class="col-sm-3"><a href = "https://www.eiffage.com/" target="_blank"/> <img src="/img/clients/icon_eiffage.svg" width="150px"/></a></div>
+	<div class="col-sm-3"><a href = "https://www.eiffage.com/" target="_blank"> <img src="/img/clients/icon_eiffage.svg" width="150px"/></a></div>
 	<!-- <div class="col-sm-3"></div> -->
 </div>	
 
@@ -22,13 +22,13 @@ translationKey = "work_90"
 <div class="row">
 	<div class="col-sm-3"><h4>Partenaire :</h4></div>
 	<!--  <div class="col-sm-3"> <h5><a href = "http://www.cdvia.fr/" target="_blank">CDVIA</a> </h4> </div>-->
-	<div class="col-sm-3"><a href = "http://www.cdvia.fr/" target="_blank"/> <img src="/img/clients/icon_cdvia.svg" height="50px"/></a></div>
+	<div class="col-sm-3"><a href = "http://www.cdvia.fr/" target="_blank"> <img src="/img/clients/icon_cdvia.svg" height="50px"/></a></div>
 </div>	
 
 <!-- Sector -->
 <div class="row">
-	<div class="col-sm-3"><h5>Secteur :</h4></div>
-	<div class="col-sm-3"> <h5>Cartographie et automatisation de process</div>
+	<div class="col-sm-3"><h4>Secteur :</h4></div>
+	<div class="col-sm-3"> <h4>Cartographie et automatisation de process</h4></div>
 	<div class="col-sm-3"></div>
 </div>	
 

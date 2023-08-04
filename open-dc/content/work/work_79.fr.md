@@ -2,9 +2,9 @@
 title = "Bilan carbone mobilités professionnelles"
 weight = 79
 description = "Calcul et visualisation du bilan carbone des communes d'Île de France, lié à leurs déplacements professionnels."
-icon = "/img/work/icon_w79.png"
-image = "/img/work/image_w79.png"
-logo_client = "/img/clients/icon_odc_stormy.png"
+icon = "/img/work/icon_w79.jpg"
+image = "/img/work/image_w79.jpg"
+logo_client = "/img/clients/icon_odc_stormy.jpg"
 translationKey = "work_79"
 +++
 
@@ -26,6 +26,9 @@ translationKey = "work_79"
 	<div class="col-sm-3"> <h4>Développement web</h4></div>
 	<div class="col-sm-3"></div>
 </div>	
+
+{{<video autoplay="yes" src="/img/work/video_w79.webm" controls="yes">}}<br>
+<br></br>
 
 <h4>Le contexte :</h4> 
 <p>

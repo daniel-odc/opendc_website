@@ -1,10 +1,10 @@
 +++
 title = "KPI Dashboard"
 weight = 89
-description = "Rail company KPI Dashboard"
-icon = "/img/work/icon_w89.png"
-image = "/img/work/image_w89.png"
-logo_client = "/img/clients/icon_cpms.png"
+description = "Rail company KPI Dashboard."
+icon = "/img/work/icon_w89.jpg"
+image = "/img/work/image_w89.jpg"
+#logo_client = "/img/clients/icon_cpms.jpg"
 # next_page = "/work/work_02.html"
 # prev_page = "/work/work_94.html"
 translationKey = "work_89"
@@ -14,21 +14,16 @@ translationKey = "work_89"
 <div class="row">
 	<div class="col-sm-3"><h4>Client:</h4></div>
 	<!--  <div class="col-sm-3"> <h3><a href = "https://www.eiffage.com/" target="_blank">Eiffage</a> </h3> </div>-->
-	<div class="col-sm-3"><a href = "http://www.cpmsgroup.com/" target="_blank"/> <img src="/img/clients/icon_cpms.svg" width="150px"/></a></div>
+	<div class="col-sm-3"><a href = "http://www.cpmsgroup.com/" target="_blank"> <img src="/img/clients/icon_cpms.svg" width="150px"/></a></div>
 	<!-- <div class="col-sm-3"></div> -->
 </div>	
 
 <!-- Partner -->
-<div class="row">
-	<!--  <div class="col-sm-3"><h5>Partners</h4></div>-->
-	<!--  <div class="col-sm-3"> <h5><a href = "http://www.cdvia.fr/" target="_blank">CDVIA</a> </h4> </div>-->
-	<!--  <div class="col-sm-3"><a href = "https://www.ey.com/en_uk" target="_blank"/> <img src="/img/clients/icon_ey.svg" width="96px"/></a></div>-->
-</div>	
 
 <!-- Sector -->
 <div class="row">
 	<div class="col-sm-3"><h4>Sector:</h4></div>
-	<div class="col-sm-3"> <h5>Data visualisation and process automation.</div>
+	<div class="col-sm-3"> <h4>Data visualisation and process automation.</h4></div>
 	<div class="col-sm-3"></div>
 </div>	
 

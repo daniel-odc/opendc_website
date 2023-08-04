@@ -2,8 +2,8 @@
 title = "GPS data processing"
 weight = 80
 description = "GPS data processing at country level, in France and UK."
-icon = "/img/work/icon_w80.png"
-image = "/img/work/image_w80.png"
+icon = "/img/work/icon_w80.jpg"
+image = "/img/work/image_w80.jpg"
 logo_client = "/img/clients/icon_odc_green.svg"
 translationKey = "work_80"
 +++

@@ -2,8 +2,8 @@
 title = "Outil de planning NRHS "
 weight = 84
 description = "Automatisation d'un outil de planning de Network Rail High Speed (Royaume Uni)."
-icon = "/img/work/icon_w84.png"
-image = "/img/work/image_w84.png"
+icon = "/img/work/icon_w84.jpg"
+image = "/img/work/image_w84.jpg"
 logo_client = "/img/clients/icon_network_rail.svg"
 translationKey = "work_84"
 +++
@@ -11,13 +11,13 @@ translationKey = "work_84"
 <!-- Client -->
 <div class="row">
 	<div class="col-sm-3"><h4>Client:</h4></div>
-	<div class="col-sm-3"><a href = "https://www.networkrail.co.uk/running-the-railway/our-routes/network-rail-high-speed/" target="_blank"/> <img src="/img/clients/icon_network_rail.svg" width="150px"/></a></div>	
+	<div class="col-sm-3"><a href = "https://www.networkrail.co.uk/running-the-railway/our-routes/network-rail-high-speed/" target="_blank"> <img src="/img/clients/icon_network_rail.svg" width="150px"/></a></div>	
 </div>	
 
 <!-- Partner -->
 <div class="row">
 	<div class="col-sm-3"><h4>Partenaires:</h4></div>
-	<div class="col-sm-3"><a href = "https://www.egis-group.com/" target="_blank"/> <img src="/img/clients/icon_egis.jpg" width="96px"/></a></div>	
+	<div class="col-sm-3"><a href = "https://www.egis-group.com/" target="_blank"> <img src="/img/clients/icon_egis.svg" width="96px"/></a></div>	
 </div>	
 
 <!-- Sector -->

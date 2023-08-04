@@ -2,9 +2,9 @@
 title = "Pedestrian Modelling Software"
 weight = 81
 description = "Pedestrian assignment software development under open source framework."
-icon = "/img/work/icon_w91.png"
-image = "/img/work/image_w91.png"
-logo_client = "/img/clients/icon_ms.png"
+icon = "/img/work/icon_w91.jpg"
+image = "/img/work/image_w91.jpg"
+logo_client = "/img/clients/icon_ms.jpg"
 # next_page = "/work/work_02.html"
 # prev_page = "/work/work_94.html"
 translationKey = "work_91"
@@ -14,7 +14,7 @@ translationKey = "work_91"
 <div class="row">
 	<div class="col-sm-3"><h4>Company:</h4></div>
 	<div class="col-sm-3"> <h4><a href = "https://movementstrategies.com" target="_blank">Movement Strategies Ltd</a> </h4> </div>
-	<div class="col-sm-3"><a href = "https://movementstrategies.com" target="_blank"/> <img src="/img/clients/icon_ms.svg" width="150px"/></a></div>
+	<div class="col-sm-3"><a href = "https://movementstrategies.com" target="_blank"> <img src="/img/clients/icon_ms.svg" width="150px"/></a></div>
 </div>	
 
 <!-- Client -->
@@ -27,7 +27,7 @@ translationKey = "work_91"
 <!-- Sector -->
 <div class="row">
 	<div class="col-sm-3"><h4>Sector:</h4></div>
-	<div class="col-sm-3"> <h4>Pedestrian modelling</div>
+	<div class="col-sm-3"> <h4>Pedestrian modelling</h4></div>
 	<div class="col-sm-3"></div>
 </div>	
 

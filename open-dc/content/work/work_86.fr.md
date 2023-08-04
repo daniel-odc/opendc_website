@@ -1,11 +1,11 @@
 +++
 title = "Données de téléphonie mobiles"
 weight = 84
-description = "Utilisation de données mobiles pour l'analyse de la mobilité en Région Sud Provence Alpes Côte d'Azur"
-icon = "/img/work/icon_w86.png"
-# image = "/img/work/image_w86.png"
-image = "/img/work/image_w86.jpeg"
-logo_client = "/img/clients/icon_paca.png"
+description = "Utilisation de données mobiles pour l'analyse de la mobilité en Région Sud Provence Alpes Côte d'Azur."
+icon = "/img/work/icon_w86.jpg"
+# image = "/img/work/image_w86.jpg"
+image = "/img/work/image_w86.jpg"
+logo_client = "/img/clients/icon_paca.jpg"
 # next_page = "/work/work_02.html"
 # prev_page = "/work/work_94.html"
 translationKey = "work_86"
@@ -15,7 +15,7 @@ translationKey = "work_86"
 <div class="row">
 	<div class="col-sm-3"><h4>Client :</h4></div>
 	<!--  <div class="col-sm-3"> <h3><a href = "https://www.eiffage.com/" target="_blank">Eiffage</a> </h3> </div>-->
-	<div class="col-sm-3"><a href = "https://www.maregionsud.fr/" target="_blank"/> <img src="/img/clients/icon_paca.svg" width="150px"/></a></div>
+	<div class="col-sm-3"><a href = "https://www.maregionsud.fr/" target="_blank"> <img src="/img/clients/icon_paca.svg" width="150px"/></a></div>
 	<!-- <div class="col-sm-3"></div> -->
 </div>	
 
@@ -23,14 +23,14 @@ translationKey = "work_86"
 <div class="row">
 	<div class="col-sm-3"><h5>Partenaires :</h4></div>
 	<!--  <div class="col-sm-3"> <h5><a href = "http://www.cdvia.fr/" target="_blank">CDVIA</a> </h4> </div>-->
-	<div class="col-sm-3"><a href = "https://www.orange-business.com/en" target="_blank"/> <img src="/img/clients/icon_orange.svg" width="96px"/></a></div>
-	<div class="col-sm-3"><a href = "http://www.cdvia.fr/" target="_blank"/> <img src="/img/clients/icon_cdvia.svg" height="50px"/></a></div>
+	<div class="col-sm-3"><a href = "https://www.orange-business.com/en" target="_blank"> <img src="/img/clients/icon_orange.svg" width="96px"/></a></div>
+	<div class="col-sm-3"><a href = "http://www.cdvia.fr/" target="_blank" <img src="/img/clients/icon_cdvia.svg" height="50px"/></a></div>
 </div>	
 
 <!-- Sector -->
 <div class="row">
-	<div class="col-sm-3"><h5>Secteur :</h4></div>
-	<div class="col-sm-3"> <h5>Analyse de données mobiles</div>
+	<div class="col-sm-3"><h4>Secteur :</h4></div>
+	<div class="col-sm-3"> <h4>Analyse de données mobiles</h4></div>
 	<div class="col-sm-3"></div>
 </div>	
 

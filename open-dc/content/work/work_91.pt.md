@@ -2,9 +2,9 @@
 title = "Software de atribuição pedestre SENSE"
 weight = 81
 description = "Software de atribuição pedestre desenvolvido com base numa framework open source."
-icon = "/img/work/icon_w91.png"
-image = "/img/work/image_w91.png"
-logo_client = "/img/clients/icon_ms.png"
+icon = "/img/work/icon_w91.jpg"
+image = "/img/work/image_w91.jpg"
+logo_client = "/img/clients/icon_ms.jpg"
 # next_page = "/work/work_02.html"
 # prev_page = "/work/work_94.html"
 translationKey = "work_91"

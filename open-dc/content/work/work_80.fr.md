@@ -2,22 +2,22 @@
 title = "Analyse de données GPS"
 weight = 80
 description = "Analyse de donnée GPS brute en France et au Royaume Uni."
-icon = "/img/work/icon_w80.png"
-image = "/img/work/image_w80.png"
-logo_client = "/img/clients/icon_odc_green.png"
+icon = "/img/work/icon_w80.jpg"
+image = "/img/work/image_w80.jpg"
+logo_client = "/img/clients/icon_odc_green.jpg"
 translationKey = "work_80"
 +++
 
 <!-- Client -->
 <div class="row">
 	<div class="col-sm-3"><h4>Client:</h4></div>
-	<div class="col-sm-3"><a href = "https://www.open-dc.com" target="_blank"/> <img src="/img/clients/icon_odc_green.svg" width="150px"/></a></div>	
+	<div class="col-sm-3"><a href = "https://www.open-dc.com" target="_blank"> <img src="/img/clients/icon_odc_green.svg" width="150px"/></a></div>	
 </div>	
 
 <!-- Partner -->
 <div class="row">
 	<div class="col-sm-3"><h4>Partenaires:</h4></div>
-	<div class="col-sm-3"><a href = "https://www.pangandchiu.com/home" target="_blank"/> <img src="/img/clients/icon_pang_and_chiu.svg" height="30px"/></a></div>	
+	<div class="col-sm-3"><a href = "https://www.pangandchiu.com/home" target="_blank"> <img src="/img/clients/icon_pang_and_chiu.svg" height="30px"/></a></div>	
 </div>	
 
 <!-- Sector -->

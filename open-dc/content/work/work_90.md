@@ -2,9 +2,9 @@
 title = "HGV flow web mapping"
 weight = 90
 description = "Web mapping of HGV flows on the roads network."
-icon = "/img/work/icon_w90.png"
-image = "/img/work/image_w90.png"
-logo_client = "/img/clients/icon_eiffage.png"
+icon = "/img/work/icon_w90.jpg"
+image = "/img/work/image_w90.jpg"
+logo_client = "/img/clients/icon_eiffage.jpg"
 # next_page = "/work/work_02.html"
 # prev_page = "/work/work_94.html"
 translationKey = "work_90"
@@ -14,7 +14,7 @@ translationKey = "work_90"
 <div class="row">
 	<div class="col-sm-3"><h4>Client:</h4></div>
 	<!--  <div class="col-sm-3"> <h3><a href = "https://www.eiffage.com/" target="_blank">Eiffage</a> </h3> </div>-->
-	<div class="col-sm-3"><a href = "https://www.eiffage.com/" target="_blank"/> <img src="/img/clients/icon_eiffage.svg" width="150px"/></a></div>
+	<div class="col-sm-3"><a href = "https://www.eiffage.com/" target="_blank"> <img src="/img/clients/icon_eiffage.svg" width="150px"/></a></div>
 	<!-- <div class="col-sm-3"></div> -->
 </div>	
 
@@ -28,7 +28,7 @@ translationKey = "work_90"
 <!-- Sector -->
 <div class="row">
 	<div class="col-sm-3"><h4>Sector:</h4></div>
-	<div class="col-sm-3"> <h5>GIS and process automation</div>
+	<div class="col-sm-3"> <h4>GIS and process automation</h4></div>
 	<div class="col-sm-3"></div>
 </div>	
 

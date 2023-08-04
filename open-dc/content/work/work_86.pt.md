@@ -1,10 +1,10 @@
 +++
-title = "Mobility analysis with mobile phone data"
+title = "Mobile phone data analysis"
 weight = 84
-description = "Mobility analysis with mobile phone data in the South-East region of France"
-icon = "/img/work/icon_w86.png"
-image = "/img/work/image_w86.jpeg"
-logo_client = "/img/clients/icon_paca.png"
+description = "Mobility analysis with mobile phone data in the South-East region of France."
+icon = "/img/work/icon_w86.jpg"
+image = "/img/work/image_w86.jpg"
+logo_client = "/img/clients/icon_paca.jpg"
 # next_page = "/work/work_02.html"
 # prev_page = "/work/work_94.html"
 translationKey = "work_86"

@@ -2,9 +2,9 @@
 title = "Logiciel de simulation piétons"
 weight = 81
 description = "Implémentation d'un logiciel de simulation de flux piétons dans un environnement open source."
-icon = "/img/work/icon_w91.png"
-image = "/img/work/image_w91.png"
-logo_client = "/img/clients/icon_ms.png"
+icon = "/img/work/icon_w91.jpg"
+image = "/img/work/image_w91.jpg"
+logo_client = "/img/clients/icon_ms.jpg"
 # next_page = "/work/work_02.html"
 # prev_page = "/work/work_94.html"
 translationKey = "work_91"
@@ -14,13 +14,13 @@ translationKey = "work_91"
 <div class="row">
 	<div class="col-sm-3"><h4>Entreprise:</h4></div>
 	<div class="col-sm-3"> <h4><a href = "https://movementstrategies.com" target="_blank">Movement Strategies Ltd</a> </h4> </div>
-	<div class="col-sm-3"><a href = "https://movementstrategies.com" target="_blank"/> <img src="/img/clients/icon_ms.svg" width="150px"/></a></div>
+	<div class="col-sm-3"><a href = "https://movementstrategies.com" target="_blank"> <img src="/img/clients/icon_ms.svg" width="150px"/></a></div>
 </div>	
 
 <!-- Client -->
 <div class="row">
 	<div class="col-sm-3"><h4>Client:</h4></div>
-	<div class="col-sm-3"> <h5><i>Projet interne</i></h5></div>
+	<div class="col-sm-3"> <h4><i>Projet interne</i></h4></div>
 	<!-- <div class="col-sm-3"></div> -->
 </div>	
 

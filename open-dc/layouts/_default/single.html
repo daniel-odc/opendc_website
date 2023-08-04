@@ -12,7 +12,21 @@
 	  <section class="section" style="border: 1px dotted #ddd;">
 	    <div class="container">
 	      
-		  
+		  <!-- #### Button to previous and next single page -->
+			<p class="center-text" style="padding: 30px;">
+				<!-- <div class="container-fluid"> -->
+					<div class="row">
+						{{ if .NextInSection }}
+							<div class="col-xs-6"><a class="btn btn-main" href="{{ .NextInSection.Permalink }}">{{ i18n "previous"}}</a></div>
+						{{ else}}
+							<div class="col-xs-6"></div>
+						{{ end }}
+						{{ if .PrevInSection }}
+							<div class="col-xs-6"><a class="btn btn-main" href="{{ .PrevInSection.Permalink }}">{{ i18n "next"}}</a></div>
+						{{ end }}
+					</div>
+			</p>
+
 			  <div class="block">
 							{{ with .Params.Image }}<img class="img-fluid" src="{{ . | absURL }}" width="512px" style="max-width: 90%" alt="post-image"> {{ end }}
 				<h1>{{ .Params.title }}</h1>

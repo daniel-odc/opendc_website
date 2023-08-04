@@ -2,8 +2,8 @@
 title = "Commuters carbon emissions"
 weight = 79
 description = "Visualisation dashboard of commuter flows carbon emission in the Paris Region."
-icon = "/img/work/icon_w79.png"
-image = "/img/work/image_w79.png"
+icon = "/img/work/icon_w79.jpg"
+image = "/img/work/image_w79.jpg"
 logo_client = "/img/clients/icon_odc_stormy.svg"
 translationKey = "work_79"
 +++
@@ -26,6 +26,9 @@ translationKey = "work_79"
 	<div class="col-sm-3"> <h4>Web development</h4></div>
 	<div class="col-sm-3"></div>
 </div>	
+
+{{<video autoplay="yes" src="/img/work/video_w79.webm" controls="yes">}}<br>
+<br></br>
 
 <h4>The context:</h4> 
 <p>

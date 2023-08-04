@@ -2,8 +2,8 @@
 title = "Network Rail Intelligent Infrastructure"
 weight = 78
 description = "Data management of the Electrification & Plant stream."
-icon = "/img/work/icon_w78.png"
-image = "/img/work/image_w78.png"
+icon = "/img/work/icon_w78.jpg"
+image = "/img/work/image_w78.jpg"
 logo_client = "/img/clients/icon_network_rail.svg"
 translationKey = "work_78"
 +++
@@ -17,8 +17,8 @@ translationKey = "work_78"
 <!-- Partner -->
 <div class="row">
 	<div class="col-sm-3"><h4>Partners:</h4></div>
-	<div class="col-sm-3"><a href = "https://www.cognizant.com/us/en" target="_blank"/> <img src="/img/clients/icon_cognizant.svg" width="96px"/></a></div>	
-	<div class="col-sm-3"><a href = "https://www.egis-group.com/" target="_blank"/> <img src="/img/clients/icon_egis.svg" width="96px"/></a></div>	
+	<div class="col-sm-3"><a href = "https://www.cognizant.com/us/en" target="_blank"> <img src="/img/clients/icon_cognizant.svg" width="96px"/></a></div>	
+	<div class="col-sm-3"><a href = "https://www.egis-group.com/" target="_blank"> <img src="/img/clients/icon_egis.svg" width="96px"/></a></div>	
 	
 </div>	 
 <!-- Sector -->

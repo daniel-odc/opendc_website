@@ -2,8 +2,8 @@
 title = "Mobility diagnosis in Seine-et-Marne"
 weight = 83
 description = "Mobility diagnosis in the largest department of the Paris region."
-icon = "/img/work/icon_w83.png"
-image = "/img/work/image_w83.png"
+icon = "/img/work/icon_w83.jpg"
+image = "/img/work/image_w83.jpg"
 logo_client = "/img/clients/icon_cd77.svg"
 translationKey = "work_83"
 +++
@@ -11,13 +11,13 @@ translationKey = "work_83"
 <!-- Client -->
 <div class="row">
 	<div class="col-sm-3"><h4>Client:</h4></div>
-	<div class="col-sm-3"><a href = "https://seine-et-marne.fr/fr" target="_blank"/> <img src="/img/clients/icon_cd77.svg" width="150px"/></a></div>	
+	<div class="col-sm-3"><a href = "https://seine-et-marne.fr/fr" target="_blank"> <img src="/img/clients/icon_cd77.svg" width="150px"/></a></div>	
 </div>	
 
 <!-- Partner -->
 <div class="row">
 	<div class="col-sm-3"><h4>Partners:</h4></div>
-	<div class="col-sm-3"><a href = "https://www.cdvia.fr/accueil" target="_blank"/> <img src="/img/clients/icon_cdvia.svg" height="50px"/></a></div>	
+	<div class="col-sm-3"><a href = "https://www.cdvia.fr/accueil" target="_blank"> <img src="/img/clients/icon_cdvia.svg" height="50px"/></a></div>	
 </div>	
 
 <!-- Sector -->
