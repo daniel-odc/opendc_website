@@ -27,7 +27,7 @@ OpenDC Hugo website update
 > `git commit –m “Comments on changes”`
 > `git push origin master`
 > `cd open-dc`
-> `Hugo`
+> `hugo`
 
 6. Empty the bucket content in [Google Cloud Platform (GCP)](https://console.cloud.google.com/storage/browser/www.open-dc.com;tab=objects?project=open-dc-website&prefix=&forceOnObjectsSortingFiltering=false)
 7. Copy the content of `c:\Users\dmarin\Dropbox\Pro\info\Git\Project_repositories\opendc_website\open-dc\public\` in the GCP bucket
